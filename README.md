@@ -499,3 +499,6 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/293385.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/293386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
 http://conexaoonline.top:80/005279/key5f0e5x0L/293387.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="FILMES MP4",The Sadness
+http://conexaoonline.top/movie/005279/key5f0e5x0L/365070.mp4
