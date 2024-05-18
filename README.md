@@ -311,6 +311,8 @@ https://cdn-3.nxplay.com.br/DREAMWORKS/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
 #EXTINF:-1 group-title="DESENHOS",Gloob
 https://brflu.walk-tv.com/5812/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 group-title="XYZ",Private
