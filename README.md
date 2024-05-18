@@ -315,6 +315,10 @@ https://brflu.walk-tv.com/5812/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL+",Canal 2
+https://akamai.ittv.com.br/NOSSO_FUTEBOL_2/playlist.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL+",Canal 3
+https://akamai.ittv.com.br/NOSSO_FUTEBOL_3/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",DreamSex
