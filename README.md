@@ -183,6 +183,8 @@ https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",FashionTV¹
 https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VARIADOS",TV Brasil
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 group-title="VARIADOS",Viva
 https://brflu.walk-tv.com/5850/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Viva¹
