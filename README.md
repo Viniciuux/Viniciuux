@@ -47,6 +47,12 @@ https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/tracks-v3a1/mono.m3u8
 https://akamai.ittv.com.br/NOSSO_FUTEBOL_2/playlist.m3u8
 #EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 3
 https://akamai.ittv.com.br/NOSSO_FUTEBOL_3/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTE",Band Sports
+https://cdn2.connectbr.com.br/Band-Sports/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTE",Band Sports FHD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 group-title="ESPORTE",Combate
+https://brflu.walk-tv.com/5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -67,6 +73,10 @@ https://brflu.walk-tv.com/5752/playlist.m3u8
 https://brflu.walk-tv.com/5754/playlist.m3u8
 #EXTINF:-1 group-title="GLOBO",Globo Brasilia
 https://brflu.walk-tv.com/5755/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM SD
+https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM HD
+https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Tastemade
@@ -131,8 +141,14 @@ https://cdn2.connectbr.com.br/AE/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",FX
 https://brflu.walk-tv.com/5855/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",AXN FHD
+#EXTINF:-1 group-title="FILMES | SERIES",AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN FHD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-3-main.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-2-main.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN SD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-1-main.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AXN¹
 https://cdn-2.nxplay.com.br/AXN_TK/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AMC Brasil
@@ -141,9 +157,9 @@ https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/playlist.m3u8
 https://cdn-2.nxplay.com.br/SONY_MOVIES/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Movies FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",Sony Channel¹ FHD
+#EXTINF:-1 group-title="FILMES | SERIES",Sony Channel¹
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",Sony Channel
+#EXTINF:-1 group-title="FILMES | SERIES",Sony Channel²
 https://cdn-2.nxplay.com.br/SONY_CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Paramount Network
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
@@ -227,12 +243,6 @@ https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
 https://brflu.walk-tv.com/5816/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime²
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
-#EXTINF:-1 group-title="ESPORTE",Band Sports
-https://cdn2.connectbr.com.br/Band-Sports/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTE",Band Sports FHD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 group-title="ESPORTE",Combate
-https://brflu.walk-tv.com/5865/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Agro+
