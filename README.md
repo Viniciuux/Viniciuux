@@ -152,7 +152,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-1-main.m3u
 #EXTINF:-1 group-title="FILMES | SERIES",AXN¹
 https://cdn-2.nxplay.com.br/AXN_TK/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AMC Brasil
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/playlist.m3u8
+https://cdn-2.nxplay.com.br/AMC_BRASIL_TK/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Movies
 https://cdn-2.nxplay.com.br/SONY_MOVIES/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Movies FHD
