@@ -37,6 +37,16 @@ https://cdn-2.nxplay.com.br/ESPN_3/playlist.m3u8
 https://cdn-2.nxplay.com.br/ESPN_4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/playlist.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1
+https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/playlist.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1 SD
+https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1 HD
+https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 2
+https://akamai.ittv.com.br/NOSSO_FUTEBOL_2/playlist.m3u8
+#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 3
+https://akamai.ittv.com.br/NOSSO_FUTEBOL_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -317,10 +327,6 @@ https://brflu.walk-tv.com/5812/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL+",Canal 2
-https://akamai.ittv.com.br/NOSSO_FUTEBOL_2/playlist.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL+",Canal 3
-https://akamai.ittv.com.br/NOSSO_FUTEBOL_3/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",DreamSex
@@ -507,136 +513,5 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/293385.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/293386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
 http://conexaoonline.top:80/005279/key5f0e5x0L/293387.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FILMES MP4",The Sadness
-http://conexaoonline.top/movie/005279/key5f0e5x0L/365070.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E03" tvg-logo="http://conexaoonline.top:80/images/55f5e63fc66545614eb232af8e0c6862.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E03
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153882.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E04" tvg-logo="http://conexaoonline.top:80/images/18d6779ff93fddffc6f9378cd8176ee8.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E04
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153883.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E05" tvg-logo="http://conexaoonline.top:80/images/f7a612eb582409a855130ecf037d0730.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E05
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153884.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E06" tvg-logo="http://conexaoonline.top:80/images/563c6c8ce7f942bf319de28834505700.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E06
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153885.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E07" tvg-logo="http://conexaoonline.top:80/images/1660e8b28f6026f63fd191b8a32487f1.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E07
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153886.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E08" tvg-logo="http://conexaoonline.top:80/images/a138be7df8989174704fa047f88aa347.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E08
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153887.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E09" tvg-logo="http://conexaoonline.top:80/images/695ee89e26c3ba46e06e126fa10e60bd.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E09
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153888.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E10" tvg-logo="http://conexaoonline.top:80/images/26359e50cb70bf223404b3ac2a211ddf.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E10
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153889.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E11" tvg-logo="http://conexaoonline.top:80/images/ac9b4137cbd1e7acd0bbe592d0747f36.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E11
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153890.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E12" tvg-logo="http://conexaoonline.top:80/images/1c48f60a58f3a1203d281cbd7e8199f7.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E12
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153891.mp4
-#EXTINF:-1 tvg-name="Z Nation S01E13" tvg-logo="http://conexaoonline.top:80/images/7e4c76ee834135cf8065d0e1c6da7fb9.jpg" group-title="SÉRIES | NETFLIX",Z Nation S01E13
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153892.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E01" tvg-logo="http://conexaoonline.top:80/images/79f8f6b85aba867b358e42dac8cbd10f.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E01
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153893.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E02" tvg-logo="http://conexaoonline.top:80/images/f0fd56a5bef35e3db0c28e261350f873.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E02
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153894.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E03" tvg-logo="http://conexaoonline.top:80/images/079a14231eb7edef40418de7b98946a2.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E03
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153895.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E04" tvg-logo="http://conexaoonline.top:80/images/49a0d829c4c337f946de2489ddc0c62f.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E04
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153896.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E05" tvg-logo="http://conexaoonline.top:80/images/3e5fc258a70913982257c2d7c2208cf1.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E05
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153897.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E06" tvg-logo="http://conexaoonline.top:80/images/718ad03f6b032c1a57ddff47a52b2ae8.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E06
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153898.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E07" tvg-logo="http://conexaoonline.top:80/images/7e520f2869aec00623dc07b96e06d56a.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E07
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153899.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E08" tvg-logo="http://conexaoonline.top:80/images/ae0625e94046550a7d6acce06d9fb31b.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E08
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153900.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E09" tvg-logo="http://conexaoonline.top:80/images/1bacdb842777092be12db79d4bec660f.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E09
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153901.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E10" tvg-logo="http://conexaoonline.top:80/images/adecec9de60d174f45312c4dff58af39.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E10
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153902.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E11" tvg-logo="http://conexaoonline.top:80/images/30161ca5206ea759ef14e4cfe7a113e5.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E11
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153903.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E12" tvg-logo="http://conexaoonline.top:80/images/75b689a52f783e9af7910f3401ce4a60.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E12
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153904.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E13" tvg-logo="http://conexaoonline.top:80/images/cedf168230eb142d1fc22a2e486ec17b.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E13
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153905.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E14" tvg-logo="http://conexaoonline.top:80/images/4ff8366ce1cd9377fabe521fcfb999af.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E14
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153906.mp4
-#EXTINF:-1 tvg-name="Z Nation S02E15" tvg-logo="http://conexaoonline.top:80/images/7617d487058052fa0bbaceb1268ab2ad.jpg" group-title="SÉRIES | NETFLIX",Z Nation S02E15
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153907.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E01" tvg-logo="http://conexaoonline.top:80/images/08582918cba3de2dc49cd38826e953ba.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E01
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153908.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E02" tvg-logo="http://conexaoonline.top:80/images/4160f72ca50252b8af06574f70e9a0cc.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E02
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153909.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E03" tvg-logo="http://conexaoonline.top:80/images/f396737298d62c556f9c802b8b766563.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E03
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153910.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E04" tvg-logo="http://conexaoonline.top:80/images/bbe87b881ff329583ab0aa066525ee5f.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E04
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153911.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E05" tvg-logo="http://conexaoonline.top:80/images/6144883f16a2918efafaaeded19301cf.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E05
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153912.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E06" tvg-logo="http://conexaoonline.top:80/images/af9ffc7ceafe004870faa1e4701960b3.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E06
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153913.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E07" tvg-logo="http://conexaoonline.top:80/images/0e15bb3e7b8af4021466157cf357248e.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E07
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153914.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E08" tvg-logo="http://conexaoonline.top:80/images/b146179b8c77497f80d2400974278e6b.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E08
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153915.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E09" tvg-logo="http://conexaoonline.top:80/images/5f7ff953473272d6e9afa32b53aa9f8c.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E09
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153916.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E10" tvg-logo="http://conexaoonline.top:80/images/91eebf8c6d4456c392de1ded981e8fd2.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E10
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153917.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E11" tvg-logo="http://conexaoonline.top:80/images/df860f4aac0f1622e11a7f05c7f52b78.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E11
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153918.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E12" tvg-logo="http://conexaoonline.top:80/images/11973c034135087fdb79c3c1f61763ab.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E12
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153919.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E13" tvg-logo="http://conexaoonline.top:80/images/af01cf5117d09e9c9775c85e5a50881c.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E13
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153920.mp4
-#EXTINF:-1 tvg-name="Z Nation S03E14" tvg-logo="http://conexaoonline.top:80/images/22f882057ad15130522cf3dae17dee41.jpg" group-title="SÉRIES | NETFLIX",Z Nation S03E14
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153921.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E01" tvg-logo="http://conexaoonline.top:80/images/1795317d561f0a86ade67aaf39980aa1.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E01
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153922.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E02" tvg-logo="http://conexaoonline.top:80/images/6b58191a96a88a03ff96418a052fafc4.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E02
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153923.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E03" tvg-logo="http://conexaoonline.top:80/images/22b928c7a6a4268707c9e57429e530fd.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E03
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153924.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E04" tvg-logo="http://conexaoonline.top:80/images/765c288828e2abe7d6740ce61562e14c.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E04
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153925.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E05" tvg-logo="http://conexaoonline.top:80/images/21f1644405581be931dbb5956592fba3.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E05
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153926.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E06" tvg-logo="http://conexaoonline.top:80/images/e72a14320a73b1ba2570efb829ef6592.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E06
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153927.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E07" tvg-logo="http://conexaoonline.top:80/images/c19b56f1b3baad650e40fd844574f312.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E07
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153928.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E08" tvg-logo="http://conexaoonline.top:80/images/0a0a1ace9fb9b575f43eb1274d293c37.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E08
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153929.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E09" tvg-logo="http://conexaoonline.top:80/images/35da4f3b64cf837ede1b43672e75b1b7.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E09
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153930.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E10" tvg-logo="http://conexaoonline.top:80/images/c036132f1e66bfdf15f9a5e4ccc7f2a4.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E10
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153931.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E11" tvg-logo="http://conexaoonline.top:80/images/27a812856dced23cfda9c051b0153014.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E11
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153932.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E12" tvg-logo="http://conexaoonline.top:80/images/5fd89d74c8292336a7a227f651767c50.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E12
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153933.mp4
-#EXTINF:-1 tvg-name="Z Nation S04E13" tvg-logo="http://conexaoonline.top:80/images/a0c4abd68d09ec4c108c3b2fa616be73.jpg" group-title="SÉRIES | NETFLIX",Z Nation S04E13
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153934.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E01" tvg-logo="http://conexaoonline.top:80/images/1e4a239da9dc3faa2bc6ae1335c1dde2.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E01
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153935.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E02" tvg-logo="http://conexaoonline.top:80/images/fd93daf5fbebf65d8d095247354ac121.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E02
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153936.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E03" tvg-logo="http://conexaoonline.top:80/images/e566dd4c7b76b8a1f1d06c945588a88a.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E03
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153937.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E04" tvg-logo="http://conexaoonline.top:80/images/64de5d247e0e7255989433c551b4dcf7.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E04
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153938.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E05" tvg-logo="http://conexaoonline.top:80/images/ae2112136a1c887f3c7b60eb1dcae8d8.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E05
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153939.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E06" tvg-logo="http://conexaoonline.top:80/images/c24b04166359cefd490770002427e177.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E06
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153940.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E07" tvg-logo="http://conexaoonline.top:80/images/5328978ba4814c3dbcd2ccc5d261032f.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E07
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153941.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E08" tvg-logo="http://conexaoonline.top:80/images/c85ddbd81b45465715dd2c5652eb87d3.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E08
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153942.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E09" tvg-logo="http://conexaoonline.top:80/images/9a79498b128885bbb8aa4abc61c438f5.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E09
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153943.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E10" tvg-logo="http://conexaoonline.top:80/images/aebc43040a640564ee5c451e49771580.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E10
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153944.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E11" tvg-logo="http://conexaoonline.top:80/images/a2b83667a04e4d5defab6bcefa9f9a69.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E11
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153945.mp4
-#EXTINF:-1 tvg-name="Z Nation S05E12" tvg-logo="http://conexaoonline.top:80/images/3ba6605a5bea3b373cb0bbd6d0c2ebd2.jpg" group-title="SÉRIES | NETFLIX",Z Nation S05E12
-http://conexaoonline.top:80/series/005279/key5f0e5x0L/153946.mp4
+#EXTINF:-1 group-title="teste",teste
+https://watch.vcdn.in/telecinepremium/tracks-v1a1/mono.m3u8?remote=2804:1ddc:fe0b:f300:65c4:76d1:8446:2a0e&token=7670af034696832e192d67258c936e3e2e90ffc6-d157e2f38fb3a61eb72b693786d1a833-1716178641-1716167841
