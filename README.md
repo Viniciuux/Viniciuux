@@ -147,6 +147,8 @@ https://brflu.walk-tv.com/5861/playlist.m3u8
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop¹
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/hbopop_ce09b127_dca2b1431687584ece288ac13c69d2e0667e516f/playlist.m3u8?sk=def502009d328c0f8c9906d0ac6b74457bab262159f8ef611aa87025ac43d93f08606c70bf6dd3c0fa886dc4b524846b251f52f5dfd498b07f578bc03d7d79eed57887bf9380366c85da71b1306b8bcf2738d50a879483984a81e7c2226235db2497a79961424a9e60e5c6aff2436c205fc7fd474db3ce04f9db3a74b0fbfbfd401637fd545f35b87a1e48fbe087d73cdbc7360519185cec3d0247547a9e6baaf5ab730ee3c31e8f56c386e87840973c183b973ba27c07647af1d23774b7836962dfc93885334b2590a89f81f697ae97daf6c892d24ec3dad9bf0401770263a57d57658e0c4c09cdc50cc30956ff999b060ef299c7024fe8332bbd2e3c5b71c7d3042d632e720dbb9332bb5db92d833802af07f27bf642f9d0a994c0c62d4bd1f3d4f8afef984d270e19efb0f05ecc79462d3ad41bf1d4f4021ac0f54860977718c91b8a59434805c6
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
