@@ -99,60 +99,96 @@ https://brflu.walk-tv.com/5758/playlist.m3u8
 https://brflu.walk-tv.com/5773/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
 https://brflu.walk-tv.com/5875/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
+https://watch.vcdn.in/telecineaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT
 https://brflu.walk-tv.com/5899/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT¹
+https://watch.vcdn.in/telecinecult/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN
 https://brflu.walk-tv.com/5901/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN¹
+https://watch.vcdn.in/telecinefun/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA
 https://brflu.walk-tv.com/5877/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA¹
+https://watch.vcdn.in/telecinepipoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM
 https://brflu.walk-tv.com/5879/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM¹
+https://watch.vcdn.in/telecinepremium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH
 https://brflu.walk-tv.com/5880/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH¹
+https://watch.vcdn.in/telecinetouch/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO
 https://brflu.walk-tv.com/5891/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO¹
+https://watch.vcdn.in/hbo/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
 https://brflu.walk-tv.com/5857/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2¹
+https://watch.vcdn.in/hbo2/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus
 https://brflu.walk-tv.com/5893/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Plus¹
+https://watch.vcdn.in/hbomais/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family
 https://brflu.walk-tv.com/5859/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature
 https://brflu.walk-tv.com/5861/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature¹
+https://watch.vcdn.in/hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop
+https://watch.vcdn.in/hbopop/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi
+https://watch.vcdn.in/hbomundi/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Xtreme
+https://watch.vcdn.in/hboxtreme/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
+https://watch.vcdn.in/cinemax/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Star Channel
 https://brflu.walk-tv.com/5889/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Star Channel¹
 http://cdn2.connectbr.com.br:80/Star/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Star Channel²
+https://watch.vcdn.in/starchannel/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinecanal SD
 https://brflu.walk-tv.com/5888/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Cinecanal
+https://watch.vcdn.in/cinecanal/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Warner Channel
 https://brflu.walk-tv.com/5882/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",Warner Channel ¹
+#EXTINF:-1 group-title="FILMES | SERIES",Warner Channel¹
 https://cdn-2.nxplay.com.br/WARNER_CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Studio Universal
 https://brflu.walk-tv.com/5834/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Studio Universal¹
+https://watch.vcdn.in/studiouniversal/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Universal TV
+https://watch.vcdn.in/universaltv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",USA
 https://brflu.walk-tv.com/5835/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",USA¹
+https://watch.vcdn.in/usa/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",A&E
 https://cdn2.connectbr.com.br/AE/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",A&E² FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",FX
 https://brflu.walk-tv.com/5855/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",FX¹
+https://watch.vcdn.in/fx/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN FHD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-3-main.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-2-main.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES | SERIES",AXN SD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278-1-main.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AXN¹
 https://cdn-2.nxplay.com.br/AXN_TK/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AMC Brasil
 https://cdn-2.nxplay.com.br/AMC_BRASIL_TK/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",AMC
+https://watch.vcdn.in/amc/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Movies
 https://cdn-2.nxplay.com.br/SONY_MOVIES/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Movies FHD
@@ -171,74 +207,98 @@ https://brflu.walk-tv.com/5781/playlist.m3u8
 https://cdn-2.nxplay.com.br/TNT/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TNT Series
 https://brflu.walk-tv.com/5904/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",TNT Series¹
+https://watch.vcdn.in/tntseries/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TNT Novelas
 https://brflu.walk-tv.com/5836/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TNT Novelas 2
 https://cdn-2.nxplay.com.br/TNT_NOVELAS/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TCM
 https://brflu.walk-tv.com/5837/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",TCM¹
+https://watch.vcdn.in/tcm/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Space
 https://brflu.walk-tv.com/5771/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Space¹
 https://cdn-2.nxplay.com.br/SPACE_TK/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Megapix FHD
 https://brflu.walk-tv.com/5897/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Megapix
+https://watch.vcdn.in/megapix/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",SYFY
 https://brflu.walk-tv.com/5835/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",E!
 https://brflu.walk-tv.com/5729/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",E!¹
+https://watch.vcdn.in/e/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",BIS
 https://brflu.walk-tv.com/5794/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",BIS¹
+https://watch.vcdn.in/bis/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Futura
 https://brflu.walk-tv.com/77/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",OFF
 https://brflu.walk-tv.com/5826/playlist.m3u8
+#EXTINF:-1 group-title="VARIADO",OFF
+https://watch.vcdn.in/canaloff/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Prime Box
 http://cdn2.connectbr.com.br/Prime/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Prime Box¹
 http://cdn-3.nxplay.com.br/PRIME_HD/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Film & Arts
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Film & Arts¹
+https://watch.vcdn.in/filmearts/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Multishow
 https://brflu.walk-tv.com/5822/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Multishow¹
+https://watch.vcdn.in/multishow/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1651837062.m3u8
+#EXTINF:-1 group-title="VARIADOS",Curta!¹
+https://watch.vcdn.in/curta/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",PlayTV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",FashionTV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Fish TV
+https://watch.vcdn.in/fishtv/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",FashionTV¹
-https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
+https://watch.vcdn.in/fashiontv/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 group-title="VARIADOS",Viva
 https://brflu.walk-tv.com/5850/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Viva¹
-https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNTM1MDI0NCwiaWF0IjoxNzE1MjYzODQ0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjBkM2UwMmIzLWMwMGItNDYxMC1iYWRkLWUyMGEyNDQ1YmNiNyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL3ZpdmEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.nqUr2liI_lSqVYpx11_O217ehfZ1QWF0voHQc3W2MdzzHavWJIpkAlliTIpdx3D5mawYgtjczOn0-clSkK2Rt5E_vi6xqt8YV9JiW63KqeHyqkSMR06xEykko3K_5Vl3wwrKNgZUvLYEpxry1rxRxleJhzSSuBkOoz4vM2jr4Jq6Kr-ka2CbGu1X5QfhaZgfEVDFpgsjlc-XAy4-qnB7sVQHRCMRZVwK1bpoh6Rsi1HTdaybys_hnRxn3jeGtE9gFwZpDsdcuxKQNrTo0Kt-LTigt0eMbZalLMpFzMEemC5TUmf8ShQOmjBR7OMd51O6nh0A14d6kHxCV02EGU37NA/nu/f(bMin=2000)/viva24ha/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Viva 80
-https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNTM1MDM4MywiaWF0IjoxNzE1MjYzOTgzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjBkM2UwMmIzLWMwMGItNDYxMC1iYWRkLWUyMGEyNDQ1YmNiNyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL25vdjgwZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.IKICkpgh4KZBigY9J2NTsgbf8pxLjYHmyMthvylvnEJMM9Yd27PLI0Krf6bEUeNWhPgMPJACJ8SICq6-yrdxFyhO-WrC5bHW0b7-xDR0OjUFLJ9WpNsnFByFrvcpNgbD71IYair2Oe6BNfwWOhbI36DSlx9kW38BrQN6iRLcghXeF_iDXUwzmEwFopOxySmVLOKbCf1Sqt6kMtJJkuWPa9Sa6U3P8aXINsuiUEFkwYpuTYnh2XwvWJMyQysyKSuz_n_aep_UKfDti9vU8MxsQ-W6MYAjcQsBzInj5hH1j4cbQsvxEixzW_cxO6iibUTuyyq4xWZgiESGSUU8XLaFJA/nu/f(bMin=2000)/nov80fast24ha/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Viva 70
-https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNTM1MDU2MCwiaWF0IjoxNzE1MjY0MTYwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjBkM2UwMmIzLWMwMGItNDYxMC1iYWRkLWUyMGEyNDQ1YmNiNyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL25vdjcwZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.AulJJGO8PdTbiuv9_h1WW2OMl9cQYvKAM2VEZxq-823ImPWFuljaUc_Kf5Cfz1uCRukTRMFCx552P3kilp8b6xE5F2EdJwr93jPCJwA_UVJayzciyoXfly0jBdbeQlNF25-1K1reoHBo-4dFdJ3xYT3QQ1qG4-TumLsN9YZWSmmCPxaVDFN_L_BFbcLZHVhcdmw-oPdo35exGl7SKNWv90OuaKI9_HVX_o3ukSqpQoLUhsotubPiehYbj-MGfdwceYPvWjaYJyZ-UC9gJDA5OCEap3ZVbblB9DfhEmV6EfcUnssHZyOhPWPrgdbFZ1Nz7mDSJGAESp0RUeIlWTCrkQ/nu/f(bMin=2000)/nov70fast24ha/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",VIVA¹
+https://watch.vcdn.in/viva/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",GNT
 https://brflu.walk-tv.com/5813/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",GNT¹
+https://watch.vcdn.in/gnt/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Modo Viagem
+https://watch.vcdn.in/modoviagem/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV Live
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
+#EXTINF:-1 group-title="VARIADOS",MTV Live¹
+https://watch.vcdn.in/mtvlive/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV¹
-http://cdn2.connectbr.com.br/mtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV² FHD
 https://brflu.walk-tv.com/5821/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil
 https://brflu.walk-tv.com/5796/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
+https://watch.vcdn.in/mtvlive/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Comedy Central
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
+#EXTINF:-1 group-title="VARIADOS",Comedy Central¹
+https://watch.vcdn.in/comedycentral/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Woohoo
 https://brflu.walk-tv.com/5851/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Woohoo¹ FHD
 https://cdn-2.nxplay.com.br/WOOHOO_FAST/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Woohoo²
 https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
+#EXTINF:-1 group-title="VARIADOS",Travel Box Brazil
+https://watch.vcdn.in/travelboxbrazil/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime
 https://brflu.walk-tv.com/5816/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime²
@@ -260,15 +320,19 @@ https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-ad
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV
 https://brflu.walk-tv.com/5805/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV¹
-https://cdn-3.nxplay.com.br/HGTV_BR_NX/playlist.m3u8
+https://cdn-2.nxplay.com.br/HGTV_BR_NX/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic
 https://brflu.walk-tv.com/5777/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic¹
+https://watch.vcdn.in/nationalgeographic/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",History
 https://cdn2.connectbr.com.br/History/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",History FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",History 2 FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",History 2¹
+https://watch.vcdn.in/history2/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",Arte1 FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",Art1
@@ -301,8 +365,12 @@ https://brflu.walk-tv.com/5807/playlist.m3u8
 https://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",Discovery Theather
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/playlist.m3u8
+#EXTINF:-1 group-title="DISCOVERY",Discovery Theater¹
+https://watch.vcdn.in/discoverytheater/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",Discovery World
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/playlist.m3u8
+#EXTINF:-1 group-title="DISCOVERY",Discovery World¹
+https://watch.vcdn.in/discoveryworld/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",Discovery ID FHD
 https://brflu.walk-tv.com/5895/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",Discovery ID
@@ -319,20 +387,40 @@ https://brflu.walk-tv.com/5801/playlist.m3u8
 https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Retro Cartoon
 https://alanza.iptv2022.com/RETRO_CARTOON/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Disney Channel
+https://watch.vcdn.in/disneychannel/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Tooncast
 https://brflu.walk-tv.com/5838/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Tooncast¹
+https://watch.vcdn.in/tooncast/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Zoomoo
 https://cdn-2.nxplay.com.br/ZOOMOO_HD_NX_TK/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Zoomoo¹
+https://watch.vcdn.in/zoomoo/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Cartoonito
+https://watch.vcdn.in/cartoonito/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Discovery Kids
 https://cdn-2.nxplay.com.br/DISCOVERY_KIDS/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Discovery Kids¹
+https://watch.vcdn.in/discoverykids/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nickelodeon
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+#EXTINF:-1 group-title="DESENHOS",Nickelodeon¹
+https://watch.vcdn.in/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Dream Works
 https://cdn-3.nxplay.com.br/DREAMWORKS/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nick Jr
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
+#EXTINF:-1 group-title="DESENHOS",Nick Jr¹
+https://watch.vcdn.in/nickjr/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Gloob
 https://brflu.walk-tv.com/5812/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Gloob¹
+https://watch.vcdn.in/gloob/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Gloobinho
+https://watch.vcdn.in/gloobinho/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Baby TV
+https://watch.vcdn.in/babytv/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
@@ -347,43 +435,43 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/pla
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Hustler
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="FILMES | SERIES",UNIVERSAL CHANNEL FHD H265²
-http://conexaoonline.top:80/005279/key5f0e5x0L/235170.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="FILMES | SERIES",UNIVERSAL CHANNEL FHD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/235171.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="FILMES | SERIES",UNIVERSAL CHANNEL HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/182588.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="FILMES | SERIES",UNIVERSAL CHANNEL HD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/235172.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="HBO",CN HBO MUNDI FHD H265
+#EXTINF:-1 group-title="XYZ",Playboy
+https://watch.vcdn.in/playboy/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Sex Prive
+https://watch.vcdn.in/sexprive/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Sexy Hot
+https://watch.vcdn.in/sexyhot/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Venus
+https://watch.vcdn.in/venus/playlist.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD H265
 http://conexaoonline.top:80/005279/key5f0e5x0L/95.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="HBO",CN HBO MUNDI FHD H265²
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD H265²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234480.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="HBO",CN HBO MUNDI FHD²
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234481.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="HBO",CN HBO MUNDI HD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI HD
 http://conexaoonline.top:80/005279/key5f0e5x0L/2210.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="HBO",CN HBO MUNDI HD²
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI HD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234482.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="HBO",CN HBO POP FHD H265
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD H265
 http://conexaoonline.top:80/005279/key5f0e5x0L/126.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="HBO",CN HBO POP FHD H265²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD H265²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234484.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="HBO",CN HBO POP FHD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234485.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="HBO",CN HBO POP HD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP HD
 http://conexaoonline.top:80/005279/key5f0e5x0L/2211.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="HBO",CN HBO POP HD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP HD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234486.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HBO",CN HBO XTREME FHD H265
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD H265
 http://conexaoonline.top:80/005279/key5f0e5x0L/54.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HBO",CN HBO XTREME FHD H265²
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD H265²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234490.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HBO",CN HBO XTREME FHD²
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234491.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HBO",CN HBO XTREME HD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME HD
 http://conexaoonline.top:80/005279/key5f0e5x0L/283.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HBO",CN HBO XTREME HD²
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HcBO",CN HBO XTREME HD²
 http://conexaoonline.top:80/005279/key5f0e5x0L/234492.m3u8
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 01
 http://conexaoonline.top:80/005279/key5f0e5x0L/289465.m3u8
@@ -523,5 +611,3 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/293385.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/293386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
 http://conexaoonline.top:80/005279/key5f0e5x0L/293387.m3u8
-#EXTINF:-1 group-title="teste",teste
-https://watch.vcdn.in/telecinepremium/tracks-v1a1/mono.m3u8?remote=2804:1ddc:fe0b:f300:65c4:76d1:8446:2a0e&token=7670af034696832e192d67258c936e3e2e90ffc6-d157e2f38fb3a61eb72b693786d1a833-1716178641-1716167841
