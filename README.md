@@ -53,6 +53,12 @@ https://cdn2.connectbr.com.br/Band-Sports/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
+#EXTINF:-1 group-title="ELEVEN",Eleven 1
+https://cdntv0800.com/eleven1/index.m3u8?token=7381e43322dc3d10eb081f74d04f19db8453a991-31a4a2a72752f535be2b48f70919ab7b-1716268311-1716264711&remote=131.161.206.44
+#EXTINF:-1 group-title="ELEVEN",Eleven 2
+https://cdntv0800.com/eleven2/index.m3u8?token=8d2079286b00716f2a20c82715b20637f3ed67c1-d5d8aa4d792705ddea3e500e675385e5-1716268578-1716264978&remote=131.161.206.44
+#EXTINF:-1 group-title="ELEVEN",Eleven 3
+https://cdntv0800.com/eleven3/index.m3u8?token=422a10c25e1d51758fe8d1213824496cc9ae77ca-05c477d5fb539b985a88e22b689a14a2-1716268640-1716265040&remote=131.161.206.44
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -435,6 +441,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/pla
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Hustler
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",HustlerTV
+https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcbfa46e802a0904-94b586a0b71cd04e36252279e75d729c-1716276067-1716265267
 #EXTINF:-1 group-title="XYZ",Playboy
 https://watch.vcdn.in/playboy/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Sex Prive
@@ -553,61 +561,3 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/25714.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/25715.m3u8
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINE SUCESSOS" tvg-logo="http://www.rochagalaxia.live/logos/cinesucesso250.png" group-title="CANAIS | FILMES E SERIES",CINE SUCESSOS
 http://conexaoonline.top:80/005279/key5f0e5x0L/166180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Trapalhões" tvg-logo="https://www.rochagalaxia.live/logos/trapalhoes250.png" group-title="CANAIS | PAY-PER-VIEW",Cine Trapalhões
-http://conexaoonline.top:80/005279/key5f0e5x0L/59531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 03" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 03
-http://conexaoonline.top:80/005279/key5f0e5x0L/25548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 02" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 02
-http://conexaoonline.top:80/005279/key5f0e5x0L/30173.m3u8
-#EXTINF:-1 tvg-id="Paramountplus.br" tvg-name="PARAMOUNT 01" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 01
-http://conexaoonline.top:80/005279/key5f0e5x0L/30177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 04" tvg-logo="https://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 04
-http://conexaoonline.top:80/005279/key5f0e5x0L/30176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 SD" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",Conmebol 2 SD
-http://conexaoonline.top:80/005279/key5f0e5x0L/30178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 FHD" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",CONMEBOL 4 FHD
-http://conexaoonline.top:80/005279/key5f0e5x0L/2193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",CONMEBOL TV 1 FHD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 1 HD₁
-http://conexaoonline.top:80/005279/key5f0e5x0L/110700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 1 SD₁
-http://conexaoonline.top:80/005279/key5f0e5x0L/110701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 2 HD₁
-http://conexaoonline.top:80/005279/key5f0e5x0L/110702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 2 SD₁
-http://conexaoonline.top:80/005279/key5f0e5x0L/110703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 Alternativo FHD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo FHD
-http://conexaoonline.top:80/005279/key5f0e5x0L/42080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 Alternativo HD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/42079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 Alternativo SD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo SD
-http://conexaoonline.top:80/005279/key5f0e5x0L/42078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 SD₁
-http://conexaoonline.top:80/005279/key5f0e5x0L/110705.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Dazn FHD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn FHD
-http://conexaoonline.top:80/005279/key5f0e5x0L/2046.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Dazn HD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/528.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Dazn SD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn SD
-http://conexaoonline.top:80/005279/key5f0e5x0L/2045.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 01 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 01 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 02 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 02 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 03 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 03 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 04 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 04 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 05 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 05 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 06 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 06 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 07 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 07 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 08 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 08 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 09 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 09 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS | ESPORTES",NBA LEAGUE PASS 10 (PPV)
-http://conexaoonline.top:80/005279/key5f0e5x0L/293387.m3u8
