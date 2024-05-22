@@ -13,16 +13,12 @@ https://brflu.walk-tv.com/5916/playlist.m3u8
 https://brflu.walk-tv.com/5915/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7
 https://brflu.walk-tv.com/5914/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/09/flamengo-logo-0.png" group-title="MENGAO",Premiere Mengão
-https://live-cm-ah-17-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTctMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1Njg2MTY1LCJpYXQiOjE3MTU1OTk3NjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3BmYzEvcGxheWxpc3QubTN1OCJ9.tLlH6S0QwWAvlo-sRI_lImmYDl3VDcvCp-zJrwRmMZWvAEDOj-tlGGr_Cr4YHqzvgotrCJjv2pnlABxLzSVjXVLyk2ISPk_uB7CS72ABHUxu-MzDS959vvBbRKe9QooZjmfzsUDfnxkW1UQSS4k7Xd6EJ32Acy0LN4JVlpf2Zcoe0cuWhjQcOuFLzoqmazVqNxDXjJE0SILsDurqOhyB-HD-gaOxW-aPP_-QjyK6ygTLsjKU6Hpf52r2APPr-btRLgMP4qXlKORUrLAuZEdRwjQlBFCsph0rYSnkcVPPx6OeuZd5J1fX9mKwp16YhlPC3dkHIVQyM_ofjgyLfsScdA/nu/f(bMax=3300000,bMin=2000)/pfc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV
 https://brflu.walk-tv.com/5932/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 2
 https://brflu.walk-tv.com/5931/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3
 https://brflu.walk-tv.com/5930/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/09/flamengo-logo-0.png" group-title="MENGAO",Sportv Mengão
-https://live-cm-ah-24-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1Njg2MjE5LCJpYXQiOjE3MTU1OTk4MTksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.vRbhuof_Me7mpFSptjb9n4QXCIUSpg_8hONXeXgngOnSBL2ufAURpI4lld77h_GCjLFgTFjnu39krC6DVQ124d8Iro_84ZgEfEoNrRAj5R9QjbBDojkLM9lJ8aaLanS98kZWtnQ5rs-a0Y2KgmECBBjp8QZdhrWtAVs_acsZmn-bueKU7lwjWDk4PRPGxNJA4jjOj1F_SNDjZv6lmgH2cpD6ZVsqhB1KEO_mKJYlwEEgGRjXJGYkAeP0EpYbRxKGPOsHvImRP5as0Q1KlRXhzXv9ZMcxXce2AbwSTvHe2xFVZTs9lTvybk-f83tbQR7foOPaHMTLhkg89RIASQzmfw/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN
 https://brflu.walk-tv.com/5912/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN¹
@@ -53,12 +49,6 @@ https://cdn2.connectbr.com.br/Band-Sports/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
-#EXTINF:-1 group-title="ELEVEN",Eleven 1
-https://cdntv0800.com/eleven1/index.m3u8?token=7381e43322dc3d10eb081f74d04f19db8453a991-31a4a2a72752f535be2b48f70919ab7b-1716268311-1716264711&remote=131.161.206.44
-#EXTINF:-1 group-title="ELEVEN",Eleven 2
-https://cdntv0800.com/eleven2/index.m3u8?token=8d2079286b00716f2a20c82715b20637f3ed67c1-d5d8aa4d792705ddea3e500e675385e5-1716268578-1716264978&remote=131.161.206.44
-#EXTINF:-1 group-title="ELEVEN",Eleven 3
-https://cdntv0800.com/eleven3/index.m3u8?token=422a10c25e1d51758fe8d1213824496cc9ae77ca-05c477d5fb539b985a88e22b689a14a2-1716268640-1716265040&remote=131.161.206.44
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -147,8 +137,6 @@ https://brflu.walk-tv.com/5861/playlist.m3u8
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop¹
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/hbopop_ce09b127_dca2b1431687584ece288ac13c69d2e0667e516f/playlist.m3u8?sk=def502009d328c0f8c9906d0ac6b74457bab262159f8ef611aa87025ac43d93f08606c70bf6dd3c0fa886dc4b524846b251f52f5dfd498b07f578bc03d7d79eed57887bf9380366c85da71b1306b8bcf2738d50a879483984a81e7c2226235db2497a79961424a9e60e5c6aff2436c205fc7fd474db3ce04f9db3a74b0fbfbfd401637fd545f35b87a1e48fbe087d73cdbc7360519185cec3d0247547a9e6baaf5ab730ee3c31e8f56c386e87840973c183b973ba27c07647af1d23774b7836962dfc93885334b2590a89f81f697ae97daf6c892d24ec3dad9bf0401770263a57d57658e0c4c09cdc50cc30956ff999b060ef299c7024fe8332bbd2e3c5b71c7d3042d632e720dbb9332bb5db92d833802af07f27bf642f9d0a994c0c62d4bd1f3d4f8afef984d270e19efb0f05ecc79462d3ad41bf1d4f4021ac0f54860977718c91b8a59434805c6
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
@@ -453,64 +441,18 @@ https://watch.vcdn.in/sexprive/playlist.m3u8
 https://watch.vcdn.in/sexyhot/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Venus
 https://watch.vcdn.in/venus/playlist.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD H265
-http://conexaoonline.top:80/005279/key5f0e5x0L/95.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD H265²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234480.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI FHD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234481.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/2210.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="cHBO",CN HBO MUNDI HD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234482.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD H265
-http://conexaoonline.top:80/005279/key5f0e5x0L/126.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD H265²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234484.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP FHD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234485.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/2211.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="cHBO",CN HBO POP HD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234486.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD H265
-http://conexaoonline.top:80/005279/key5f0e5x0L/54.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD H265²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234490.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME FHD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234491.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="cHBO",CN HBO XTREME HD
-http://conexaoonline.top:80/005279/key5f0e5x0L/283.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="HcBO",CN HBO XTREME HD²
-http://conexaoonline.top:80/005279/key5f0e5x0L/234492.m3u8
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 01
 http://conexaoonline.top:80/005279/key5f0e5x0L/289465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC CN",UFC TV 02
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 02
 http://conexaoonline.top:80/005279/key5f0e5x0L/291092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 03" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC CN",UFC TV 03
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 03" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 03
 http://conexaoonline.top:80/005279/key5f0e5x0L/313225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 04" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC CN",UFC TV 04
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 04" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 04
 http://conexaoonline.top:80/005279/key5f0e5x0L/313226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 05" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC CN",UFC TV 05
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 05" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 05
 http://conexaoonline.top:80/005279/key5f0e5x0L/313227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 06" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC CN",UFC TV 06
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV 06" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 06
 http://conexaoonline.top:80/005279/key5f0e5x0L/313228.m3u8
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX
-http://conexaoonline.top:80/005279/key5f0e5x0L/205469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 01 ALTERNATIVO
-http://conexaoonline.top:80/005279/key5f0e5x0L/205841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 02 ALTERNATIVO
-http://conexaoonline.top:80/005279/key5f0e5x0L/205842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 03 ALTERNATIVO
-http://conexaoonline.top:80/005279/key5f0e5x0L/205843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 04 ALTERNATIVO
-http://conexaoonline.top:80/005279/key5f0e5x0L/205844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 05 ALTERNATIVO
-http://conexaoonline.top:80/005279/key5f0e5x0L/205845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 2
-http://conexaoonline.top:80/005279/key5f0e5x0L/205470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="HBO MAX CN",HBO MAX 3
-http://conexaoonline.top:80/005279/key5f0e5x0L/205471.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 01
 http://conexaoonline.top:80/005279/key5f0e5x0L/110737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 02
