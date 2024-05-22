@@ -137,10 +137,16 @@ https://brflu.walk-tv.com/5861/playlist.m3u8
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop¹
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/hbopop_ce09b127_bf94452f611c06650e991cf7786b41130d4b926d/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi¹
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/hbomundi_9f682df2_249ea283830a36c266c9995ea40b5cbfc9126998/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Xtreme¹
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/hboxtreme_9c676e00_9e7981d16f2c993ac7e652831b97c559d5f4f885/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
