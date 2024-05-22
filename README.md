@@ -283,6 +283,10 @@ https://brflu.walk-tv.com/5821/playlist.m3u8
 https://brflu.walk-tv.com/5796/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
 https://watch.vcdn.in/mtvlive/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Trace Brasil
+https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Revry Brasil
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Comedy Central
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
 #EXTINF:-1 group-title="VARIADOS",Comedy Central¹
