@@ -31,24 +31,20 @@ https://cdn-2.nxplay.com.br/ESPN_2/playlist.m3u8
 https://cdn-2.nxplay.com.br/ESPN_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4
 https://cdn-2.nxplay.com.br/ESPN_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4¹
+https://brflu.walk-tv.com/6586/playlist.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 5
+https://brflu.walk-tv.com/5924/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/playlist.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1
-https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/playlist.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1 SD
-https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1 HD
-https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL_LINEAR/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 2
-https://akamai.ittv.com.br/NOSSO_FUTEBOL_2/playlist.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 3
-https://akamai.ittv.com.br/NOSSO_FUTEBOL_3/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTE",Band Sports
-https://cdn2.connectbr.com.br/Band-Sports/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTE",Band Sports FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
+#EXTINF:-1 group-title="MENGO",GB PFC1
+https://live-cm-ah-13-28.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTMtMjgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE2NTUyMzk1LCJpYXQiOjE3MTY0NjU5OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3BmYzEvcGxheWxpc3QubTN1OCJ9.Hq_8XmTiTW_j7ukkHFZmKSGzYWuBvkutHE_HbWJ6wscQ2R1LBZ5bSL5vscL8WsK8iVGdDtBCO7RVSFiyGDaNIH8G-uue6OlijIkJKgwxjPPlg46LPbWHYXbMRIxt09_lfVTtLMGqC7bs-xFWYe7jYBBGFrTPyinKa4fFxRRHD5AnEWMsD9LSC7TfWeU7A2-fA-jMOEKdJO0gyeVAHgdOOklnL2LMPVSg6ApdP5dKHWBzjRfV4-hrffh4YEjKsCD25qDhfgNCGieIPG7yQzZGmfKn8enzi1_cCaFhjaHSpjPYbPogjKFXEBSqgoGsiICoHbRXs8Y6ipJfhm_yVOYzbQ/nu/f(bMax=3300000,bMin=2000)/pfc1/playlist.m3u8
+#EXTINF:-1 group-title="MENGO",GB SPORTV
+https://live-cm-ah-14-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE2NTUyODQ3LCJpYXQiOjE3MTY0NjY0NDcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.jmHGu--MZKjvzStWhcWg_sN48Wjk3Uk8LVlS-0aOOJACtTbGu_9Hw6kuSC-DmK_eIXMXPy-AVovM8H8iRp-srOY51KIvKd2J-1NXTkXqqaGdS4ibzNjT2CJqB21cwcefeI4uQKxMG6UYI7ns3jDiHKTPViNUhQTCu8S3SUdcmqCxEfPK-7ww6nGSvlSSZ26dgY5XjxwbWg2SMQMfJzzx21aOUgyIKmNF2EQC7ebQxlBP_O5rc4od4BMo7v-2Dsr229k_2ohoS8xd7IgoQ7sXDXK_v2YXC72LLp_AsYYElKUdgpp3fMM7-LfTAg6oOfjheQfK3GrreEP_xiMr5lXczw/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -65,8 +61,6 @@ https://brflu.walk-tv.com/5756/playlist.m3u8
 https://brflu.walk-tv.com/5750/playlist.m3u8
 #EXTINF:-1 group-title="GLOBO",Globo Minas
 https://brflu.walk-tv.com/5752/playlist.m3u8
-#EXTINF:-1 group-title="GLOBO",Globo Centro America
-https://brflu.walk-tv.com/5754/playlist.m3u8
 #EXTINF:-1 group-title="GLOBO",Globo Brasilia
 https://brflu.walk-tv.com/5755/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM SD
@@ -75,8 +69,6 @@ https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Tastemade
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Amazon Sat
@@ -85,14 +77,10 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://brflu.walk-tv.com/5738/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record
 https://brflu.walk-tv.com/5740/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Record Bahia
-https://brflu.walk-tv.com/46/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
 https://brflu.walk-tv.com/5758/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",TV Aparecida
-https://brflu.walk-tv.com/5773/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
 https://brflu.walk-tv.com/5875/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
@@ -131,6 +119,8 @@ https://brflu.walk-tv.com/5893/playlist.m3u8
 https://watch.vcdn.in/hbomais/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family
 https://brflu.walk-tv.com/5859/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Family¹.
+https://watch.vcdn.in/hbofamily/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature
 https://brflu.walk-tv.com/5861/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature¹
@@ -154,8 +144,6 @@ https://watch.vcdn.in/cinemax/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Star Channel
 https://brflu.walk-tv.com/5889/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Star Channel¹
-http://cdn2.connectbr.com.br:80/Star/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",Star Channel²
 https://watch.vcdn.in/starchannel/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinecanal SD
 https://brflu.walk-tv.com/5888/playlist.m3u8
@@ -241,7 +229,7 @@ https://watch.vcdn.in/bis/playlist.m3u8
 https://brflu.walk-tv.com/77/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",OFF
 https://brflu.walk-tv.com/5826/playlist.m3u8
-#EXTINF:-1 group-title="VARIADO",OFF
+#EXTINF:-1 group-title="VARIADOS",OFF
 https://watch.vcdn.in/canaloff/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Prime Box
 http://cdn2.connectbr.com.br/Prime/playlist.m3u8
@@ -307,7 +295,7 @@ https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
 https://watch.vcdn.in/travelboxbrazil/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime
 https://brflu.walk-tv.com/5816/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Lifetime²
+#EXTINF:-1 group-title="VARIADOS",Lifetime¹
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
@@ -395,6 +383,8 @@ https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/playlist.m3u8
 https://alanza.iptv2022.com/RETRO_CARTOON/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Disney Channel
 https://watch.vcdn.in/disneychannel/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Disney Channel¹
+https://brflu.walk-tv.com/5787/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Tooncast
 https://brflu.walk-tv.com/5838/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Tooncast¹
@@ -515,3 +505,9 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/25714.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/25715.m3u8
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINE SUCESSOS" tvg-logo="http://www.rochagalaxia.live/logos/cinesucesso250.png" group-title="CANAIS | FILMES E SERIES",CINE SUCESSOS
 http://conexaoonline.top:80/005279/key5f0e5x0L/166180.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="FILMES | MP4",Bob Marley: One Love
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="FILMES | MP4",Madame Teia
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
