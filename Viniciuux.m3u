@@ -145,14 +145,20 @@ https://watch.vcdn.in/hbosignature/playlist.m3u8
 https://watch.vcdn.in/hbopop/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop¹
 http://5ce.co:80/pamelaflores/92446060a/26150
+#EXTINF:-1 group-title="HBO",HBO Pop²
+http://5ce.co:80/pamelaflores/92446060a/26150
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi¹
+http://5ce.co:80/pamelaflores/92446060a/28641
+#EXTINF:-1 group-title="HBO",HBO Mundi²
 http://5ce.co:80/pamelaflores/92446060a/28641
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme¹
 http://5ce.co:80/pamelaflores/92446060a/6941
+#EXTINF:-1 group-title="HBO",HBO Xtreme²
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/1456
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
@@ -172,8 +178,10 @@ https://cdn-2.nxplay.com.br/WARNER_CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Studio Universal
 https://brflu.walk-tv.com/5834/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Studio Universal¹
-https://watch.vcdn.in/studiouniversal/playlist.m3u8
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/67
 #EXTINF:-1 group-title="FILMES | SERIES",Universal TV
+https://watch.vcdn.in/universaltv/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Universal TV¹
 https://watch.vcdn.in/universaltv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",USA
 https://brflu.walk-tv.com/5835/playlist.m3u8
@@ -271,6 +279,9 @@ https://watch.vcdn.in/fishtv/playlist.m3u8
 https://watch.vcdn.in/fashiontv/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="VARIADOS",Sabor & Art
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/15
 #EXTINF:-1 group-title="VARIADOS",Viva
 https://brflu.walk-tv.com/5850/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",VIVA¹
@@ -281,6 +292,8 @@ https://brflu.walk-tv.com/5813/playlist.m3u8
 https://watch.vcdn.in/gnt/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Modo Viagem
 https://watch.vcdn.in/modoviagem/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",Modo Viagem¹
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/213
 #EXTINF:-1 group-title="VARIADOS",MTV Live
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV Live¹
@@ -419,6 +432,9 @@ https://watch.vcdn.in/discoverykids/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nickelodeon¹
 https://watch.vcdn.in/nickelodeon/playlist.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="DESENHOS",TV RA TIM BUM
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/72
 #EXTINF:-1 group-title="DESENHOS",Dream Works
 https://cdn-3.nxplay.com.br/DREAMWORKS/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nick Jr
