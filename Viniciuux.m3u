@@ -144,15 +144,15 @@ https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop¹
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/hbopop_ce09b127_bf94452f611c06650e991cf7786b41130d4b926d/playlist.m3u8
+http://5ce.co:80/pamelaflores/92446060a/26150
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi¹
-https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/hbomundi_9f682df2_249ea283830a36c266c9995ea40b5cbfc9126998/playlist.m3u8
+http://5ce.co:80/pamelaflores/92446060a/28641
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme¹
-https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/hboxtreme_9c676e00_9e7981d16f2c993ac7e652831b97c559d5f4f885/playlist.m3u8
+http://5ce.co:80/pamelaflores/92446060a/6941
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
@@ -457,18 +457,6 @@ https://watch.vcdn.in/sexprive/playlist.m3u8
 https://watch.vcdn.in/sexyhot/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Venus
 https://watch.vcdn.in/venus/playlist.m3u8
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 01
-http://conexaoonline.top:80/005279/key5f0e5x0L/289465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 02
-http://conexaoonline.top:80/005279/key5f0e5x0L/291092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 03" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 03
-http://conexaoonline.top:80/005279/key5f0e5x0L/313225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 04" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 04
-http://conexaoonline.top:80/005279/key5f0e5x0L/313226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 05" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 05
-http://conexaoonline.top:80/005279/key5f0e5x0L/313227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV 06" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="UFC",UFC TV 06
-http://conexaoonline.top:80/005279/key5f0e5x0L/313228.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 01
 http://conexaoonline.top:80/005279/key5f0e5x0L/110737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 02
@@ -521,6 +509,38 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/25714.m3u8
 http://conexaoonline.top:80/005279/key5f0e5x0L/25715.m3u8
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINE SUCESSOS" tvg-logo="http://www.rochagalaxia.live/logos/cinesucesso250.png" group-title="CANAIS | FILMES E SERIES",CINE SUCESSOS
 http://conexaoonline.top:80/005279/key5f0e5x0L/166180.m3u8
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 1
+http://5ce.co:80/pamelaflores/92446060a/122135
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 2
+http://5ce.co:80/pamelaflores/92446060a/95848
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 3
+http://5ce.co:80/pamelaflores/92446060a/122137
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 4
+http://5ce.co:80/pamelaflores/92446060a/122138
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 5
+http://5ce.co:80/pamelaflores/92446060a/122139
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 6
+http://5ce.co:80/pamelaflores/92446060a/122140
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 7
+http://5ce.co:80/pamelaflores/92446060a/122141
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 8
+http://5ce.co:80/pamelaflores/92446060a/122142
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 9
+http://5ce.co:80/pamelaflores/92446060a/122143
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 10
+http://5ce.co:80/pamelaflores/92446060a/95849
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 11
+http://5ce.co:80/pamelaflores/92446060a/122136
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 12
+http://5ce.co:80/pamelaflores/92446060a/95850
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 13
+http://5ce.co:80/pamelaflores/92446060a/95851
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 14
+http://5ce.co:80/pamelaflores/92446060a/95852
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 15
+http://5ce.co:80/pamelaflores/92446060a/98443
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 16
+http://5ce.co:80/pamelaflores/92446060a/98444
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="FILMES | MP4",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
