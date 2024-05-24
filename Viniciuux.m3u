@@ -157,6 +157,10 @@ https://watch.vcdn.in/hboxtreme/playlist.m3u8
 http://5ce.co:80/pamelaflores/92446060a/6941
 #EXTINF:-1 group-title="HBO",HBO Xtreme² HD
 http://tv.painelsat.ovh:8080/Deise1010/Deise1010/1456
+#EXTINF:-1 group-title="RUNTV",RunTV 1
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 group-title="RUNTV",RunTV 2
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
