@@ -229,6 +229,8 @@ https://watch.vcdn.in/tntseries/playlist.m3u8
 https://brflu.walk-tv.com/5836/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TNT Novelas 2
 https://cdn-2.nxplay.com.br/TNT_NOVELAS/playlist.m3u8
+#EXTINF:-1 group-title="FILMES | SERIES",Bora Filmes
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TCM
 https://brflu.walk-tv.com/5837/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",TCM¹
@@ -455,6 +457,10 @@ https://watch.vcdn.in/gloobinho/playlist.m3u8
 https://watch.vcdn.in/babytv/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
+#EXTINF:-1 group-title="ADULT SWIM",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+#EXTINF:-1 group-title="ADULT SWIM",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 group-title="XYZ",Private
