@@ -149,9 +149,9 @@ https://watch.vcdn.in/hbopop/playlist.m3u8
 https://watch.vcdn.in/hbomundi/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
-#EXTINF:-1 group-title="RUNTV",RunTV 1
+#EXTINF:-1 group-title="RUNTV",Runtime Action
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-#EXTINF:-1 group-title="RUNTV",RunTV 2
+#EXTINF:-1 group-title="RUNTV",Runtime TV
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
