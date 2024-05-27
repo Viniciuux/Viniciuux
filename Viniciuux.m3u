@@ -145,18 +145,10 @@ https://brflu.walk-tv.com/5861/playlist.m3u8
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop¹
-http://5ce.co:80/pamelaflores/92446060a/26150
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Mundi¹
-http://5ce.co:80/pamelaflores/92446060a/28641
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Xtreme¹ FHD
-http://5ce.co:80/pamelaflores/92446060a/6941
-#EXTINF:-1 group-title="HBO",HBO Xtreme² HD
-http://tv.painelsat.ovh:8080/Deise1010/Deise1010/1456
 #EXTINF:-1 group-title="RUNTV",RunTV 1
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
 #EXTINF:-1 group-title="RUNTV",RunTV 2
@@ -479,8 +471,22 @@ https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcb
 https://watch.vcdn.in/playboy/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Sex Prive
 https://watch.vcdn.in/sexprive/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Pornbox
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1037
 #EXTINF:-1 group-title="XYZ",Sexy Hot
 https://watch.vcdn.in/sexyhot/playlist.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="XYZ",Sisloveme
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/276
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="XYZ",Sextreme
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/750
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="XYZ",Tiny 4K
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/468
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="XYZ",Jules Jordan
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1298
 #EXTINF:-1 group-title="XYZ",Venus
 https://watch.vcdn.in/venus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 01
