@@ -21,62 +21,72 @@ http://conexaoonline.top:80/3486527/8553692/118.m3u8
 http://conexaoonline.top:80/3486527/8553692/126.m3u8
 #EXTINF:-1 group-title="CANAIS | H.265",MEGAPIX H.265
 http://conexaoonline.top:80/3486527/8553692/145.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube
-https://brflu.walk-tv.com/5922/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2
-https://brflu.walk-tv.com/5921/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3
-https://brflu.walk-tv.com/5920/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4
-https://brflu.walk-tv.com/5918/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5
-https://brflu.walk-tv.com/5916/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6
-https://brflu.walk-tv.com/5915/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7
-https://brflu.walk-tv.com/5914/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD²
+https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD¹
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD²
+https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD¹
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD²
+https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD¹
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD²
+https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD¹
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD²
+https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD¹
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD²
+https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD¹
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD²
+https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV
-https://brflu.walk-tv.com/5932/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV¹
-https://8mwx.short.gy/SPORTV/index.m3u8
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 2
-https://brflu.walk-tv.com/5931/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 2¹
-https://8mwx.short.gy/SPORTV2/index.m3u8
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3
-https://brflu.walk-tv.com/5930/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3¹
-https://8mwx.short.gy/SPORTV3/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN
-https://brflu.walk-tv.com/5912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN¹
-https://cdn-2.nxplay.com.br/ESPN/playlist.m3u8
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD
+https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN SD
+https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2
-https://brflu.walk-tv.com/5910/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2¹
-https://cdn-2.nxplay.com.br/ESPN_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 3
-https://cdn-2.nxplay.com.br/ESPN_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 3¹
-https://8mwx.short.gy/ESPN3/index.m3u8
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2 HD
+https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2 SD
+https://cdn-2.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 3 HD
+https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 3 SD
+https://cdn-2.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4
-https://cdn-2.nxplay.com.br/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4¹
-https://brflu.walk-tv.com/6586/playlist.m3u8
+https://brflu.walk-tv.com/6586/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4 HD
+https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 4 SD
+https://cdn-2.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 5
-https://brflu.walk-tv.com/5924/playlist.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 5¹
-https://8mwx.short.gy/ESPN5/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA
-https://cdn-2.nxplay.com.br/ESPN_EXTRA/playlist.m3u8
+https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA HD
+https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
+https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPORTE",Band Sports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate¹
 https://8mwx.short.gy/COMBATE/index.m3u8
-#EXTINF:-1 group-title="NOSSO FUTEBOL",Nosso Futebol 1
-https://8mwx.short.gy/NOSSOFUTEBOL/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="FUTEBOL",FUT 1
 http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
