@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",SPORTV H.265
-http://conexaoonline.top:80/3486527/8553692/66.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",SPORTV 2 H.265
-http://conexaoonline.top:80/3486527/8553692/68.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",PREMIERE CLUBE H.265
-http://conexaoonline.top:80/3486527/8553692/70.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",PREMIERE 2 H.265
-http://conexaoonline.top:80/3486527/8553692/71.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",PREMIERE 3 H.265
-http://conexaoonline.top:80/3486527/8553692/72.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",FX H.265
-http://conexaoonline.top:80/3486527/8553692/70.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",HBO SIGNATURE H.265
-http://conexaoonline.top:80/3486527/8553692/92.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",HBO FAMILY H.265
-http://conexaoonline.top:80/3486527/8553692/118.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",HBO POP H.265
-http://conexaoonline.top:80/3486527/8553692/126.m3u8
-#EXTINF:-1 group-title="CANAIS | H.265",MEGAPIX H.265
-http://conexaoonline.top:80/3486527/8553692/145.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
 https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD²
@@ -59,6 +39,10 @@ https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN SD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN FHD¹
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD¹
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2
 https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2 HD
@@ -81,7 +65,7 @@ https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ESPORTE",Band Sports
+#EXTINF:-1 group-title="ESPORTE",Band Sports FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
@@ -118,7 +102,7 @@ https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Terra Viva
+#EXTINF:-1 group-title="TV ABERTA",Terra Viva FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -222,7 +206,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 https://brflu.walk-tv.com/5855/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",FX¹
 https://watch.vcdn.in/fx/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",AXN
+#EXTINF:-1 group-title="FILMES | SERIES",AXN FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",AXN¹
 https://cdn-2.nxplay.com.br/AXN_TK/playlist.m3u8
@@ -238,7 +222,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Sony Channel²
 https://cdn-2.nxplay.com.br/SONY_CHANNEL/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | SERIES",Paramount Network
+#EXTINF:-1 group-title="FILMES | SERIES",Paramount Network FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -325,11 +309,11 @@ https://watch.vcdn.in/gnt/playlist.m3u8
 https://watch.vcdn.in/modoviagem/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Modo Viagem¹
 http://tv.painelsat.ovh:8080/Deise1010/Deise1010/213
-#EXTINF:-1 group-title="VARIADOS",MTV Live
+#EXTINF:-1 group-title="VARIADOS",MTV Live FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV Live¹
 https://watch.vcdn.in/mtvlive/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV
+#EXTINF:-1 group-title="VARIADOS",MTV FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV¹
 https://brflu.walk-tv.com/5821/playlist.m3u8
@@ -341,7 +325,7 @@ https://watch.vcdn.in/mtvlive/playlist.m3u8
 https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Comedy Central
+#EXTINF:-1 group-title="VARIADOS",Comedy Central FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
 #EXTINF:-1 group-title="VARIADOS",Comedy Central¹
 https://watch.vcdn.in/comedycentral/playlist.m3u8
@@ -355,11 +339,11 @@ https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
 https://watch.vcdn.in/travelboxbrazil/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime
 https://brflu.walk-tv.com/5816/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Lifetime¹
+#EXTINF:-1 group-title="VARIADOS",Lifetime FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Agro+
+#EXTINF:-1 group-title="NOTICIAS",Agro+ FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/291/291.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w42669874.m3u8
@@ -459,7 +443,7 @@ https://watch.vcdn.in/cartoonito/playlist.m3u8
 https://cdn-2.nxplay.com.br/DISCOVERY_KIDS/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Discovery Kids¹
 https://watch.vcdn.in/discoverykids/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nickelodeon
+#EXTINF:-1 group-title="DESENHOS",Nickelodeon FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nickelodeon¹
 https://watch.vcdn.in/nickelodeon/playlist.m3u8
@@ -468,7 +452,7 @@ https://watch.vcdn.in/nickelodeon/playlist.m3u8
 http://tv.painelsat.ovh:8080/Deise1010/Deise1010/72
 #EXTINF:-1 group-title="DESENHOS",Dream Works
 https://cdn-3.nxplay.com.br/DREAMWORKS/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nick Jr
+#EXTINF:-1 group-title="DESENHOS",Nick Jr FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
 #EXTINF:-1 group-title="DESENHOS",Nick Jr¹
 https://watch.vcdn.in/nickjr/playlist.m3u8
