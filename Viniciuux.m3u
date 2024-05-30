@@ -156,6 +156,8 @@ https://watch.vcdn.in/hbo/playlist.m3u8
 https://brflu.walk-tv.com/5857/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2¹
 https://watch.vcdn.in/hbo2/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2² | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19045/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus
 https://brflu.walk-tv.com/5893/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus¹
