@@ -71,6 +71,10 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 https://brflu.walk-tv.com/5865/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTE",Combate¹
 https://8mwx.short.gy/COMBATE/index.m3u8
+#EXTINF:-1 group-title="ESPORTE",National Sports Channel
+https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
+#EXTINF:-1 group-title="ESPORTE",Canal UOL
+https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="FUTEBOL",FUT 1
 http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
@@ -112,6 +116,8 @@ https://brflu.walk-tv.com/5738/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record
 https://brflu.walk-tv.com/5740/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Com Brasil
+https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
@@ -435,6 +441,10 @@ https://brflu.walk-tv.com/5787/playlist.m3u8
 https://brflu.walk-tv.com/5838/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Tooncast¹
 https://watch.vcdn.in/tooncast/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",Leo e Lullly TV
+https://cdn-2.nxplay.com.br/LEO_E_LULLY/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",PIX TV
+https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
 #EXTINF:-1 group-title="DESENHOS",Zoomoo
 https://cdn-2.nxplay.com.br/ZOOMOO_HD_NX_TK/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Zoomoo¹
