@@ -108,6 +108,8 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV
 https://brflu.walk-tv.com/5738/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record
 https://brflu.walk-tv.com/5740/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT
