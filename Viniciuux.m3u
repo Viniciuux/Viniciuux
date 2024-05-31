@@ -103,10 +103,32 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/973/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/996/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",FAST&FUN Box
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1018/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",NRPA
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2406/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",National Sports Channel
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Viju Sport
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/160/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport News
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2477/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Austria 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2492/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",BeIN Sport 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2499/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",BeIN Sport 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2500/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",BeIN Sport 3
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2501/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",TNT Sport 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2505/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",TNT Sport 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2506/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",One
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2507/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2518/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2517/index.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Canal UOL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
