@@ -105,12 +105,16 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/973/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/996/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",FAST&FUN Box
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1018/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",C Sport
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10057/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",NRPA
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2406/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",National Sports Channel
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Viju Sport
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/160/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport F1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10079/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport News
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2477/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Austria 1
@@ -127,10 +131,20 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2505/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2506/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",One
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2507/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",SN Sport
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11107/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Sports Net
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11108/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Sports Net
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11109/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 1
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2518/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2517/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Viaplay
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11110/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Viaplay 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11111/index.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Canal UOL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -590,6 +604,8 @@ https://watch.vcdn.in/sexprive/playlist.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/910/index.m3u8
 #EXTINF:-1 group-title="XYZ",Eromanis 4K
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10047/index.m3u8
+#EXTINF:-1 group-title="XYZ",Eromanis 2 4K
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10049/index.m3u8
 #EXTINF:-1 group-title="XYZ",Pornbox
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1037
 #EXTINF:-1 group-title="XYZ",Sexy Hot
