@@ -35,6 +35,10 @@ https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN TLK FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN SD
@@ -43,6 +47,8 @@ https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD¹
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
+#EXTINF:-1 group-title="ESPN",ESPN 2 TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19058/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2
 https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2 HD
@@ -61,6 +67,8 @@ https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 5
 https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 6 TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA HD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
@@ -71,6 +79,10 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 https://brflu.walk-tv.com/5865/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Combate¹
 https://8mwx.short.gy/COMBATE/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19042/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",DAZN 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19043/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",MMA TV HD
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/843/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",OVT6ON 1 FHD
@@ -129,6 +141,8 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2501/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2505/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",TNT Sport 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2506/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",TNT Sport 5
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19054/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",One
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2507/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",SN Sport
@@ -220,6 +234,8 @@ https://watch.vcdn.in/telecinetouch/playlist.m3u8
 https://brflu.walk-tv.com/5891/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO¹
 https://watch.vcdn.in/hbo/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19046/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
 https://brflu.walk-tv.com/5857/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2¹
@@ -230,18 +246,26 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19045/index.m3u8
 https://brflu.walk-tv.com/5893/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus¹
 https://watch.vcdn.in/hbomais/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Plus | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19048/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family
 https://brflu.walk-tv.com/5859/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family¹.
 https://watch.vcdn.in/hbofamily/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature
 https://brflu.walk-tv.com/5861/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19050/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature¹
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
 #EXTINF:-1 group-title="RUNTV",Runtime Action
