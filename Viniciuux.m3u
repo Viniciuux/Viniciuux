@@ -97,6 +97,12 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/272/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/271/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Setanta Sports 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/270/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",UDAR
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/973/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",XSport
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/996/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",FAST&FUN Box
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1018/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",National Sports Channel
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Viju Sport
@@ -322,6 +328,8 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1651837062.m3
 https://watch.vcdn.in/curta/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",PlayTV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",4EVER Music
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",Fish TV
 https://watch.vcdn.in/fishtv/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",FashionTV¹
@@ -353,6 +361,8 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 https://brflu.walk-tv.com/5821/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV Classics
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/142/index.m3u8
+#EXTINF:-1 group-title="VARIADOS",MTV 90s
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1038/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil
 https://brflu.walk-tv.com/5796/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
@@ -532,6 +542,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/pla
 https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcbfa46e802a0904-94b586a0b71cd04e36252279e75d729c-1716276067-1716265267
 #EXTINF:-1 group-title="XYZ",HustlerRUS
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/244/index.m3u8
+#EXTINF:-1 group-title="XYZ",Blue Hustler
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1064/index.m3u8
 #EXTINF:-1 group-title="XYZ",Barely Legal TV
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/871/index.m3u8
 #EXTINF:-1 group-title="XYZ",Playboy
