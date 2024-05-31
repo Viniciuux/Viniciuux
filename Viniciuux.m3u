@@ -35,6 +35,8 @@ https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTV PORTUGAL",SporTV 1 PORT
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19161/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN TLK
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN TLK FHD
@@ -81,6 +83,8 @@ https://brflu.walk-tv.com/5865/playlist.m3u8
 https://8mwx.short.gy/COMBATE/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19042/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1 ESP
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19158/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",DAZN 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19043/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",MMA TV HD
@@ -159,6 +163,44 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2517/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11110/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Viaplay 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11111/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",NFL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19142/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Nascar
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19150/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Nascar 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19153/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",MLB
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19151/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",FOX Racing
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19144/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",S Sports
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19070/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",S Sports 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19071/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport 24
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19127/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Arena
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19128/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Calcio
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19131/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Golf
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19132/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport MotoG
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19133/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport NBA
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19134/index.m3u8
+#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Uno
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19137/index.m3u8
+#EXTINF:-1 group-title="FOX Sports Arg",FOX Sports
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19138/index.m3u8
+#EXTINF:-1 group-title="FOX Sports Arg",FOX Sports 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19139/index.m3u8
+#EXTINF:-1 group-title="ESPN USA",ESPN News
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19154/index.m3u8
+#EXTINF:-1 group-title="ESPN USA",ESPN 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19155/index.m3u8
+#EXTINF:-1 group-title="ESPN USA",ESPN NFL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19156/index.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Canal UOL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -425,6 +467,8 @@ https://brflu.walk-tv.com/5821/playlist.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/142/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV 90s
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1038/index.m3u8
+#EXTINF:-1 group-title="VARIADOS",MTV Live
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19157/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil
 https://brflu.walk-tv.com/5796/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
