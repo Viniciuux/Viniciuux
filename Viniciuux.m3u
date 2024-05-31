@@ -65,23 +65,47 @@ https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ESPORTE",Band Sports FHD
+#EXTINF:-1 group-title="ESPORTE BR",Band Sports FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 group-title="ESPORTE",Combate
+#EXTINF:-1 group-title="ESPORTE BR",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTE",Combate¹
+#EXTINF:-1 group-title="ESPORTE BR",Combate¹
 https://8mwx.short.gy/COMBATE/index.m3u8
-#EXTINF:-1 group-title="ESPORTE",National Sports Channel
+#EXTINF:-1 group-title="ESPORTE WORLD",MMA TV HD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/843/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",OVT6ON 1 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/222/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",OVT6ON 2 HD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/530/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",MAT4 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/220/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",MAT4 2 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/211/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",MAT4 3 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/206/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",KHL FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/215/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD", NRPA KHL FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/225/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",EUROSPORTS 1 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/228/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",EUROSPORTS 2 FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/234/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Setanta Sports
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/272/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Setanta Sports 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/271/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Setanta Sports 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/270/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",National Sports Channel
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
-#EXTINF:-1 group-title="ESPORTE",Canal UOL
+#EXTINF:-1 group-title="ESPORTE WORLD",Viju Sport
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/160/index.m3u8
+#EXTINF:-1 group-title="ESPORTE BR",Canal UOL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FUTEBOL",FUT 1
+#EXTINF:-1 group-title="FUTEBOL BR",FUT 1
 http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
-#EXTINF:-1 group-title="MENGO",GB PFC1
-https://live-cm-ah-13-28.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTMtMjgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE2NTUyMzk1LCJpYXQiOjE3MTY0NjU5OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3BmYzEvcGxheWxpc3QubTN1OCJ9.Hq_8XmTiTW_j7ukkHFZmKSGzYWuBvkutHE_HbWJ6wscQ2R1LBZ5bSL5vscL8WsK8iVGdDtBCO7RVSFiyGDaNIH8G-uue6OlijIkJKgwxjPPlg46LPbWHYXbMRIxt09_lfVTtLMGqC7bs-xFWYe7jYBBGFrTPyinKa4fFxRRHD5AnEWMsD9LSC7TfWeU7A2-fA-jMOEKdJO0gyeVAHgdOOklnL2LMPVSg6ApdP5dKHWBzjRfV4-hrffh4YEjKsCD25qDhfgNCGieIPG7yQzZGmfKn8enzi1_cCaFhjaHSpjPYbPogjKFXEBSqgoGsiICoHbRXs8Y6ipJfhm_yVOYzbQ/nu/f(bMax=3300000,bMin=2000)/pfc1/playlist.m3u8
-#EXTINF:-1 group-title="MENGO",GB SPORTV
-https://live-cm-ah-14-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE2NTUyODQ3LCJpYXQiOjE3MTY0NjY0NDcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.jmHGu--MZKjvzStWhcWg_sN48Wjk3Uk8LVlS-0aOOJACtTbGu_9Hw6kuSC-DmK_eIXMXPy-AVovM8H8iRp-srOY51KIvKd2J-1NXTkXqqaGdS4ibzNjT2CJqB21cwcefeI4uQKxMG6UYI7ns3jDiHKTPViNUhQTCu8S3SUdcmqCxEfPK-7ww6nGSvlSSZ26dgY5XjxwbWg2SMQMfJzzx21aOUgyIKmNF2EQC7ebQxlBP_O5rc4od4BMo7v-2Dsr229k_2ohoS8xd7IgoQ7sXDXK_v2YXC72LLp_AsYYElKUdgpp3fMM7-LfTAg6oOfjheQfK3GrreEP_xiMr5lXczw/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -327,6 +351,8 @@ https://watch.vcdn.in/mtvlive/playlist.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 group-title="VARIADOS",MTV¹
 https://brflu.walk-tv.com/5821/playlist.m3u8
+#EXTINF:-1 group-title="VARIADOS",MTV Classics
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/142/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil
 https://brflu.walk-tv.com/5796/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
@@ -490,26 +516,42 @@ http://168.205.87.198:8555/live/1492/123456/159.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Private Rus
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/243/index.m3u8
 #EXTINF:-1 group-title="XYZ",DreamSex
 https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 group-title="XYZ",ERO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Red Light
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",Redlight Rus
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/242/index.m3u8
 #EXTINF:-1 group-title="XYZ",Hustler
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",HustlerTV
 https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcbfa46e802a0904-94b586a0b71cd04e36252279e75d729c-1716276067-1716265267
+#EXTINF:-1 group-title="XYZ",HustlerRUS
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/244/index.m3u8
+#EXTINF:-1 group-title="XYZ",Barely Legal TV
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/871/index.m3u8
 #EXTINF:-1 group-title="XYZ",Playboy
 https://watch.vcdn.in/playboy/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",PlayboyRUS
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/527/index.m3u8
 #EXTINF:-1 group-title="XYZ",Playboy FHD
 http://conexaoonline.top:80/3486527/8553692/74.m3u8
 #EXTINF:-1 group-title="XYZ",zyx Classics
 http://747731513407755143.ofg0316.xyz:80/play/HW725566/A1234567/755143.ts
 #EXTINF:-1 group-title="XYZ",Dorcel TV
 https://cdn-notpub-london.lolokoko.tv/DorcelTV.stream/chunks.m3u8
+#EXTINF:-1 group-title="XYZ",DorcelRUS
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/245/index.m3u8
+#EXTINF:-1 group-title="XYZ",Flowers Russ
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/147/index.m3u8
 #EXTINF:-1 group-title="XYZ",Sex Prive
 https://watch.vcdn.in/sexprive/playlist.m3u8
+#EXTINF:-1 group-title="XYZ",brazzers TV
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/910/index.m3u8
 #EXTINF:-1 group-title="XYZ",Pornbox
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1037
 #EXTINF:-1 group-title="XYZ",Sexy Hot
@@ -532,90 +574,6 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/1298
 https://watch.vcdn.in/venus/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Venus FHD
 http://conexaoonline.top:80/3486527/8553692/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 01
-http://conexaoonline.top:80/005279/key5f0e5x0L/110737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 02
-http://conexaoonline.top:80/005279/key5f0e5x0L/110738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 03
-http://conexaoonline.top:80/005279/key5f0e5x0L/110739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 04
-http://conexaoonline.top:80/005279/key5f0e5x0L/110740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 06
-http://conexaoonline.top:80/005279/key5f0e5x0L/110742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 08
-http://conexaoonline.top:80/005279/key5f0e5x0L/110744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 12" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 12
-http://conexaoonline.top:80/005279/key5f0e5x0L/110748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 13" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 13
-http://conexaoonline.top:80/005279/key5f0e5x0L/110749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 16" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CANAIS | PAY-PER-VIEW",CINE 16
-http://conexaoonline.top:80/005279/key5f0e5x0L/110752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="https://www.rochagalaxia.live/logos/disney250.png" group-title="CANAIS | PAY-PER-VIEW",CINE DISNEY
-http://conexaoonline.top:80/005279/key5f0e5x0L/59711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://www.rochagalaxia.live/logos/logomarvel250.png" group-title="CANAIS | PAY-PER-VIEW",CINE MARVEL
-http://conexaoonline.top:80/005279/key5f0e5x0L/59557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 1
-http://conexaoonline.top:80/005279/key5f0e5x0L/20574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 10
-http://conexaoonline.top:80/005279/key5f0e5x0L/25716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 11
-http://conexaoonline.top:80/005279/key5f0e5x0L/25717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 12
-http://conexaoonline.top:80/005279/key5f0e5x0L/25718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 13
-http://conexaoonline.top:80/005279/key5f0e5x0L/25719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 14
-http://conexaoonline.top:80/005279/key5f0e5x0L/25720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 2
-http://conexaoonline.top:80/005279/key5f0e5x0L/20575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 3
-http://conexaoonline.top:80/005279/key5f0e5x0L/20629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 4
-http://conexaoonline.top:80/005279/key5f0e5x0L/20630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 5
-http://conexaoonline.top:80/005279/key5f0e5x0L/20719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 6
-http://conexaoonline.top:80/005279/key5f0e5x0L/20729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 7
-http://conexaoonline.top:80/005279/key5f0e5x0L/20730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 8
-http://conexaoonline.top:80/005279/key5f0e5x0L/25714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CANAIS | PAY-PER-VIEW",CINE SKY 9
-http://conexaoonline.top:80/005279/key5f0e5x0L/25715.m3u8
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINE SUCESSOS" tvg-logo="http://www.rochagalaxia.live/logos/cinesucesso250.png" group-title="CANAIS | FILMES E SERIES",CINE SUCESSOS
-http://conexaoonline.top:80/005279/key5f0e5x0L/166180.m3u8
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 1
-http://5ce.co:80/pamelaflores/92446060a/122135
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 2
-http://5ce.co:80/pamelaflores/92446060a/95848
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 3
-http://5ce.co:80/pamelaflores/92446060a/122137
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 4
-http://5ce.co:80/pamelaflores/92446060a/122138
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 5
-http://5ce.co:80/pamelaflores/92446060a/122139
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 6
-http://5ce.co:80/pamelaflores/92446060a/122140
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 7
-http://5ce.co:80/pamelaflores/92446060a/122141
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 8
-http://5ce.co:80/pamelaflores/92446060a/122142
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 9
-http://5ce.co:80/pamelaflores/92446060a/122143
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 10
-http://5ce.co:80/pamelaflores/92446060a/95849
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 11
-http://5ce.co:80/pamelaflores/92446060a/122136
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 12
-http://5ce.co:80/pamelaflores/92446060a/95850
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 13
-http://5ce.co:80/pamelaflores/92446060a/95851
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 14
-http://5ce.co:80/pamelaflores/92446060a/95852
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 15
-http://5ce.co:80/pamelaflores/92446060a/98443
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/cinesky.png",Cine SKY 16
-http://5ce.co:80/pamelaflores/92446060a/98444
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="CANAIS 4K",Nasa
 http://endpnt.com:8000/nasa-uhd.ts
