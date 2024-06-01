@@ -684,6 +684,8 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/871/index.m3u8
 https://watch.vcdn.in/playboy/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",PlayboyRUS
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/527/index.m3u8
+#EXTINF:-1 group-title="XYZ",PlayboyCaz
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/527/manifest.m3u88
 #EXTINF:-1 group-title="XYZ",Playboy FHD
 http://conexaoonline.top:80/3486527/8553692/74.m3u8
 #EXTINF:-1 group-title="XYZ",zyx Classics
