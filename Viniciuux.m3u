@@ -75,6 +75,12 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPN HOLANDA",ESPN | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19201/index.m3u8
+#EXTINF:-1 group-title="ESPN HOLANDA",ESPN 2 | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19202/index.m3u8
+#EXTINF:-1 group-title="ESPN HOLANDA",ESPN 3 | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19203/index.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Band Sports FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Combate
@@ -87,6 +93,10 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19042/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19158/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",DAZN 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19043/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1 ITL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20103/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",CAMP CHINES
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19244/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",MMA TV HD
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/843/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",OVT6ON 1 FHD
@@ -149,12 +159,20 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2506/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19054/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",One
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2507/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Maldova Sport
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19451/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",SN Sport
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11107/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Sports Net
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11108/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Sports Net
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/11109/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Basco 1
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19330/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Basco 2
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19331/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Basco 3
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19332/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 1
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/2518/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",Eleven Sports 2
@@ -171,8 +189,12 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19150/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19153/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",MLB
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19151/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",Fight Box
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20027/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",FOX Racing
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19144/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",W2C Rally
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19422/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",S Sports
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19070/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",S Sports 2
@@ -432,8 +454,6 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1651837062.m3
 https://watch.vcdn.in/curta/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",PlayTV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",4EVER Music
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
 #EXTINF:-1 group-title="VARIADOS",Fish TV
 https://watch.vcdn.in/fishtv/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",FashionTV¹
@@ -628,6 +648,12 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 group-title="MUSIC WORLD",Box Music
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19282/index.m3u8
+#EXTINF:-1 group-title="MUSIC WORLD",4EVER Music
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
+#EXTINF:-1 group-title="MUSIC WORLD",Euro Dance
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20000/index.m3u8
 #EXTINF:-1 group-title="24Hrs",Filmes
 https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Private
@@ -650,6 +676,8 @@ https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcb
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/244/index.m3u8
 #EXTINF:-1 group-title="XYZ",Blue Hustler
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1064/index.m3u8
+#EXTINF:-1 group-title="XYZ",Yosso TV
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19435/index.m3u8
 #EXTINF:-1 group-title="XYZ",Barely Legal TV
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/871/index.m3u8
 #EXTINF:-1 group-title="XYZ",Playboy
@@ -664,6 +692,10 @@ http://747731513407755143.ofg0316.xyz:80/play/HW725566/A1234567/755143.ts
 https://cdn-notpub-london.lolokoko.tv/DorcelTV.stream/chunks.m3u8
 #EXTINF:-1 group-title="XYZ",DorcelRUS
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/245/index.m3u8
+#EXTINF:-1 group-title="XYZ",Dorce Vision
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19401/index.m3u8
+#EXTINF:-1 group-title="XYZ",TMW VR Net
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19406/index.m3u8
 #EXTINF:-1 group-title="XYZ",Flowers Russ
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/147/index.m3u8
 #EXTINF:-1 group-title="XYZ",Sex Prive
