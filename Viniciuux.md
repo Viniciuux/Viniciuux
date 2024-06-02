@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA ATUALIZADO
+#EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
 #EXTINF:-1 group-title="MLS",MLS
 https://1.tiofutbol.com:443/mls/index.m3u8?token=6c70fbc3bed1f8b2e9d82bb5ad9faca8dd1d357c-52e13b2f627484c7072fd33833d2f85a-1717300799-1717289999&remote=104.28.219.126
