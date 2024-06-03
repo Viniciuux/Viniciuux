@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
+
+######################################################################################### Premiere
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
 https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD¹
@@ -312,48 +315,57 @@ https://watch.vcdn.in/telecinepremium/playlist.m3u8
 https://brflu.walk-tv.com/5880/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH¹
 https://watch.vcdn.in/telecinetouch/playlist.m3u8
+
+######################################################################################### HBO
+
 #EXTINF:-1 group-title="HBO",HBO
 https://brflu.walk-tv.com/5891/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO¹
 https://watch.vcdn.in/hbo/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19046/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
 https://brflu.walk-tv.com/5857/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2¹
 https://watch.vcdn.in/hbo2/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2² | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19045/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus
 https://brflu.walk-tv.com/5893/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Plus¹
 https://watch.vcdn.in/hbomais/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Plus | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19048/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family
 https://brflu.walk-tv.com/5859/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Family¹.
 https://watch.vcdn.in/hbofamily/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature
 https://brflu.walk-tv.com/5861/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19050/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Signature¹
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Mundi | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19050/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Plus | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19048/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2² | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19045/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO | TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19046/index.m3u8
+
+######################################################################################### RunTime
+
 #EXTINF:-1 group-title="RUNTV",Runtime Action
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
 #EXTINF:-1 group-title="RUNTV",Runtime TV
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+
+######################################################################################### Filmes | Series
+
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax¹
@@ -440,6 +452,9 @@ https://brflu.walk-tv.com/5897/playlist.m3u8
 https://watch.vcdn.in/megapix/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",SYFY
 https://brflu.walk-tv.com/5835/playlist.m3u8
+
+######################################################################################### Variados
+
 #EXTINF:-1 group-title="VARIADOS",E!
 https://brflu.walk-tv.com/5729/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",E!¹
@@ -531,6 +546,9 @@ https://watch.vcdn.in/travelboxbrazil/playlist.m3u8
 https://brflu.walk-tv.com/5816/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
+
+######################################################################################### Noticias
+
 #EXTINF:-1 group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Agro+ FHD
@@ -545,6 +563,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
 https://brflu.walk-tv.com/5811/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb573e1e7b6c63909bce3f78d2f34482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb45b42893fa2b10148c17940fa83439c8201b3d3d40f8344d375a0419e9bf1de8041d7e4205293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f51e0282ef658ab67be08aae85ca1efd4b7cbad96c5b6395106da81908be93479da0c9ef4b18e242ccbb17cd026b818a58bae6754946b6d048ee5562e5aaf14236d19cd9457929eb3ccdcb1835e9d37cfcace555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee75e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b39c4d0d0ac229c5d72184038e82b12f8b49bd858/152/1280x720_3000797/index.m3u8
+
+######################################################################################### Documentarios
+
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV
 https://brflu.walk-tv.com/5805/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV¹
@@ -567,6 +588,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 https://cdn-2.nxplay.com.br/ARTE1/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",Art1¹
 https://cdn-2.nxplay.com.br/ARTE1_TK/playlist.m3u8
+
+######################################################################################### Discovery
+
 #EXTINF:-1 group-title="DISCOVERY",Animal Planet
 https://brflu.walk-tv.com/5782/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",Animal Planet¹
@@ -609,6 +633,9 @@ https://brflu.walk-tv.com/5902/playlist.m3u8
 https://cdn-4.nxplay.com.br/TLC/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",TLC²
 https://cdn-3.nxplay.com.br/TLC_BR_NX/playlist.m3u8
+
+######################################################################################### Desenhos
+
 #EXTINF:-1 group-title="DESENHOS",Cartoon Network
 https://brflu.walk-tv.com/5801/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Cartoon Network¹
@@ -660,20 +687,32 @@ https://watch.vcdn.in/gloobinho/playlist.m3u8
 https://watch.vcdn.in/babytv/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
+
+######################################################################################### Adult Swim
+
 #EXTINF:-1 group-title="ADULT SWIM",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 group-title="ADULT SWIM",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+######################################################################################### Canais 24hrs
+
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 group-title="24Hrs",Filmes
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+######################################################################################### Music World
+
 #EXTINF:-1 group-title="MUSIC WORLD",Box Music
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19282/index.m3u8
 #EXTINF:-1 group-title="MUSIC WORLD",4EVER Music
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
 #EXTINF:-1 group-title="MUSIC WORLD",Euro Dance
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20000/index.m3u8
-#EXTINF:-1 group-title="24Hrs",Filmes
-https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+######################################################################################### XYZ
+
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Private Rus
@@ -748,9 +787,15 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/1298
 https://watch.vcdn.in/venus/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Venus FHD
 http://conexaoonline.top:80/3486527/8553692/110.m3u8
+
+######################################################################################### Canais 4K
+
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="CANAIS 4K",Nasa
 http://endpnt.com:8000/nasa-uhd.ts
+
+######################################################################################### Filmes MP4
+
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="FILMES | MP4",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
