@@ -32,6 +32,10 @@ https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD ¹
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD ¹²
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN SD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN FHD¹
@@ -802,7 +806,12 @@ http://conexaoonline.top:80/3486527/8553692/110.m3u8
 #EXTINF:-1 group-title="CANAIS 4K",Nasa
 http://endpnt.com:8000/nasa-uhd.ts
 
+######################################################################################### Links Para Scan
+
+https://mycdn.delivery/tlc/index.m3u8
+
 ######################################################################################### Filmes MP4
+
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="FILMES | MP4",Bob Marley: One Love
