@@ -62,12 +62,20 @@ https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN TLK
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN MNF
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19056/manifest.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN TLK FHD
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN MNF FHD
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19059/manifest.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 2 TLK
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19058/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 2 MNF
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 6 TLK
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 6 MNF
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19057/manifest.m3u8
 
 ######################################################################################### Esportes BR
 
