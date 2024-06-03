@@ -313,8 +313,6 @@ https://watch.vcdn.in/telecinecult/playlist.m3u8
 https://brflu.walk-tv.com/5901/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN¹
 https://watch.vcdn.in/telecinefun/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA FHD
-http://tv.painelsat.ovh:8080/Deise1010/Deise1010/56489
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA
 https://brflu.walk-tv.com/5877/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA¹
@@ -808,7 +806,7 @@ http://endpnt.com:8000/nasa-uhd.ts
 
 ######################################################################################### Links Para Scan
 
-https://mycdn.delivery/tlc/index.m3u8
+https://mycdn.delivery/tlc/tracks-v1a1/mono.m3u8
 
 ######################################################################################### Filmes MP4
 
