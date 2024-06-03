@@ -1,48 +1,32 @@
 #EXTM3U
 #EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
-#EXTINF:-1 group-title="MLS",MLS
-https://1.tiofutbol.com:443/mls/index.m3u8?token=6c70fbc3bed1f8b2e9d82bb5ad9faca8dd1d357c-52e13b2f627484c7072fd33833d2f85a-1717300799-1717289999&remote=104.28.219.126
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
 https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD²
-https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD¹
 https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD²
-https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD¹
 https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD²
-https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD¹
 https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD²
-https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD¹
 https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD²
-https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD¹
 https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD²
-https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD¹
 https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD²
-https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
+
+######################################################################################### SporTV
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 2
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="SPORTV",SporTV 3
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTV PORTUGAL",SporTV 1 PORT
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19161/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN TLK FHD
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
+
+######################################################################################### ESPN
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN SD
@@ -51,8 +35,6 @@ https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN HD¹
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
-#EXTINF:-1 group-title="ESPN",ESPN 2 TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19058/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2
 https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN 2 HD
@@ -71,24 +53,41 @@ https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 https://cdn-2.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPN",ESPN 5
 https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 6 TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA HD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN EXTRA SD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ESPN HOLANDA",ESPN | HOL
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19201/index.m3u8
-#EXTINF:-1 group-title="ESPN HOLANDA",ESPN 2 | HOL
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19202/index.m3u8
-#EXTINF:-1 group-title="ESPN HOLANDA",ESPN 3 | HOL
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19203/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN TLK FHD
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 2 TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19058/index.m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 6 TLK
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
+
+######################################################################################### Esportes BR
+
 #EXTINF:-1 group-title="ESPORTE BR",Band Sports FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 group-title="ESPORTE BR",Combate
 https://brflu.walk-tv.com/5865/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTE BR",Combate¹
-https://8mwx.short.gy/COMBATE/index.m3u8
+#EXTINF:-1 group-title="ESPORTE BR",Canal UOL
+https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 group-title="FUTEBOL BR",FUT 1
+http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
+
+######################################################################################### Esportes World
+
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19201/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN 2 | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19202/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN 3 | HOL
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19203/index.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",SporTV 1 PORT
+http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19161/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19042/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",DAZN 1 ESP
@@ -201,35 +200,43 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19422/index.m3u8
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19070/index.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",S Sports 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19071/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport 24
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport 24
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19127/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Arena
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Arena
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19128/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Calcio
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Calcio
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19131/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Golf
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Golf
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19132/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport MotoG
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport MotoG
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19133/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport NBA
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport NBA
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19134/index.m3u8
-#EXTINF:-1 group-title="Sky Sport Italia",Sky Sport Uno
+#EXTINF:-1 group-title="ESPORTE WORLD",Sky Sport Uno
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19137/index.m3u8
-#EXTINF:-1 group-title="FOX Sports Arg",FOX Sports
+#EXTINF:-1 group-title="ESPORTE WORLD",FOX Sports
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19138/index.m3u8
-#EXTINF:-1 group-title="FOX Sports Arg",FOX Sports 2
+#EXTINF:-1 group-title="ESPORTE WORLD",FOX Sports 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19139/index.m3u8
-#EXTINF:-1 group-title="ESPN USA",ESPN News
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN News USA
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19154/index.m3u8
-#EXTINF:-1 group-title="ESPN USA",ESPN 2
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN 2 USA
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19155/index.m3u8
-#EXTINF:-1 group-title="ESPN USA",ESPN NFL
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN NFL USA
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19156/index.m3u8
-#EXTINF:-1 group-title="ESPORTE BR",Canal UOL
-https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FUTEBOL BR",FUT 1
-http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
+#EXTINF:-1 group-title="ESPORTE WORLD",Global News
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6427/manifest.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",SN World
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6439/manifest.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",SN World 2
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6429/manifest.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",NXT WWE
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6443/manifest.m3u8
+#EXTINF:-1 group-title="ESPORTE WORLD",ESPN 1
+http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6445/manifest.m3u8
+
+######################################################################################### A Conquista
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
 https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
@@ -238,6 +245,9 @@ https://umbedtv.shop/14cam-2-conquista/playlist.m3u8
 https://umbedtv.shop/14cam-3-conquista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 4
 https://umbedtv.shop/14cam-4-conquista/playlist.m3u8
+
+######################################################################################### Canais Globo
+
 #EXTINF:-1 group-title="GLOBO",Globo SP
 https://brflu.walk-tv.com/6431/playlist.m3u8
 #EXTINF:-1 group-title="GLOBO",Globo RJ
@@ -252,6 +262,9 @@ https://brflu.walk-tv.com/5755/playlist.m3u8
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM HD
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
+
+######################################################################################### TV Aberta
+
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Terra Viva FHD
@@ -270,6 +283,9 @@ https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Gazeta
 https://brflu.walk-tv.com/5758/playlist.m3u8
+
+######################################################################################### Telecine
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
 https://brflu.walk-tv.com/5875/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
