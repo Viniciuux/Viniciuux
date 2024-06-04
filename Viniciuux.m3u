@@ -302,28 +302,40 @@ https://brflu.walk-tv.com/5758/playlist.m3u8
 ######################################################################################### Telecine
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
-https://brflu.walk-tv.com/5875/playlist.m3u8
+https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
+https://brflu.walk-tv.com/5875/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION²
 https://watch.vcdn.in/telecineaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT
-https://brflu.walk-tv.com/5899/playlist.m3u8
+https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT¹
+https://brflu.walk-tv.com/5899/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT²
 https://watch.vcdn.in/telecinecult/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN
-https://brflu.walk-tv.com/5901/playlist.m3u8
+https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN¹
+https://brflu.walk-tv.com/5901/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN²
 https://watch.vcdn.in/telecinefun/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA
-https://brflu.walk-tv.com/5877/playlist.m3u8
+https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA¹
+https://brflu.walk-tv.com/5877/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA²
 https://watch.vcdn.in/telecinepipoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM
-https://brflu.walk-tv.com/5879/playlist.m3u8
+https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM¹
+https://brflu.walk-tv.com/5879/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM²
 https://watch.vcdn.in/telecinepremium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH
-https://brflu.walk-tv.com/5880/playlist.m3u8
+https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH¹
+https://brflu.walk-tv.com/5880/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH²
 https://watch.vcdn.in/telecinetouch/playlist.m3u8
 
 ######################################################################################### HBO
@@ -350,22 +362,16 @@ https://brflu.walk-tv.com/5861/playlist.m3u8
 https://watch.vcdn.in/hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Pop¹
+https://mycdn.delivery/hbopop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi¹
+https://mycdn.delivery/hbomundi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Mundi | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19050/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Plus | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19048/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2² | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19045/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO | TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19046/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Xtreme¹
+https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
 
 ######################################################################################### RunTime
 
@@ -721,7 +727,7 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
 #EXTINF:-1 group-title="MUSIC WORLD",Euro Dance
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20000/index.m3u8
 
-######################################################################################### XYZ
+######################################################################################### XXX
 
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
@@ -804,326 +810,318 @@ http://conexaoonline.top:80/3486527/8553692/110.m3u8
 #EXTINF:-1 group-title="CANAIS 4K",Nasa
 http://endpnt.com:8000/nasa-uhd.ts
 
-######################################################################################### Links Para Scan
-
-https://mycdn.delivery/tlc/tracks-v1a1/mono.m3u8
-
 ######################################################################################### Filmes MP4
 
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FILMES | MP4",Bob Marley: One Love
+#EXTINF:-1 tvg-name="Bob Marley: One Love" tvg-logo="https://br.web.img2.acsta.net/pictures/23/07/06/16/50/4093909.jpg" group-title="FILMES | LANÇAMENTOS",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FILMES | MP4",Madame Teia
+#EXTINF:-1 tvg-name="Madame Teia" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/12/15/59/2772653.jpg" group-title="FILMES | LANÇAMENTOS",Madame Teia
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
 
-######################################################################################### ANIME
+######################################################################################### ANIMES
 
-#EXTINF:-1 tvg-name="DRAGON BALL 1" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME | DBZ",DRAGON BALL 1
+#EXTINF:-1 tvg-name="DRAGON BALL 1" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 1
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 1
-https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 2
+#EXTINF:-1 tvg-name="DRAGON BALL 2" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 2
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/2.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 3
+#EXTINF:-1 tvg-name="DRAGON BALL 3" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 3
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/3.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 4
+#EXTINF:-1 tvg-name="DRAGON BALL 4" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 4
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/4.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 5
+#EXTINF:-1 tvg-name="DRAGON BALL 5" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 5
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/5.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 6
+#EXTINF:-1 tvg-name="DRAGON BALL 6" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 6
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/6.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 7
+#EXTINF:-1 tvg-name="DRAGON BALL 7" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 7
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/7.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 8
+#EXTINF:-1 tvg-name="DRAGON BALL 8" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 8
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/8.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 9
-https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 10
+#EXTINF:-1 tvg-name="DRAGON BALL 9" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 9
+https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/9.mp4
+#EXTINF:-1 tvg-name="DRAGON BALL 10" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 10
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/10.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 11
+#EXTINF:-1 tvg-name="DRAGON BALL 11" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 11
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/11.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 12
+#EXTINF:-1 tvg-name="DRAGON BALL 12" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 12
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/12.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 13
+#EXTINF:-1 tvg-name="DRAGON BALL 13" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 13
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/13.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 14
+#EXTINF:-1 tvg-name="DRAGON BALL 14" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 14
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/14.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 15
+#EXTINF:-1 tvg-name="DRAGON BALL 15" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 15
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/15.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 16
+#EXTINF:-1 tvg-name="DRAGON BALL 16" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 16
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/16.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 17
+#EXTINF:-1 tvg-name="DRAGON BALL 17" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 17
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/17.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 18
+#EXTINF:-1 tvg-name="DRAGON BALL 18" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 18
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/18.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 19
+#EXTINF:-1 tvg-name="DRAGON BALL 19" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 19
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/19.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 20
+#EXTINF:-1 tvg-name="DRAGON BALL 20" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 20
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/20.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 21
+#EXTINF:-1 tvg-name="DRAGON BALL 21" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 21
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/21.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 22
+#EXTINF:-1 tvg-name="DRAGON BALL 22" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 22
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/22.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 23
+#EXTINF:-1 tvg-name="DRAGON BALL 23" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 23
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/23.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 24
+#EXTINF:-1 tvg-name="DRAGON BALL 24" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 24
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/24.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 25
+#EXTINF:-1 tvg-name="DRAGON BALL 25" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 25
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/25.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 26
+#EXTINF:-1 tvg-name="DRAGON BALL 26" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 26
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/26.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 27
+#EXTINF:-1 tvg-name="DRAGON BALL 27" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 27
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/27.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 28
+#EXTINF:-1 tvg-name="DRAGON BALL 28" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 28
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/28.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 29
+#EXTINF:-1 tvg-name="DRAGON BALL 29" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 29
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/29.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 30
+#EXTINF:-1 tvg-name="DRAGON BALL 30" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 30
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/30.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 31
+#EXTINF:-1 tvg-name="DRAGON BALL 31" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 31
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/31.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 32
+#EXTINF:-1 tvg-name="DRAGON BALL 32" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 32
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/32.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 33
+#EXTINF:-1 tvg-name="DRAGON BALL 33" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 33
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/33.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 34
+#EXTINF:-1 tvg-name="DRAGON BALL 34" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 34
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/34.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 35
+#EXTINF:-1 tvg-name="DRAGON BALL 35" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 35
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/35.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 36
+#EXTINF:-1 tvg-name="DRAGON BALL 36" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 36
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/36.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 37
+#EXTINF:-1 tvg-name="DRAGON BALL 37" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 37
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/37.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 38
+#EXTINF:-1 tvg-name="DRAGON BALL 38" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 38
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/38.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 39
+#EXTINF:-1 tvg-name="DRAGON BALL 39" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 39
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/39.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 40
+#EXTINF:-1 tvg-name="DRAGON BALL 40" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 40
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/40.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 41
+#EXTINF:-1 tvg-name="DRAGON BALL 41" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 41
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/41.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 42
+#EXTINF:-1 tvg-name="DRAGON BALL 42" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 42
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/42.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 43
+#EXTINF:-1 tvg-name="DRAGON BALL 43" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 43
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/43.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 44
+#EXTINF:-1 tvg-name="DRAGON BALL 44" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 44
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/44.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 45
+#EXTINF:-1 tvg-name="DRAGON BALL 45" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 45
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/45.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 46
+#EXTINF:-1 tvg-name="DRAGON BALL 46" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 46
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/46.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 47
+#EXTINF:-1 tvg-name="DRAGON BALL 47" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 47
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/47.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 48
+#EXTINF:-1 tvg-name="DRAGON BALL 48" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 48
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/48.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 49
+#EXTINF:-1 tvg-name="DRAGON BALL 49" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 49
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/49.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 50
+#EXTINF:-1 tvg-name="DRAGON BALL 50" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 50
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/50.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 51
+#EXTINF:-1 tvg-name="DRAGON BALL 51" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 51
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/51.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 52
+#EXTINF:-1 tvg-name="DRAGON BALL 52" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 52
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/52.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 53
+#EXTINF:-1 tvg-name="DRAGON BALL 53" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 53
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/53.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 54
+#EXTINF:-1 tvg-name="DRAGON BALL 54" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 54
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/54.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 55
+#EXTINF:-1 tvg-name="DRAGON BALL 55" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 55
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/55.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 56
+#EXTINF:-1 tvg-name="DRAGON BALL 56" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 56
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/56.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 57
+#EXTINF:-1 tvg-name="DRAGON BALL 57" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 57
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/57.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 58
+#EXTINF:-1 tvg-name="DRAGON BALL 58" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME | DBZ",DRAGON BALL 58
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/58.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 59
+#EXTINF:-1 tvg-name="DRAGON BALL 59" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 59
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/59.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 60
+#EXTINF:-1 tvg-name="DRAGON BALL 60" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 60
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/60.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 61
+#EXTINF:-1 tvg-name="DRAGON BALL 61" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 61
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/61.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 62
+#EXTINF:-1 tvg-name="DRAGON BALL 62" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 62
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/62.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 63
+#EXTINF:-1 tvg-name="DRAGON BALL 63" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 63
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/63.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 64
+#EXTINF:-1 tvg-name="DRAGON BALL 64" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 64
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/64.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 65
+#EXTINF:-1 tvg-name="DRAGON BALL 65" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 65
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/65.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 66
+#EXTINF:-1 tvg-name="DRAGON BALL 66" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 66
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/66.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 67
+#EXTINF:-1 tvg-name="DRAGON BALL 67" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 67
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/67.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 68
+#EXTINF:-1 tvg-name="DRAGON BALL 68" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 68
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/68.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 69
+#EXTINF:-1 tvg-name="DRAGON BALL 69" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 69
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/69.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 70
+#EXTINF:-1 tvg-name="DRAGON BALL 70" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 70
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/70.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 71
+#EXTINF:-1 tvg-name="DRAGON BALL 71" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 71
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/71.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 72
+#EXTINF:-1 tvg-name="DRAGON BALL 72" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 72
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/72.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 73
+#EXTINF:-1 tvg-name="DRAGON BALL 73" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 73
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/73.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 74
+#EXTINF:-1 tvg-name="DRAGON BALL 74" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 74
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/74.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 75
+#EXTINF:-1 tvg-name="DRAGON BALL 75" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 75
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/75.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 76
+#EXTINF:-1 tvg-name="DRAGON BALL 76" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 76
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/76.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 77
+#EXTINF:-1 tvg-name="DRAGON BALL 77" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 77
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/77.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 78
+#EXTINF:-1 tvg-name="DRAGON BALL 78" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 78
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/78.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 79
+#EXTINF:-1 tvg-name="DRAGON BALL 79" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 79
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/79.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 80
+#EXTINF:-1 tvg-name="DRAGON BALL 80" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 80
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/80.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 81
+#EXTINF:-1 tvg-name="DRAGON BALL 81" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 81
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/81.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 82
+#EXTINF:-1 tvg-name="DRAGON BALL 82" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 82
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/82.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 83
+#EXTINF:-1 tvg-name="DRAGON BALL 83" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 83
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/83.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 84
+#EXTINF:-1 tvg-name="DRAGON BALL 84" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 84
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/84.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 85
+#EXTINF:-1 tvg-name="DRAGON BALL 85" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 85
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/85.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 86
+#EXTINF:-1 tvg-name="DRAGON BALL 86" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 86
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/86.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 87
+#EXTINF:-1 tvg-name="DRAGON BALL 87" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 87
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/87.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 88
+#EXTINF:-1 tvg-name="DRAGON BALL 88" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 88
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/88.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 89
+#EXTINF:-1 tvg-name="DRAGON BALL 89" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 89
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/89.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 90
+#EXTINF:-1 tvg-name="DRAGON BALL 90" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 90
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/90.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 91
+#EXTINF:-1 tvg-name="DRAGON BALL 91" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 91
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/91.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 92
+#EXTINF:-1 tvg-name="DRAGON BALL 92" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 92
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/92.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 93
+#EXTINF:-1 tvg-name="DRAGON BALL 93" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 93
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/93.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 94
+#EXTINF:-1 tvg-name="DRAGON BALL 94" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 94
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/94.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 95
+#EXTINF:-1 tvg-name="DRAGON BALL 95" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 95
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/95.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 96
+#EXTINF:-1 tvg-name="DRAGON BALL 96" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 96
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/96.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 97
+#EXTINF:-1 tvg-name="DRAGON BALL 97" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 97
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/97.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 98
+#EXTINF:-1 tvg-name="DRAGON BALL 98" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 98
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/98.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 99
+#EXTINF:-1 tvg-name="DRAGON BALL 99" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 99
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/99.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 100
+#EXTINF:-1 tvg-name="DRAGON BALL 100" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 100
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/100.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 101
+#EXTINF:-1 tvg-name="DRAGON BALL 101" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 101
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/101.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 102
+#EXTINF:-1 tvg-name="DRAGON BALL 102" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 102
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/102.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 103
+#EXTINF:-1 tvg-name="DRAGON BALL 103" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 103
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/103.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 104
+#EXTINF:-1 tvg-name="DRAGON BALL 104" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 104
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/104.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 105
+#EXTINF:-1 tvg-name="DRAGON BALL 105" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 105
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/105.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 106
+#EXTINF:-1 tvg-name="DRAGON BALL 106" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 106
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/106.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 107
+#EXTINF:-1 tvg-name="DRAGON BALL 107" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 107
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/107.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 108
+#EXTINF:-1 tvg-name="DRAGON BALL 108" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 108
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/108.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 109
+#EXTINF:-1 tvg-name="DRAGON BALL 109" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 109
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/109.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 110
+#EXTINF:-1 tvg-name="DRAGON BALL 110" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 110
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/110.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 111
+#EXTINF:-1 tvg-name="DRAGON BALL 111" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 111
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/111.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 112
+#EXTINF:-1 tvg-name="DRAGON BALL 112" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 112
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/112.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 113
+#EXTINF:-1 tvg-name="DRAGON BALL 113" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 113
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/113.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 114
+#EXTINF:-1 tvg-name="DRAGON BALL 114" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 114
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/114.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 115
+#EXTINF:-1 tvg-name="DRAGON BALL 115" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 115
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/115.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 116
+#EXTINF:-1 tvg-name="DRAGON BALL 116" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 116
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/116.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 117
+#EXTINF:-1 tvg-name="DRAGON BALL 117" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 117
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/117.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 118
+#EXTINF:-1 tvg-name="DRAGON BALL 118" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 118
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/118.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 119
+#EXTINF:-1 tvg-name="DRAGON BALL 119" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 119
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/119.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 120
+#EXTINF:-1 tvg-name="DRAGON BALL 120" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 120
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/120.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 121
+#EXTINF:-1 tvg-name="DRAGON BALL 121" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 121
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/121.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 122
+#EXTINF:-1 tvg-name="DRAGON BALL 122" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 122
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/122.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 123
+#EXTINF:-1 tvg-name="DRAGON BALL 123" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 123
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/123.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 124
+#EXTINF:-1 tvg-name="DRAGON BALL 124" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 124
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/124.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 125
+#EXTINF:-1 tvg-name="DRAGON BALL 125" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 125
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/125.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 126
+#EXTINF:-1 tvg-name="DRAGON BALL 126" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 126
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/126.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 127
+#EXTINF:-1 tvg-name="DRAGON BALL 127" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 127
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/127.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 128
+#EXTINF:-1 tvg-name="DRAGON BALL 128" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 128
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/128.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 129
+#EXTINF:-1 tvg-name="DRAGON BALL 129" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 129
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/129.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 130
+#EXTINF:-1 tvg-name="DRAGON BALL 130" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 130
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/130.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 131
+#EXTINF:-1 tvg-name="DRAGON BALL 131" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 131
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/131.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 132
+#EXTINF:-1 tvg-name="DRAGON BALL 132" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 132
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/132.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 133
+#EXTINF:-1 tvg-name="DRAGON BALL 133" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 133
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/133.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 134
+#EXTINF:-1 tvg-name="DRAGON BALL 134" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 134
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/134.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 135
+#EXTINF:-1 tvg-name="DRAGON BALL 135" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 135
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/135.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 136
+#EXTINF:-1 tvg-name="DRAGON BALL 136" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 136
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/136.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 137
+#EXTINF:-1 tvg-name="DRAGON BALL 137" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 137
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/137.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 138
+#EXTINF:-1 tvg-name="DRAGON BALL 138" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 138
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/138.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 139
+#EXTINF:-1 tvg-name="DRAGON BALL 139" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 139
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/139.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 140
+#EXTINF:-1 tvg-name="DRAGON BALL 140" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 140
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/140.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 141
+#EXTINF:-1 tvg-name="DRAGON BALL 141" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 141
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/141.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 142
+#EXTINF:-1 tvg-name="DRAGON BALL 142" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 142
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/142.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 143
+#EXTINF:-1 tvg-name="DRAGON BALL 143" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 143
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/143.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 144
+#EXTINF:-1 tvg-name="DRAGON BALL 144" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 144
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/144.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 145
+#EXTINF:-1 tvg-name="DRAGON BALL 145" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 145
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/145.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 146
+#EXTINF:-1 tvg-name="DRAGON BALL 146" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 146
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/146.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 147
+#EXTINF:-1 tvg-name="DRAGON BALL 147" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 147
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/147.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 148
+#EXTINF:-1 tvg-name="DRAGON BALL 148" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 148
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/148.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 149
+#EXTINF:-1 tvg-name="DRAGON BALL 149" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 149
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/149.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 150
+#EXTINF:-1 tvg-name="DRAGON BALL 150" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 150
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/150.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 151
+#EXTINF:-1 tvg-name="DRAGON BALL 151" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 151
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/151.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 152
+#EXTINF:-1 tvg-name="DRAGON BALL 152" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 152
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/152.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 153
+#EXTINF:-1 tvg-name="DRAGON BALL 153" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 153
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/153.mp4
