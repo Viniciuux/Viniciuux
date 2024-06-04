@@ -819,7 +819,8 @@ http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
 
 ######################################################################################### ANIME
 
-#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 tvg-name="DRAGON BALL 1" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME | DBZ",DRAGON BALL 1
+https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
 #EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 1
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
 #EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 2
@@ -836,8 +837,6 @@ https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/6.mp4
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/7.mp4
 #EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 8
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/8.mp4
-#EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 9
-https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
 #EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 9
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/1.mp4
 #EXTINF:-1 group-title="ANIMES DUB | DBZ",DRAGON BALL ep 10
