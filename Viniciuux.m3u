@@ -57,17 +57,10 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19059/manifest.m3u8
 #EXTINF:-1 tvg-name="ESPN MNF 2" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPN",ESPN MNF 2
 http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 
-#EXTINF:-1 group-title="ESPORTE BR",Band Sports FHD
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2021/05/BandSports.jpg" group-title="ESPORTE BR",Band Sports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 group-title="ESPORTE BR",Combate
-https://brflu.walk-tv.com/5865/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTE BR",Canal UOL
-https://d1r94zrwa3gnlo.cloudfront.net/livestore1/stream/hls/3749/3749.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="FUTEBOL BR",FUT 1
-http://conexaoonline.top:80/163120167249336/key5f0e5x0L/369468.ts
-
-######################################################################################### Esportes World
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="ESPORTE BR",Combate
+https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTE WORLD",ESPN | HOL
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19201/index.m3u8
@@ -224,137 +217,118 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6443/manifest.m3u8
 #EXTINF:-1 group-title="ESPORTE WORLD",ESPN 1
 http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/6445/manifest.m3u8
 
-######################################################################################### A Conquista
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 1
-https://umbedtv.shop/14cam-1-conquista/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 2
-https://umbedtv.shop/14cam-2-conquista/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 3
-https://umbedtv.shop/14cam-3-conquista/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title="A CONQUISTA",CAM 4
-https://umbedtv.shop/14cam-4-conquista/playlist.m3u8
-
-######################################################################################### Canais Globo
-
-#EXTINF:-1 group-title="GLOBO",Globo SP
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo SP
 https://brflu.walk-tv.com/6431/playlist.m3u8
-#EXTINF:-1 group-title="GLOBO",Globo RJ
+#EXTINF:-1 tvg-name="Globo RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo RJ
 https://brflu.walk-tv.com/5756/playlist.m3u8
-#EXTINF:-1 group-title="GLOBO",Globo Nord
+#EXTINF:-1 tvg-name="Globo NORD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo NORD
 https://brflu.walk-tv.com/5750/playlist.m3u8
-#EXTINF:-1 group-title="GLOBO",Globo Minas
-https://brflu.walk-tv.com/5752/playlist.m3u8
-#EXTINF:-1 group-title="GLOBO",Globo Brasilia
+#EXTINF:-1 tvg-name="Globo MINAS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo MINAS
+https://brflu.walk-tv.com/5752/playlist.m3u
+#EXTINF:-1 tvg-name="Globo BRAS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo BRAS
 https://brflu.walk-tv.com/5755/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM SD
-https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AM HD
+#EXTINF:-1 tvg-name="Globo AMA" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO",Globo AMA
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 
-######################################################################################### TV Aberta
-
-#EXTINF:-1 group-title="TV ABERTA",Band
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Terra Viva FHD
+#EXTINF:-1 tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="TV ABERTA",Terra Viva
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Amazon Sat
+#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://amazonsat.com/static/media/mobileAppIcon.f4e65a89de2cd5393943.png" group-title="TV ABERTA",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Rede TV
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2018/10/redetv_01.jpg" group-title="TV ABERTA",Rede TV
 https://brflu.walk-tv.com/5738/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",RBA
+#EXTINF:-1 tvg-name="RBA" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv.png" group-title="TV ABERTA",RBA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Record
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://img.r7.com/images/record-tv-06112023200331159" group-title="TV ABERTA",Record
 https://brflu.walk-tv.com/5740/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Com Brasil
+#EXTINF:-1 tvg-name="Com Brasil" tvg-logo="https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0" group-title="TV ABERTA",Com Brasil
 https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA",SBT
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",TV Gazeta
-https://brflu.walk-tv.com/5758/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHCgtIJ-hvEoVg4QffA3myDKTg00nRWOiJ3TfpIwrfYeU=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA",TV Gazeta
+https://brflu.walk-tv.com/5758/playlist.m3u
 
-######################################################################################### Telecine
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
+
+#EXTINF:-1 tvg-name="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
 https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
+#EXTINF:-1 tvg-name="TC ACTION¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION¹
 https://brflu.walk-tv.com/5875/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION²
+#EXTINF:-1 tvg-name="TC ACTION²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION²
 https://watch.vcdn.in/telecineaction/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT
+#EXTINF:-1 tvg-name="TC CULT" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT
 https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT¹
+#EXTINF:-1 tvg-name="TC CULT²" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT¹
 https://brflu.walk-tv.com/5899/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT²
+#EXTINF:-1 tvg-name="TC CULT²" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINE",TC CULT²
 https://watch.vcdn.in/telecinecult/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN
+#EXTINF:-1 tvg-name="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN
 https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN¹
+#EXTINF:-1 tvg-name="TC FUN¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN¹
 https://brflu.walk-tv.com/5901/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN²
+#EXTINF:-1 tvg-name="TC FUN²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="TELECINE",TC FUN²
 https://watch.vcdn.in/telecinefun/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA
+#EXTINF:-1 tvg-name="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA
 https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA¹
+#EXTINF:-1 tvg-name="TC PIPOCA¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA¹
 https://brflu.walk-tv.com/5877/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA²
+#EXTINF:-1 tvg-name="TC PIPOCA²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="TELECINE",TC PIPOCA²
 https://watch.vcdn.in/telecinepipoca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM
+
+#EXTINF:-1 tvg-name="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM
 https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM¹
+#EXTINF:-1 tvg-name="TC PREMIUM¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM¹
 https://brflu.walk-tv.com/5879/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM²
+#EXTINF:-1 tvg-name="TC PREMIUM²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TELECINE",TC PREMIUM²
 https://watch.vcdn.in/telecinepremium/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH
+#EXTINF:-1 tvg-name="TC TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH
 https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH¹
+#EXTINF:-1 tvg-name="TC TOUCH¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH¹
 https://brflu.walk-tv.com/5880/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH²
+#EXTINF:-1 tvg-name="TC TOUCH²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TELECINE",TC TOUCH²
 https://watch.vcdn.in/telecinetouch/playlist.m3u8
 
-######################################################################################### HBO
-
-#EXTINF:-1 group-title="HBO",HBO
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="HBO",HBO
 https://brflu.walk-tv.com/5891/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO¹
+#EXTINF:-1 tvg-name="HBO¹" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="HBO",HBO¹
 https://watch.vcdn.in/hbo/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="HBO",HBO 2
 https://brflu.walk-tv.com/5857/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2¹
+#EXTINF:-1 tvg-name="HBO 2¹" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="HBO",HBO 2¹
 https://watch.vcdn.in/hbo2/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="HBO",HBO Plus
 https://brflu.walk-tv.com/5893/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Plus¹
+#EXTINF:-1 tvg-name="HBO Plus¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="HBO",HBO Plus¹
 https://watch.vcdn.in/hbomais/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="HBO",HBO Family
 https://brflu.walk-tv.com/5859/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family¹.
+#EXTINF:-1 tvg-name="HBO Family¹" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="HBO",HBO Family¹
 https://watch.vcdn.in/hbofamily/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="HBO",HBO Signature
 https://brflu.walk-tv.com/5861/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature¹
+#EXTINF:-1 tvg-name="HBO Signature¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="HBO",HBO Signature¹
 https://watch.vcdn.in/hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="HBO",HBO Pop
 https://watch.vcdn.in/hbopop/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Pop¹
-https://mycdn.delivery/hbopop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HBO",HBO Mundi
+#EXTINF:-1 tvg-name="HBO Pop¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="HBO",HBO Pop¹
+https://mycdn.delivery/hbopop/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO",HBO Mundi
 https://watch.vcdn.in/hbomundi/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Mundi¹
-https://mycdn.delivery/hbomundi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HBO",HBO Xtreme
+#EXTINF:-1 tvg-name="HBO Mundi¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="HBO",HBO Mundi¹
+https://mycdn.delivery/hbomundi/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO",HBO Xtreme
 https://watch.vcdn.in/hboxtreme/playlist.m3u8
-#EXTINF:-1 group-title="HBO",HBO Xtreme¹
-https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO",HBO Xtreme¹
+https://mycdn.delivery/hboxtreme/playlist.m3u8
 
-######################################################################################### RunTime
 
-#EXTINF:-1 group-title="RUNTV",Runtime Action
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_br_action_bg.jpg" group-title="RUNTV",Runtime Action
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-#EXTINF:-1 group-title="RUNTV",Runtime TV
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="RUNTV",Runtime TV
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 
-######################################################################################### Filmes | Series
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="FILMES | SERIES",Cinemax
 https://brflu.walk-tv.com/5783/playlist.m3u8
@@ -443,7 +417,7 @@ https://watch.vcdn.in/megapix/playlist.m3u8
 #EXTINF:-1 group-title="FILMES | SERIES",SYFY
 https://brflu.walk-tv.com/5835/playlist.m3u8
 
-######################################################################################### Variados
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="VARIADOS",E!
 https://brflu.walk-tv.com/5729/playlist.m3u8
@@ -537,7 +511,7 @@ https://brflu.walk-tv.com/5816/playlist.m3u8
 #EXTINF:-1 group-title="VARIADOS",Lifetime FHD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 
-######################################################################################### Noticias
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
@@ -554,7 +528,7 @@ https://brflu.walk-tv.com/5811/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb573e1e7b6c63909bce3f78d2f34482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb45b42893fa2b10148c17940fa83439c8201b3d3d40f8344d375a0419e9bf1de8041d7e4205293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f51e0282ef658ab67be08aae85ca1efd4b7cbad96c5b6395106da81908be93479da0c9ef4b18e242ccbb17cd026b818a58bae6754946b6d048ee5562e5aaf14236d19cd9457929eb3ccdcb1835e9d37cfcace555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee75e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b39c4d0d0ac229c5d72184038e82b12f8b49bd858/152/1280x720_3000797/index.m3u8
 
-######################################################################################### Documentarios
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV
 https://brflu.walk-tv.com/5805/playlist.m3u8
@@ -579,7 +553,7 @@ https://cdn-2.nxplay.com.br/ARTE1/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",Art1¹
 https://cdn-2.nxplay.com.br/ARTE1_TK/playlist.m3u8
 
-######################################################################################### Discovery
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="DISCOVERY",Animal Planet
 https://brflu.walk-tv.com/5782/playlist.m3u8
@@ -624,7 +598,7 @@ https://cdn-4.nxplay.com.br/TLC/playlist.m3u8
 #EXTINF:-1 group-title="DISCOVERY",TLC²
 https://cdn-3.nxplay.com.br/TLC_BR_NX/playlist.m3u8
 
-######################################################################################### Desenhos
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="DESENHOS",Cartoon Network
 https://brflu.walk-tv.com/5801/playlist.m3u8
@@ -678,21 +652,21 @@ https://watch.vcdn.in/babytv/playlist.m3u8
 #EXTINF:-1 group-title="DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 
-######################################################################################### Adult Swim
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="ADULT SWIM",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 group-title="ADULT SWIM",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 
-######################################################################################### Canais 24hrs
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 group-title="24Hrs",Filmes
 https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
-######################################################################################### Music World
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="MUSIC WORLD",Box Music
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19282/index.m3u8
@@ -701,7 +675,7 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
 #EXTINF:-1 group-title="MUSIC WORLD",Euro Dance
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20000/index.m3u8
 
-######################################################################################### XXX
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="AAA",AAA
 
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
@@ -778,16 +752,12 @@ https://watch.vcdn.in/venus/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Venus FHD
 http://conexaoonline.top:80/3486527/8553692/110.m3u8
 
-######################################################################################### Canais 4K
 
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="CANAIS 4K",Nasa
-http://endpnt.com:8000/nasa-uhd.ts
 
 ######################################################################################### Filmes MP4
 
 #EXTINF:-1 tvg-name="Caça-Fantasmas: O Império do Gelo" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/19/17/34/2523057.jpg" group-title="FILMES | LANÇAMENTOS",Caça-Fantasmas: O Império do Gelo
-https://brbeast.com/cdn/hls/c487a22cbaecb76b9d6933fcb0b12901/master.txt
+https://merkury.subtitlecloud.one/video/laWOo6ikoaKWpJCpqauj08amkqbY2KOnk6aXp6fY0aiVo8bUqaud39Sk
 #EXTINF:-1 tvg-name="Bob Marley: One Love" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNkODhhNGUtZjAyNC00ZDdiLTgwOGItZTExZTZlZDg2ZjhiXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UY3000_.jpg" group-title="FILMES | LANÇAMENTOS",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
 #EXTINF:-1 tvg-name="Madame Teia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwYjgzOTctNTE4My00MThkLWE5MGUtODQ3YWFhYWZkNWNkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg" group-title="FILMES | LANÇAMENTOS",Madame Teia
