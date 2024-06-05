@@ -1,22 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="JOGOS DO DIA",JOGOS DO DIA
+#EXTINF:-1 tvg-id="*" tvg-name="*" tvg-logo="*" group-title="*",*
+*****
+######################################################################################### JOGOS DO DIA
+#EXTINF:-1 tvg-name="JOGOS DO DIA" tvg-logo="https://imagens3.ne10.uol.com.br/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg" group-title="JOGOS DO DIA",JOGOS DO DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
 
 ######################################################################################### Premiere
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
-https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD
+https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u
+#EXTINF:-1 tvg-name="Premiere Clube 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 2 HD
 https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 3 HD
 https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 4 HD
 https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 5 HD
 https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 6 HD
 https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD¹
+#EXTINF:-1 tvg-name="Premiere Clube 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube 7 HD
 https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 
 ######################################################################################### SporTV
@@ -1197,5 +1200,5 @@ https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/9.mp4
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/10.mp4
 #EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 11" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 11
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/11.mp4
-#EXTINF:-1 tvg-id="movie" tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 12
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 12
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/12.mp4
