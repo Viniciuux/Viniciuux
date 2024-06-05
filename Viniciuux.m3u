@@ -5,19 +5,19 @@ http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
 ######################################################################################### Premiere
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere Clube HD¹
-https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 2 HD¹
-https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 3 HD¹
-https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 4 HD¹
-https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 5 HD¹
-https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 6 HD¹
-https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="PREMIERE",Premiere 7 HD¹
-https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 
 ######################################################################################### SporTV
 
@@ -1175,5 +1175,5 @@ https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/7.
 https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/8.mp4
 
 
-#EXTINF:-1 tvg-name="Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0Y2Y5ZDYtNTlhOC00MWMxLWFkNGYtYTdhN2QzYzcyODk3XkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg" group-title="ANIME LEG | KONOSUBA 3",Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 8
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0Y2Y5ZDYtNTlhOC00MWMxLWFkNGYtYTdhN2QzYzcyODk3XkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 1
 https://lightspeedst.net/s2/mp4/fuufu-ijou-koibito-miman-dublado/fhd/1.mp4
