@@ -247,9 +247,7 @@ https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Gazeta" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHCgtIJ-hvEoVg4QffA3myDKTg00nRWOiJ3TfpIwrfYeU=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA",TV Gazeta
-https://brflu.walk-tv.com/5758/playlist.m3u
-
-
+https://brflu.walk-tv.com/5758/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE",TC ACTION
 https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
@@ -757,7 +755,7 @@ http://conexaoonline.top:80/3486527/8553692/110.m3u8
 ######################################################################################### Filmes MP4
 
 #EXTINF:-1 tvg-name="Caça-Fantasmas: O Império do Gelo" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/19/17/34/2523057.jpg" group-title="FILMES | LANÇAMENTOS",Caça-Fantasmas: O Império do Gelo
-https://merkury.subtitlecloud.one/video/laWOo6ikoaKWpJCpqauj08amkqbY2KOnk6aXp6fY0aiVo8bUqaud39Sk
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/06079/pus90r3r4xe8_x/master.m3u8?t=tb39KbQVJ0-RLB6Y4Hm-1HBaHMZa77j64T9mM6kjwME&s=1717595744&e=43200&f=30399406&srv=30&asn=263262&sp=5500
 #EXTINF:-1 tvg-name="Bob Marley: One Love" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNkODhhNGUtZjAyNC00ZDdiLTgwOGItZTExZTZlZDg2ZjhiXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UY3000_.jpg" group-title="FILMES | LANÇAMENTOS",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
 #EXTINF:-1 tvg-name="Madame Teia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwYjgzOTctNTE4My00MThkLWE5MGUtODQ3YWFhYWZkNWNkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg" group-title="FILMES | LANÇAMENTOS",Madame Teia
@@ -1074,6 +1072,30 @@ https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/152.mp4
 #EXTINF:-1 tvg-name="DRAGON BALL 153" tvg-logo="https://aoquadra.do/wp-content/uploads/2022/08/capadragonball1.png" group-title="ANIME DUB | DBZ",DRAGON BALL 153
 https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/153.mp4
 
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 1
+https://lightspeedst.net/s2/mp4/fuufu-ijou-koibito-miman-dublado/fhd/1.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 2
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/2.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 3
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/3.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 4
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/4.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 5
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/5.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 6
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/6.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 7
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/7.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 8
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/8.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 9
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/9.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 10" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 10
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/10.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 11" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 11
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/11.mp4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 12
+https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/12.mp4
 
 
 #EXTINF:-1 tvg-name="Kekkon Yubiwa Monogatari 1" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9c058b5d-b8c8-48ca-976a-9c8382aa197a/dgtx044-f4628ff3-55e9-4a17-8fc2-668687f42bb1.png" group-title="ANIME LEG | Kekkon Yubiwa Monogatari",Kekkon Yubiwa Monogatari 1
@@ -1099,8 +1121,6 @@ https://s2.lightspeedst.net/s2/mp4/kekkon-yubiwa-monogatari-dublado/fhd/10.mp4
 #EXTINF:-1 tvg-name="Kekkon Yubiwa Monogatari 11" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9c058b5d-b8c8-48ca-976a-9c8382aa197a/dgtx044-f4628ff3-55e9-4a17-8fc2-668687f42bb1.png" group-title="ANIME LEG | Kekkon Yubiwa Monogatari",Kekkon Yubiwa Monogatari 11
 https://s2.lightspeedst.net/s2/mp4/kekkon-yubiwa-monogatari-dublado/fhd/11.mp4
 
-
-
 #EXTINF:-1 tvg-name="Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0Y2Y5ZDYtNTlhOC00MWMxLWFkNGYtYTdhN2QzYzcyODk3XkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg" group-title="ANIME LEG | KONOSUBA 3",Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 1
 https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/1.mp4
 #EXTINF:-1 tvg-name="Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0Y2Y5ZDYtNTlhOC00MWMxLWFkNGYtYTdhN2QzYzcyODk3XkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg" group-title="ANIME LEG | KONOSUBA 3",Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 2
@@ -1117,29 +1137,3 @@ https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/6.
 https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/7.mp4
 #EXTINF:-1 tvg-name="Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0Y2Y5ZDYtNTlhOC00MWMxLWFkNGYtYTdhN2QzYzcyODk3XkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg" group-title="ANIME LEG | KONOSUBA 3",Kono Subarashii Sekai ni Shukufuku wo! 3 - Episódio 8
 https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/8.mp4
-
-
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 1
-https://lightspeedst.net/s2/mp4/fuufu-ijou-koibito-miman-dublado/fhd/1.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 2
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/2.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 3
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/3.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 4
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/4.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 5
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/5.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 6
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/6.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 7
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/7.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 8
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/8.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 9
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/9.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 10" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 10
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/10.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 11" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 11
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/11.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 12
-https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/12.mp4
