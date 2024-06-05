@@ -247,110 +247,99 @@ https://brflu.walk-tv.com/5897/playlist.m3u8
 https://watch.vcdn.in/megapix/playlist.m3u8
 #EXTINF:-1 tvg-name="SYFY" tvg-logo="https://play-lh.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA" group-title="FILMES | SERIES",SYFY
 https://brflu.walk-tv.com/5835/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",E!
+#EXTINF:-1 tvg-name="E!" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/e-logo.jpg?quality=70&strip=all&w=720&crop=1" group-title="VARIADOS",E!
 https://brflu.walk-tv.com/5729/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",E!¹
+#EXTINF:-1 tvg-name="E!¹" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/e-logo.jpg?quality=70&strip=all&w=720&crop=1" group-title="VARIADOS",E!¹
 https://watch.vcdn.in/e/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",BIS
+#EXTINF:-1 tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-L0yCFCijLs6brCp6khjowTRNAssvwQ6Jw&s" group-title="VARIADOS",BIS
 https://brflu.walk-tv.com/5794/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",BIS¹
+#EXTINF:-1 tvg-name="BIS¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-L0yCFCijLs6brCp6khjowTRNAssvwQ6Jw&s" group-title="VARIADOS",BIS¹
 https://watch.vcdn.in/bis/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Futura
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="VARIADOS",Futura
 https://brflu.walk-tv.com/77/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",OFF
+#EXTINF:-1 tvg-name="OFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHjXLu9bQtaoeonPSm2GNwuJiV0kTr1Pmkw&s" group-title="VARIADOS",OFF
 https://brflu.walk-tv.com/5826/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",OFF
+#EXTINF:-1 tvg-name="OFF¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHjXLu9bQtaoeonPSm2GNwuJiV0kTr1Pmkw&s" group-title="VARIADOS",OFF¹
 https://watch.vcdn.in/canaloff/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Prime Box
+#EXTINF:-1 tvg-name="Prime Box" tvg-logo="https://telaviva.com.br/wp-content/uploads/2017/10/PRIME-BOX-BRAZIL-LOGO.png" group-title="VARIADOS",Prime Box
 http://cdn2.connectbr.com.br/Prime/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Prime Box¹
+#EXTINF:-1 tvg-name="Prime Box¹" tvg-logo="https://telaviva.com.br/wp-content/uploads/2017/10/PRIME-BOX-BRAZIL-LOGO.png" group-title="VARIADOS",Prime Box¹
 http://cdn-3.nxplay.com.br/PRIME_HD/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Film & Arts
+#EXTINF:-1 tvg-name="Film & Art" tvg-logo="https://www.areacucuta.com/wp-content/uploads/2015/09/FALogo_400x400.jpg" group-title="VARIADOS",Film & Art
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Film & Arts¹
+#EXTINF:-1 tvg-name="Film & Art¹" tvg-logo="https://www.areacucuta.com/wp-content/uploads/2015/09/FALogo_400x400.jpg" group-title="VARIADOS",Film & Art¹
 https://watch.vcdn.in/filmearts/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Multishow
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://i1.wp.com/feitosdemusica.com/wp-content/uploads/2020/08/multishow-logo-8.png?fit=3168%2C2404" group-title="VARIADOS",Multishow
 https://brflu.walk-tv.com/5822/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Multishow¹
+#EXTINF:-1 tvg-name="Multishow¹" tvg-logo="https://i1.wp.com/feitosdemusica.com/wp-content/uploads/2020/08/multishow-logo-8.png?fit=3168%2C2404" group-title="VARIADOS",Multishow¹
 https://watch.vcdn.in/multishow/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Curta!
+#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/11/Curta.jpg" group-title="VARIADOS",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w1651837062.m3u8
-#EXTINF:-1 group-title="VARIADOS",Curta!¹
+#EXTINF:-1 tvg-name="Curta!¹" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/11/Curta.jpg" group-title="VARIADOS",Curta!¹
 https://watch.vcdn.in/curta/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",PlayTV
+#EXTINF:-1 tvg-name="PlayTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nDPXI227qrzglijBZ0AMSJRYuflgM-4eLGNtVVO43--PNf=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",PlayTV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Fish TV
+#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Fish TV
 https://watch.vcdn.in/fishtv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",FashionTV¹
+#EXTINF:-1 tvg-name="FashionT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-JPuy87d7_5fI4-ZbekVfTBFkcD0A5M4V9Hh_5imBgaX5H26fSl5ubI7GGn8hdCaKG0&usqp=CAU" group-title="VARIADOS",FashionT
 https://watch.vcdn.in/fashiontv/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",TV Brasil
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://blogdoedisonsilva.com.br/wp-content/uploads/2021/11/Tv-brasil.jpg" group-title="VARIADOS",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="VARIADOS",Sabor & Art
+#EXTINF:-1 tvg-name="Sabor & Art" tvg-logo="https://yt3.googleusercontent.com/Z5UpAWNb4pb-Bf9erTHMS4fhDZeMI3ahbqRGdbEcY6zO3kvndv_QIG7hTguH3_QWrwejp5dh=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Sabor & Art
 https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
-#EXTINF:-1 group-title="VARIADOS",Viva
+#EXTINF:-1 tvg-name="Viva" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Viva
 https://brflu.walk-tv.com/5850/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",VIVA¹
+#EXTINF:-1 tvg-name="Viva¹" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Viva¹
 https://watch.vcdn.in/viva/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",GNT
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://s2.glbimg.com/U7YcMKhPf3t73x6hTmOIlX4Nj3Y=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/s/i/CegLWeQIeyFg7rkA214A/logo-gnt.jpg" group-title="VARIADOS",GNT
 https://brflu.walk-tv.com/5813/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",GNT¹
+#EXTINF:-1 tvg-name="GNT¹" tvg-logo="https://s2.glbimg.com/U7YcMKhPf3t73x6hTmOIlX4Nj3Y=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/s/i/CegLWeQIeyFg7rkA214A/logo-gnt.jpg" group-title="VARIADOS",GNT¹
 https://watch.vcdn.in/gnt/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Modo Viagem
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll-EY3WcFpBRLeC8PxLGkud_UUx2iz_Bm3KCaQr5REhg=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Modo Viagem
 https://watch.vcdn.in/modoviagem/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Modo Viagem¹
-http://tv.painelsat.ovh:8080/Deise1010/Deise1010/213
-#EXTINF:-1 group-title="VARIADOS",MTV Live FHD
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="VARIADOS",MTV Live
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV Live¹
+#EXTINF:-1 tvg-name="MTV Live¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="VARIADOS",MTV Live¹
 https://watch.vcdn.in/mtvlive/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV FHD
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://yt3.googleusercontent.com/kmhhnzlLeVdcj5y794PWj4X9abtMhPLpEIGfJOQ4fj_UpsgyLdijBeilM5DTPEH7adwKmFcZ=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",MTV
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV¹
+#EXTINF:-1 tvg-name="MTV¹" tvg-logo="https://yt3.googleusercontent.com/kmhhnzlLeVdcj5y794PWj4X9abtMhPLpEIGfJOQ4fj_UpsgyLdijBeilM5DTPEH7adwKmFcZ=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",MTV¹
 https://brflu.walk-tv.com/5821/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV Classics
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/142/index.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV 90s
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1038/index.m3u8
-#EXTINF:-1 group-title="VARIADOS",MTV Live
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19157/index.m3u8
-#EXTINF:-1 group-title="VARIADOS",Canal Brasil
+#EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Canal Brasil
 https://brflu.walk-tv.com/5796/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Canal Brasil¹
+#EXTINF:-1 tvg-name="Canal Brasil¹" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Canal Brasil¹
 https://watch.vcdn.in/mtvlive/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Trace Brasil
+#EXTINF:-1 tvg-name="Trace Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1410486042092843008/Nn8fyFta_400x400.jpg" group-title="VARIADOS",Trace Brasil
 https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Revry Brasil
+#EXTINF:-1 tvg-name="Revry Brasil" tvg-logo="https://yt3.googleusercontent.com/X8VSJHH8sN3PXgbvnOe1uIe9P739b3usRtfIWx39pPIWwVxiZ3FF67FRfFFjZCxJTrbxg6pmGA=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Comedy Central FHD
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/cclogo1.jpg?quality=90&strip=info&w=600&h=388&crop=1" group-title="VARIADOS",Comedy Central
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
-#EXTINF:-1 group-title="VARIADOS",Comedy Central¹
+#EXTINF:-1 tvg-name="Comedy Central¹" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/cclogo1.jpg?quality=90&strip=info&w=600&h=388&crop=1" group-title="VARIADOS",Comedy Central¹
 https://watch.vcdn.in/comedycentral/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Woohoo
-https://brflu.walk-tv.com/5851/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Woohoo¹ FHD
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://yt3.googleusercontent.com/8bOLuMxNwuWDpxX5T_ByHQzR-aoa4hn8qDIRBvYNSlM26HPMQkyg2KbuJzlge_yfo0yZtgEGpQ=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Woohoo
 https://cdn-2.nxplay.com.br/WOOHOO_FAST/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Woohoo²
-https://cdn-2.nxplay.com.br/WOOHOO_TK/index.m3u8
-#EXTINF:-1 group-title="VARIADOS",Travel Box Brazil
+#EXTINF:-1 tvg-name="Woohoo¹" tvg-logo="https://yt3.googleusercontent.com/8bOLuMxNwuWDpxX5T_ByHQzR-aoa4hn8qDIRBvYNSlM26HPMQkyg2KbuJzlge_yfo0yZtgEGpQ=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Woohoo¹
+https://brflu.walk-tv.com/5851/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qbNBpqdg_K_hUh7Bq0M1NoNPvo96rt8I9A&s" group-title="VARIADOS",Travel Box Brazil
 https://watch.vcdn.in/travelboxbrazil/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Lifetime
-https://brflu.walk-tv.com/5816/playlist.m3u8
-#EXTINF:-1 group-title="VARIADOS",Lifetime FHD
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="VARIADOS",Lifetime
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
-#EXTINF:-1 group-title="NOTICIAS",NHK World
+#EXTINF:-1 tvg-name="Lifetime¹" tvg-logo="https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX" group-title="VARIADOS",Lifetime¹
+https://brflu.walk-tv.com/5816/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="NOTICIAS",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Agro+ FHD
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kLQA3WaV6Se6lgTT1lGX8xVXuEjnsWSsuc1Er1Iw2ATg=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Agro+
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/291/291.m3u8
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndPKZMHqFQNc-W3JxlLh_POjtSMcKusAaagJRjtpDO6hU=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w42669874.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Record News
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&s" group-title="NOTICIAS",Record News
 https://brflu.walk-tv.com/5789/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Band News
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8Mh6A-clOEOUmTUPVI9rJ3NgAI5nh_cKkA&s" group-title="NOTICIAS",Band News
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Globo News
+#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vzkuZ4-lhBmuc0k2PfjVseMteShIJzUh6Q&s" group-title="NOTICIAS",Globo News
 https://brflu.walk-tv.com/5811/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
+#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://yt3.googleusercontent.com/2qduul2a9Hcz6Z75_ygccPCNRNuD-LJoXcKGkzJnyssA4AXOtX0mO7GQV1yKEH5EsXesJc3SPi8=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb573e1e7b6c63909bce3f78d2f34482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb45b42893fa2b10148c17940fa83439c8201b3d3d40f8344d375a0419e9bf1de8041d7e4205293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f51e0282ef658ab67be08aae85ca1efd4b7cbad96c5b6395106da81908be93479da0c9ef4b18e242ccbb17cd026b818a58bae6754946b6d048ee5562e5aaf14236d19cd9457929eb3ccdcb1835e9d37cfcace555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee75e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b39c4d0d0ac229c5d72184038e82b12f8b49bd858/152/1280x720_3000797/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",HGTV
 https://brflu.walk-tv.com/5805/playlist.m3u8
@@ -475,71 +464,34 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 group-title="24Hrs",Filmes
 https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC WORLD",Box Music
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19282/index.m3u8
-#EXTINF:-1 group-title="MUSIC WORLD",4EVER Music
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/970/index.m3u8
-#EXTINF:-1 group-title="MUSIC WORLD",Euro Dance
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/20000/index.m3u8
 #EXTINF:-1 group-title="XYZ",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Private Rus
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/243/index.m3u8
 #EXTINF:-1 group-title="XYZ",DreamSex
 https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 group-title="XYZ",ERO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Red Light
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Redlight Rus
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/242/index.m3u8
 #EXTINF:-1 group-title="XYZ",Hustler
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",HustlerTV
 https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcbfa46e802a0904-94b586a0b71cd04e36252279e75d729c-1716276067-1716265267
-#EXTINF:-1 group-title="XYZ",HustlerRUS
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/244/index.m3u8
-#EXTINF:-1 group-title="XYZ",Blue Hustler
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/1064/index.m3u8
-#EXTINF:-1 group-title="XYZ",Yosso TV
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19435/index.m3u8
-#EXTINF:-1 group-title="XYZ",Barely Legal TV
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/871/index.m3u8
 #EXTINF:-1 group-title="XYZ",Playboy
 https://watch.vcdn.in/playboy/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",PlayboyRUS
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/527/index.m3u8
-#EXTINF:-1 group-title="XYZ",PlayboyCaz
-http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/527/manifest.m3u88
 #EXTINF:-1 group-title="XYZ",Playboy FHD
 http://conexaoonline.top:80/3486527/8553692/74.m3u8
 #EXTINF:-1 group-title="XYZ",zyx Classics
 http://747731513407755143.ofg0316.xyz:80/play/HW725566/A1234567/755143.ts
 #EXTINF:-1 group-title="XYZ",Dorcel TV
 https://cdn-notpub-london.lolokoko.tv/DorcelTV.stream/chunks.m3u8
-#EXTINF:-1 group-title="XYZ",DorcelRUS
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/245/index.m3u8
-#EXTINF:-1 group-title="XYZ",Dorce Vision
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19401/index.m3u8
-#EXTINF:-1 group-title="XYZ",TMW VR Net
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19406/index.m3u8
-#EXTINF:-1 group-title="XYZ",Flowers Russ
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/147/index.m3u8
 #EXTINF:-1 group-title="XYZ",Sex Prive
 https://watch.vcdn.in/sexprive/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",brazzers TV
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/910/index.m3u8
-#EXTINF:-1 group-title="XYZ",Eromanis 4K
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10047/index.m3u8
-#EXTINF:-1 group-title="XYZ",Eromanis 2 4K
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/10049/index.m3u8
 #EXTINF:-1 group-title="XYZ",Pornbox
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1037
 #EXTINF:-1 group-title="XYZ",Sexy Hot
 https://watch.vcdn.in/sexyhot/playlist.m3u8
 #EXTINF:-1 group-title="XYZ",Sexy Hot FHD
 http://conexaoonline.top:80/3486527/8553692/105.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 group-title="XYZ",Sisloveme
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/276
 #KODIPROP:inputstream.adaptive.file_type=m3u8
