@@ -71,6 +71,22 @@ https://brflu.walk-tv.com/5755/playlist.m3u8
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="TV ABERTA",Band
 https://brflu.walk-tv.com/5763/playlist.m3u8
+#EXTINF:-1 tvg-name="Agro Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIuZrr9q6Z6dTyvN33RXObwm0ilquUiWYUA&s" group-title="TV ABERTA",Agro Canal
+https://cdn-2.nxplay.com.br/AGRO_CANAL/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Canção Nova" tvg-logo="https://yt3.googleusercontent.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO=s900-c-k-c0x00ffffff-no-rj" group-title="TV ABERTA",TV Canção Nova
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png" group-title="TV ABERTA",Canal do Boi
+https://cdn-3.nxplay.com.br/CANAL_DO_BOI_TK/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinebrasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT145ABH2aj_Qu-uhZuzUDtk1pf1mhk1mZm_g&s" group-title="TV ABERTA",Cinebrasil
+https://cdn-2.nxplay.com.br/Cinebrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="EuroPlay TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnIGLihtUxg6TUH0PWD0QpNsNux94kM1dJA&s" group-title="TV ABERTA",EuroPlay TV
+https://cdn-3.nxplay.com.br/europaplay/playlist.m3u8
+#EXTINF:-1 tvg-name="New Brasil" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$" group-title="TV ABERTA",New Brasil
+https://cdn-3.nxplay.com.br/NEW_BRASIL/playlist.m3u8
+#EXTINF:-1 tvg-name="Com Brasil" tvg-logo="https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0" group-title="TV ABERTA",Com Brasil
+https://cdn-3.nxplay.com.br/COM_BRASIL/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_AyPOUi1MyxUCZCETNIjjBUWDhV-cAyF4g&s" group-title="TV ABERTA",Fuel TV
+https://cdn-3.nxplay.com.br/FUEL_TV_BROADPEAK/playlist.m3u8
 #EXTINF:-1 tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="TV ABERTA",Terra Viva
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 #EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://amazonsat.com/static/media/mobileAppIcon.f4e65a89de2cd5393943.png" group-title="TV ABERTA",Amazon Sat
@@ -311,6 +327,8 @@ https://brflu.walk-tv.com/5796/playlist.m3u8
 https://watch.vcdn.in/mtvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1410486042092843008/Nn8fyFta_400x400.jpg" group-title="VARIADOS",Trace Brasil
 https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Star" tvg-logo="https://br.trace.tv/wp-content/uploads/2020/04/TraceSportStars_Logo_Colour_578x278.png" group-title="VARIADOS",Trace Sport Star
+https://cdn-3.nxplay.com.br/TRACE_SPORT/index.m3u8
 #EXTINF:-1 tvg-name="Revry Brasil" tvg-logo="https://yt3.googleusercontent.com/X8VSJHH8sN3PXgbvnOe1uIe9P739b3usRtfIWx39pPIWwVxiZ3FF67FRfFFjZCxJTrbxg6pmGA=s900-c-k-c0x00ffffff-no-rj" group-title="VARIADOS",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/cclogo1.jpg?quality=90&strip=info&w=600&h=388&crop=1" group-title="VARIADOS",Comedy Central
@@ -401,6 +419,28 @@ https://cdn-2.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 https://cdn-2.nxplay.com.br/TLC_BR_NX/playlist.m3u8
 #EXTINF:-1 tvg-name="TLC¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgEevzRXkpNwg7uSdgdi90c3Cgv8makHTTQ&s" group-title="DISCOVERY",TLC¹
 https://cdn-2.nxplay.com.br/TLC/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Black" tvg-logo="https://yt3.googleusercontent.com/K4hcj9ylx-aONxSbTPC4-p3JXfJ_Tm8R5vl22_arVQUJF8WMBMUE1T4kNHsAQ3lBRflCIu2Zf4k=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC BOX",Music Black
+https://cdn-3.nxplay.com.br/MEGA_TK/index.m3u8
+#EXTINF:-1 tvg-name="Music Pop" tvg-logo="https://yt3.googleusercontent.com/K4hcj9ylx-aONxSbTPC4-p3JXfJ_Tm8R5vl22_arVQUJF8WMBMUE1T4kNHsAQ3lBRflCIu2Zf4k=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC BOX",Music Pop
+https://cdn-3.nxplay.com.br/Cult_TK/index.m3u8
+#EXTINF:-1 tvg-name="Music Hits" tvg-logo="https://yt3.googleusercontent.com/K4hcj9ylx-aONxSbTPC4-p3JXfJ_Tm8R5vl22_arVQUJF8WMBMUE1T4kNHsAQ3lBRflCIu2Zf4k=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC BOX",Music Hits
+https://cdn-3.nxplay.com.br/HITTS_TK/index.m3u8
+#EXTINF:-1 tvg-name="Music Latino" tvg-logo="https://yt3.googleusercontent.com/K4hcj9ylx-aONxSbTPC4-p3JXfJ_Tm8R5vl22_arVQUJF8WMBMUE1T4kNHsAQ3lBRflCIu2Zf4k=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC BOX",Music Latino
+https://cdn-3.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
+#EXTINF:-1 tvg-name="Music Party" tvg-logo="https://yt3.googleusercontent.com/K4hcj9ylx-aONxSbTPC4-p3JXfJ_Tm8R5vl22_arVQUJF8WMBMUE1T4kNHsAQ3lBRflCIu2Zf4k=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC BOX",Music Party
+https://cdn-3.nxplay.com.br/BRAmusic_TK/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Anime" tvg-logo="https://www.certto.com.br/storage/147/HALLO!---ANIME.jpeg" group-title="HALLO!",Hallo Anime
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Classic" tvg-logo="https://www.certto.com.br/storage/153/HALLO!.jpeg" group-title="HALLO!",Hallo Classic
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Movies" tvg-logo="https://www.certto.com.br/storage/149/HALLO!---MOVIES.jpeg" group-title="HALLO!",Hallo Movies
+https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Doc" tvg-logo="https://www.certto.com.br/storage/148/HALLO!---DOC.jpeg" group-title="HALLO!",Hallo Doc
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Music" tvg-logo="https://www.certto.com.br/storage/150/HALLO!---MUSIC.jpeg" group-title="HALLO!",Hallo Music
+https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
+#EXTINF:-1 tvg-name="Hallo Series" tvg-logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-series.png" group-title="HALLO!",Hallo Series
+https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Cartoon Network
 https://brflu.walk-tv.com/5801/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network¹" tvg-logo="https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Cartoon Network¹
@@ -433,6 +473,8 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 https://watch.vcdn.in/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-name="Dream Works" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n6HOdNz3u23lf_NmdVh3sjkS-YxSDiOrGw&s" group-title="DESENHOS",Dream Works
 https://cdn-2.nxplay.com.br/DREAMWORKS/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Rá Tim Bum" tvg-logo="https://pbs.twimg.com/profile_images/1576268166484877312/NV3lz40G_400x400.jpg" group-title="DESENHOS",TV Rá Tim Bum
+https://cdn-2.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="DESENHOS",Nick Jr
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
 #EXTINF:-1 tvg-name="Nick Jr¹" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="DESENHOS",Nick Jr¹
@@ -461,7 +503,7 @@ https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
 #EXTINF:-1 tvg-name="Primal" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3ODE5MDEtNDMzNi00YmNmLTg5YTktMjdiODI5MGM2M2NjXkEyXkFqcGdeQXVyNzE5MTcxMTI@._V1_FMjpg_UX1000_.jpg" group-title="ADULT SWIM",Primal
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_7.m3u8
-#EXTINF:-1 tvg-name="AAA" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NlNzE5NjYtMzFhMC00ZTU3LWJlNTktYWI3YjBmN2QyMzM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="ADULT SWIM",AAA
+#EXTINF:-1 tvg-name="Robot Chicken" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NlNzE5NjYtMzFhMC00ZTU3LWJlNTktYWI3YjBmN2QyMzM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="ADULT SWIM",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
 #EXTINF:-1 tvg-name="Chespirito" tvg-logo="https://m.media-amazon.com/images/I/51iTiW6XjmL._AC_UF1000,1000_QL80_.jpg" group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
