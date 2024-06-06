@@ -345,178 +345,167 @@ https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-ad
 https://brflu.walk-tv.com/5805/playlist.m3u8
 #EXTINF:-1 tvg-name="HGTV¹" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="DOCUMENTARIOS",HGTV¹
 https://cdn-2.nxplay.com.br/HGTV_BR_NX/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="DOCUMENTARIOS",AAA
-#EXTINF:-1 tvg-name="AAA¹" tvg-logo="AAA" group-title="DOCUMENTARIOS",AAA¹
-
-#EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://yt3.googleusercontent.com/LDOh0378WYCDZ0Qtjxq99oBxAeHjxCbtJiUI4chXpDXePOM4Rt6Kk7M5PC_DZZwh-vys3s_7ag=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARIOS",National Geographic
 https://brflu.walk-tv.com/5777/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic¹
+#EXTINF:-1 tvg-name="National Geographic¹" tvg-logo="https://yt3.googleusercontent.com/LDOh0378WYCDZ0Qtjxq99oBxAeHjxCbtJiUI4chXpDXePOM4Rt6Kk7M5PC_DZZwh-vys3s_7ag=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARIOS",National Geographic¹
 https://watch.vcdn.in/nationalgeographic/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",History
-https://cdn2.connectbr.com.br/History/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",History FHD
+#EXTINF:-1 tvg-name="History" tvg-logo="https://yt3.googleusercontent.com/tTgKfMKgmrcMC5V-HZmFOb1s8AUbQP2q0nPMgd17eA8Jb8K5AY7l3h3FHNdqjuJ1BuD2xn70ROQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARIOS",History
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",History 2 FHD
+#EXTINF:-1 tvg-name="History¹" tvg-logo="https://yt3.googleusercontent.com/tTgKfMKgmrcMC5V-HZmFOb1s8AUbQP2q0nPMgd17eA8Jb8K5AY7l3h3FHNdqjuJ1BuD2xn70ROQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARIOS",History¹
+https://cdn2.connectbr.com.br/History/playlist.m3u8
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-puepA8ccmJPA_v23qPo-lWLZ9_n9w1kWvsJFxEa5DRIaxPYJVM0H3jb_NtZDuh-NYEGPTiM4_qNn-gHxDvTuZO2aOZefnkbQiaruqjAHo0rkkbhi84GSCyz5S4pml5jzLlIUsyx1SZM/s1600/H2_1.png" group-title="DOCUMENTARIOS",History 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",History 2¹
+#EXTINF:-1 tvg-name="History 2¹" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-puepA8ccmJPA_v23qPo-lWLZ9_n9w1kWvsJFxEa5DRIaxPYJVM0H3jb_NtZDuh-NYEGPTiM4_qNn-gHxDvTuZO2aOZefnkbQiaruqjAHo0rkkbhi84GSCyz5S4pml5jzLlIUsyx1SZM/s1600/H2_1.png" group-title="DOCUMENTARIOS",History 2¹
 https://watch.vcdn.in/history2/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",Arte1 FHD
+#EXTINF:-1 tvg-name="Arte1" tvg-logo="https://canalarte1.uol.com.br/img/logo_preview.png" group-title="DOCUMENTARIOS",Arte1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",Art1
+#EXTINF:-1 tvg-name="Arte1¹" tvg-logo="https://canalarte1.uol.com.br/img/logo_preview.png" group-title="DOCUMENTARIOS",Arte1¹
 https://cdn-2.nxplay.com.br/ARTE1/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",Art1¹
-https://cdn-2.nxplay.com.br/ARTE1_TK/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://yt3.googleusercontent.com/1rcaN-4MZj-k83upibyNIFvfumOQ5NTrvybPfCRe8yXRU_3NUdKBRRhHdkRUMvbyyWBdaWl6iA=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Animal Planet
 https://brflu.walk-tv.com/5782/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Animal Planet¹
+#EXTINF:-1 tvg-name="Animal Planet¹" tvg-logo="https://yt3.googleusercontent.com/1rcaN-4MZj-k83upibyNIFvfumOQ5NTrvybPfCRe8yXRU_3NUdKBRRhHdkRUMvbyyWBdaWl6iA=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Animal Planet¹
 https://cdn-2.nxplay.com.br/ANIMAL_PLANET/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Channel FHD
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpL2gfYbTWpgkH-tWBBzXB24kvmArQKDHeMg&s" group-title="DISCOVERY",Discovery Channel
 https://brflu.walk-tv.com/5785/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpL2gfYbTWpgkH-tWBBzXB24kvmArQKDHeMg&s" group-title="DISCOVERY",Discovery Channel¹
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Turbo FHD
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://yt3.googleusercontent.com/RtlmnAvgnJowxUSCIHFdOlbYqsV9dWVkHoYoGVLzwMSxecuiht5CRHLd5Q3fWPOqTwBgGiYxaIA=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Discovery Turbo
 https://brflu.walk-tv.com/5786/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo¹" tvg-logo="https://yt3.googleusercontent.com/RtlmnAvgnJowxUSCIHFdOlbYqsV9dWVkHoYoGVLzwMSxecuiht5CRHLd5Q3fWPOqTwBgGiYxaIA=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Discovery Turbo¹
 https://cdn-2.nxplay.com.br/DISCOVERY_TURBO/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Home & Health
+#EXTINF:-1 tvg-name="Home & Health" tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Home & Health
 https://brflu.walk-tv.com/5784/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Home & Health¹
+#EXTINF:-1 tvg-name="Home & Health¹" tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",Home & Health¹
 https://cdn-2.nxplay.com.br/DISCOVERY_HH/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="DISCOVERY",Food Network
 https://brflu.walk-tv.com/5759/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Food Network¹
+#EXTINF:-1 tvg-name="Food Network¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="DISCOVERY",Food Network¹
 https://cdn-2.nxplay.com.br/FOOD_NETWORK_NX/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDCktEcEXZCso0PD0sjEvhAlUvx-WW7D3_g&s" group-title="DISCOVERY",Discovery Science
 https://brflu.walk-tv.com/5807/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Science¹
+#EXTINF:-1 tvg-name="Discovery Science¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDCktEcEXZCso0PD0sjEvhAlUvx-WW7D3_g&s" group-title="DISCOVERY",Discovery Science¹
 https://cdn-2.nxplay.com.br/DISCOVERY_SCIENCE_NX/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Theather
+#EXTINF:-1 tvg-name="Discovery Theather" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="DISCOVERY",Discovery Theather
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery Theater¹
+#EXTINF:-1 tvg-name="Discovery Theather¹" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="DISCOVERY",Discovery Theather¹
 https://watch.vcdn.in/discoverytheater/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery World
+#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="DISCOVERY",Discovery World
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery World¹
+#EXTINF:-1 tvg-name="Discovery World¹" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="DISCOVERY",Discovery World¹
 https://watch.vcdn.in/discoveryworld/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery ID FHD
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYYWCvIRZvyXOGhq1eAYbx_KW30wl2JdcbA&s" group-title="DISCOVERY",Discovery ID
 https://brflu.walk-tv.com/5895/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYYWCvIRZvyXOGhq1eAYbx_KW30wl2JdcbA&s" group-title="DISCOVERY",Discovery ID¹
 https://cdn-2.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",TLC
-https://brflu.walk-tv.com/5902/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",TLC¹
-https://cdn-4.nxplay.com.br/TLC/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",TLC²
-https://cdn-3.nxplay.com.br/TLC_BR_NX/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Cartoon Network
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgEevzRXkpNwg7uSdgdi90c3Cgv8makHTTQ&s" group-title="DISCOVERY",TLC
+https://cdn-2.nxplay.com.br/TLC_BR_NX/playlist.m3u8
+#EXTINF:-1 tvg-name="TLC¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgEevzRXkpNwg7uSdgdi90c3Cgv8makHTTQ&s" group-title="DISCOVERY",TLC¹
+https://cdn-2.nxplay.com.br/TLC/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Cartoon Network
 https://brflu.walk-tv.com/5801/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Cartoon Network¹
+#EXTINF:-1 tvg-name="Cartoon Network¹" tvg-logo="https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Cartoon Network¹
 https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Retro Cartoon
+#EXTINF:-1 tvg-name="Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0dC6w-BykeuhCZZJxBxZiREAqztdjmOoXWofwZn5Gsw3dsEmki4I6G_IzUSX1VRapUk&usqp=CAU" group-title="DESENHOS",Retro Cartoon
 https://alanza.iptv2022.com/RETRO_CARTOON/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkHfdwMPAqxpQlgpBY1C1HriSuDObSb1Z0g&s" group-title="DESENHOS",Disney Channel
 https://watch.vcdn.in/disneychannel/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Disney Channel¹
+#EXTINF:-1 tvg-name="Disney Channel¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkHfdwMPAqxpQlgpBY1C1HriSuDObSb1Z0g&s" group-title="DESENHOS",Disney Channel¹
 https://brflu.walk-tv.com/5787/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Tooncast
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="DESENHOS",Tooncast
 https://brflu.walk-tv.com/5838/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Tooncast¹
+#EXTINF:-1 tvg-name="Tooncast¹" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="DESENHOS",Tooncast¹
 https://watch.vcdn.in/tooncast/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Leo e Lullly TV
+#EXTINF:-1 tvg-name="Leo e Lullly TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mNFNHKsUigLPQnS8S2soUnUSTBLCMpm0WD89iDmER7=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Leo e Lullly TV
 https://cdn-2.nxplay.com.br/LEO_E_LULLY/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",PIX TV
-https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
-#EXTINF:-1 group-title="DESENHOS",Zoomoo
+#EXTINF:-1 tvg-name="Zoomoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOmr_IYfPQdb2SUctHLLo8G_Wud_Wq2vUlw&s" group-title="DESENHOS",Zoomoo
 https://cdn-2.nxplay.com.br/ZOOMOO_HD_NX_TK/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Zoomoo¹
+#EXTINF:-1 tvg-name="Zoomoo¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOmr_IYfPQdb2SUctHLLo8G_Wud_Wq2vUlw&s" group-title="DESENHOS",Zoomoo¹
 https://watch.vcdn.in/zoomoo/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://yt3.googleusercontent.com/hsvdAABcPewInw1zuy9X9HuR-KEDXsNwG85vKAVvUCel--ZMs5KAHHioCKhWP19ePV80pwNHgA=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Cartoonito
 https://watch.vcdn.in/cartoonito/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Discovery Kids
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2011/01/14/DK-Logo-2009_cmyk_FINAL.jpg" group-title="DESENHOS",Discovery Kids
 https://cdn-2.nxplay.com.br/DISCOVERY_KIDS/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Discovery Kids¹
+#EXTINF:-1 tvg-name="Discovery Kids¹" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2011/01/14/DK-Logo-2009_cmyk_FINAL.jpg" group-title="DESENHOS",Discovery Kids¹
 https://watch.vcdn.in/discoverykids/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nickelodeon FHD
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e" group-title="DESENHOS",Nickelodeon
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nickelodeon¹
+#EXTINF:-1 tvg-name="Nickelodeon¹" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e" group-title="DESENHOS",Nickelodeon¹
 https://watch.vcdn.in/nickelodeon/playlist.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="DESENHOS",TV RA TIM BUM
-http://tv.painelsat.ovh:8080/Deise1010/Deise1010/72
-#EXTINF:-1 group-title="DESENHOS",Dream Works
-https://cdn-3.nxplay.com.br/DREAMWORKS/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nick Jr FHD
+#EXTINF:-1 tvg-name="Dream Works" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n6HOdNz3u23lf_NmdVh3sjkS-YxSDiOrGw&s" group-title="DESENHOS",Dream Works
+https://cdn-2.nxplay.com.br/DREAMWORKS/playlist.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="DESENHOS",Nick Jr
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
-#EXTINF:-1 group-title="DESENHOS",Nick Jr¹
+#EXTINF:-1 tvg-name="Nick Jr¹" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957" group-title="DESENHOS",Nick Jr¹
 https://watch.vcdn.in/nickjr/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Gloob
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://yt3.googleusercontent.com/RtGeKnLFQK1t0JRywaxoj37EvFFmg9UQeLRhE-hBSmWzF4jH8S-dkEXSCwehWGn35AUZxSebi2I=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Gloob
 https://brflu.walk-tv.com/5812/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Gloob¹
+#EXTINF:-1 tvg-name="Gloob¹" tvg-logo="https://yt3.googleusercontent.com/RtGeKnLFQK1t0JRywaxoj37EvFFmg9UQeLRhE-hBSmWzF4jH8S-dkEXSCwehWGn35AUZxSebi2I=s900-c-k-c0x00ffffff-no-rj" group-title="DESENHOS",Gloob¹
 https://watch.vcdn.in/gloob/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Gloobinho
+#EXTINF:-1 tvg-name="Gloobinho" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNgR_q1q_4Z8fLSefQSd_aI8n75GbGyB8GQ&s" group-title="DESENHOS",Gloobinho
 https://watch.vcdn.in/gloobinho/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEvzAiIQRN6OjEuQ6V3Y6s5UORSWn6-C5ebg&s" group-title="DESENHOS",Baby TV
 https://watch.vcdn.in/babytv/playlist.m3u8
-#EXTINF:-1 group-title="DESENHOS",Anime TV
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://play-lh.googleusercontent.com/z_90JYTZ0UUAm5LhWzlJMFlT7xs08qss7HZ1UNf40bxJdRWj3x-9NzvW3eChEWBtSLU" group-title="DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
-#EXTINF:-1 group-title="ADULT SWIM",Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-#EXTINF:-1 group-title="ADULT SWIM",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 group-title="24Hrs",Chespirito
+#EXTINF:-1 tvg-name="Samurai Jack" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3Y2E1NWYtMTFkZS00MzlmLTk2ZTItMTAyY2QxZDU1NjZhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="ADULT SWIM",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 tvg-name="Rick and Morty" tvg-logo="https://m.media-amazon.com/images/I/81CwjScs2aL._AC_UF1000,1000_QL80_.jpg" group-title="ADULT SWIM",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-name="Aqua Teen Hunger Force" tvg-logo="https://m.media-amazon.com/images/I/91UYGdZNpWL._AC_UF894,1000_QL80_.jpg" group-title="ADULT SWIM",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+#EXTINF:-1 tvg-name="The Venture Bros" tvg-logo="https://images.justwatch.com/poster/257186162/s592/the-venture-bros" group-title="ADULT SWIM",The Venture Bros
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+#EXTINF:-1 tvg-name="Metalocalypse" tvg-logo="https://i0.wp.com/darklongbox.com/wp-content/uploads/2023/05/metalo.jpg?fit=945%2C945&ssl=1" group-title="ADULT SWIM",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+#EXTINF:-1 tvg-name="Off the Air" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3ZTk0MDEtYTcxNi00OTEwLTg0ODUtYzI1Njg2NmViNTFjXkEyXkFqcGdeQXVyNDUwOTUwMDU@._V1_.jpg" group-title="ADULT SWIM",Off the Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+#EXTINF:-1 tvg-name="Primal" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3ODE5MDEtNDMzNi00YmNmLTg5YTktMjdiODI5MGM2M2NjXkEyXkFqcGdeQXVyNzE5MTcxMTI@._V1_FMjpg_UX1000_.jpg" group-title="ADULT SWIM",Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_7.m3u8
+#EXTINF:-1 tvg-name="AAA" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NlNzE5NjYtMzFhMC00ZTU3LWJlNTktYWI3YjBmN2QyMzM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="ADULT SWIM",AAA
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+#EXTINF:-1 tvg-name="Chespirito" tvg-logo="https://m.media-amazon.com/images/I/51iTiW6XjmL._AC_UF1000,1000_QL80_.jpg" group-title="24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
-#EXTINF:-1 group-title="24Hrs",Filmes
+#EXTINF:-1 tvg-name="Filmes" tvg-logo="https://cdn.icon-icons.com/icons2/2226/PNG/512/play_icon_134504.png" group-title="24Hrs",Filmes
 https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Private
+#EXTINF:-1 tvg-name="Private" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" group-title="XXX",Private
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",DreamSex
+#EXTINF:-1 tvg-name="DreamSex" tvg-logo="https://static.vecteezy.com/system/resources/previews/005/001/661/non_2x/under-18-forbidden-round-icon-sign-illustration-eighteen-or-older-persons-adult-content-18-plus-only-rating-isolated-on-white-background-vector.jpg" group-title="XXX",DreamSex
 https://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="XYZ",ERO
+#EXTINF:-1 tvg-name="ERO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEHASj-Ep6MmJoCE3lrnTiKKn4TQSNm3RPQ&s" group-title="XXX",ERO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Red Light
+#EXTINF:-1 tvg-name="Red Light" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/1280x1280/products/94/434/redlight_hd__80861_zoom__68576.1699707457.jpg?c=1" group-title="XXX",Red Light
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Hustler
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",HustlerTV
-https://wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a2ed7d6a4083b0a766494ba1bcbfa46e802a0904-94b586a0b71cd04e36252279e75d729c-1716276067-1716265267
-#EXTINF:-1 group-title="XYZ",Playboy
-https://watch.vcdn.in/playboy/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Playboy FHD
+#EXTINF:-1 tvg-name="Hustler" tvg-logo="https://logowik.com/content/uploads/images/hustler-tv9311.logowik.com.webp" group-title="XXX",Hustler
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Playboy" tvg-logo="https://cdn.worldvectorlogo.com/logos/playboy-tv.svg" group-title="XXX",Playboy
 http://conexaoonline.top:80/3486527/8553692/74.m3u8
-#EXTINF:-1 group-title="XYZ",zyx Classics
+#EXTINF:-1 tvg-name="Playboy¹" tvg-logo="https://cdn.worldvectorlogo.com/logos/playboy-tv.svg" group-title="XXX",Playboy¹
+https://watch.vcdn.in/playboy/playlist.m3u8
+#EXTINF:-1 tvg-name="Classics" tvg-logo="https://static.vecteezy.com/system/resources/previews/005/001/661/non_2x/under-18-forbidden-round-icon-sign-illustration-eighteen-or-older-persons-adult-content-18-plus-only-rating-isolated-on-white-background-vector.jpg" group-title="XXX",Classics
 http://747731513407755143.ofg0316.xyz:80/play/HW725566/A1234567/755143.ts
-#EXTINF:-1 group-title="XYZ",Dorcel TV
+#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://www.digitaltveurope.com/files/2011/11/Marc-Dorcel-logo.jpg" group-title="XXX",Dorcel TV
 https://cdn-notpub-london.lolokoko.tv/DorcelTV.stream/chunks.m3u8
-#EXTINF:-1 group-title="XYZ",Sex Prive
+#EXTINF:-1 tvg-name="SexPrive" tvg-logo="https://i0.wp.com/associacaoneo.com.br/wp-content/uploads/2024/04/Sexprive-Nova-Logo.png?fit=456%2C455&ssl=1" group-title="XXX",SexPrive
 https://watch.vcdn.in/sexprive/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Pornbox
+#EXTINF:-1 tvg-name="Pornbox" tvg-logo="https://static.vecteezy.com/system/resources/previews/005/001/661/non_2x/under-18-forbidden-round-icon-sign-illustration-eighteen-or-older-persons-adult-content-18-plus-only-rating-isolated-on-white-background-vector.jpg" group-title="XXX",Pornbox
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1037
-#EXTINF:-1 group-title="XYZ",Sexy Hot
-https://watch.vcdn.in/sexyhot/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Sexy Hot FHD
+#EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://www.vexpert.com.br/wp-content/uploads/2023/06/SEXYHOT.png" group-title="XXX",Sexy Hot
 http://conexaoonline.top:80/3486527/8553692/105.m3u8
-#EXTINF:-1 group-title="XYZ",Sisloveme
+#EXTINF:-1 tvg-name="Sexy Hot¹" tvg-logo="https://www.vexpert.com.br/wp-content/uploads/2023/06/SEXYHOT.png" group-title="XXX",Sexy Hot¹
+https://watch.vcdn.in/sexyhot/playlist.m3u8
+#EXTINF:-1 tvg-name="Sisloveme" tvg-logo="https://ugc.production.linktr.ee/A4EEohfkQZG1pzYGRI7m_HUD3iNX6aY6S7Tqb" group-title="XXX",Sisloveme
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/276
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="XYZ",Sextreme
+#EXTINF:-1 tvg-name="Sextreme" tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" group-title="XXX",Sextreme
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/750
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="XYZ",Tiny 4K
+#EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://premiumvns.com/wp-content/uploads/2022/01/Tiny4k.jpg" group-title="XXX",Tiny 4K
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/468
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 group-title="XYZ",Jules Jordan
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1298
-#EXTINF:-1 group-title="XYZ",Venus
-https://watch.vcdn.in/venus/playlist.m3u8
-#EXTINF:-1 group-title="XYZ",Venus FHD
+#EXTINF:-1 tvg-name="Venus" tvg-logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="XXX",Venus
 http://conexaoonline.top:80/3486527/8553692/110.m3u8
+#EXTINF:-1 tvg-name="Venus¹" tvg-logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="XXX",Venus¹
+https://watch.vcdn.in/venus/playlist.m3u8
 
 ############################################################################################### FILMES
 
-#EXTINF:-1 tvg-name="Caça-Fantasmas: O Império do Gelo" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/19/17/34/2523057.jpg" group-title="FILMES | LANÇAMENTOS",Caça-Fantasmas: O Império do Gelo
-https://be4235.rcr32.ams02.cdn112.com/hls2/03/06079/pus90r3r4xe8_x/master.m3u8?t=tb39KbQVJ0-RLB6Y4Hm-1HBaHMZa77j64T9mM6kjwME&s=1717595744&e=43200&f=30399406&srv=30&asn=263262&sp=5500
 #EXTINF:-1 tvg-name="Bob Marley: One Love" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNkODhhNGUtZjAyNC00ZDdiLTgwOGItZTExZTZlZDg2ZjhiXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UY3000_.jpg" group-title="FILMES | LANÇAMENTOS",Bob Marley: One Love
 http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
 #EXTINF:-1 tvg-name="Madame Teia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwYjgzOTctNTE4My00MThkLWE5MGUtODQ3YWFhYWZkNWNkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg" group-title="FILMES | LANÇAMENTOS",Madame Teia
