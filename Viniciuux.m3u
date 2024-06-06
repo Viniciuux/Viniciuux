@@ -83,8 +83,6 @@ https://cdn-2.nxplay.com.br/Cinebrasil/playlist.m3u8
 https://cdn-3.nxplay.com.br/europaplay/playlist.m3u8
 #EXTINF:-1 tvg-name="New Brasil" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$" group-title="TV ABERTA",New Brasil
 https://cdn-3.nxplay.com.br/NEW_BRASIL/playlist.m3u8
-#EXTINF:-1 tvg-name="Com Brasil" tvg-logo="https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0" group-title="TV ABERTA",Com Brasil
-https://cdn-3.nxplay.com.br/COM_BRASIL/playlist.m3u8
 #EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_AyPOUi1MyxUCZCETNIjjBUWDhV-cAyF4g&s" group-title="TV ABERTA",Fuel TV
 https://cdn-3.nxplay.com.br/FUEL_TV_BROADPEAK/playlist.m3u8
 #EXTINF:-1 tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="TV ABERTA",Terra Viva
