@@ -341,10 +341,15 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
 https://brflu.walk-tv.com/5811/playlist.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://yt3.googleusercontent.com/2qduul2a9Hcz6Z75_ygccPCNRNuD-LJoXcKGkzJnyssA4AXOtX0mO7GQV1yKEH5EsXesJc3SPi8=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb573e1e7b6c63909bce3f78d2f34482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb45b42893fa2b10148c17940fa83439c8201b3d3d40f8344d375a0419e9bf1de8041d7e4205293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f51e0282ef658ab67be08aae85ca1efd4b7cbad96c5b6395106da81908be93479da0c9ef4b18e242ccbb17cd026b818a58bae6754946b6d048ee5562e5aaf14236d19cd9457929eb3ccdcb1835e9d37cfcace555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee75e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b39c4d0d0ac229c5d72184038e82b12f8b49bd858/152/1280x720_3000797/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="DOCUMENTARIOS",HGTV
 https://brflu.walk-tv.com/5805/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",HGTV¹
+#EXTINF:-1 tvg-name="HGTV¹" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="DOCUMENTARIOS",HGTV¹
 https://cdn-2.nxplay.com.br/HGTV_BR_NX/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="AAA" tvg-logo="AAA" group-title="DOCUMENTARIOS",AAA
+#EXTINF:-1 tvg-name="AAA¹" tvg-logo="AAA" group-title="DOCUMENTARIOS",AAA¹
+
 #EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic
 https://brflu.walk-tv.com/5777/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS",National Geographic¹
