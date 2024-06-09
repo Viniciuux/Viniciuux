@@ -245,7 +245,7 @@ https://brflu.walk-tv.com/5836/playlist.m3u8
 https://cdn-2.nxplay.com.br/TNT_NOVELAS/playlist.m3u8
 #EXTINF:-1 tvg-name="Bora Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzB7ZHSZwnDRGiDldxtfmTsvWScz5mtXRFA&s" group-title="CANAIS | FILMES&SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPM3UMJTxP4xqqMRfh5kNB1KbBM1igBtcVcw&s" group-title="CANAIS | FILMES&SERIESS",TCM
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPM3UMJTxP4xqqMRfh5kNB1KbBM1igBtcVcw&s" group-title="CANAIS | FILMES&SERIES",TCM
 https://brflu.walk-tv.com/5837/playlist.m3u8
 #EXTINF:-1 tvg-name="TCM¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPM3UMJTxP4xqqMRfh5kNB1KbBM1igBtcVcw&s" group-title="CANAIS | FILMES&SERIES",TCM¹
 https://watch.vcdn.in/tcm/playlist.m3u8
@@ -876,29 +876,29 @@ https://s2.lightspeedst.net/s2/mp4/kekkon-yubiwa-monogatari-dublado/fhd/10.mp4
 #EXTINF:-1 tvg-name="Kekkon Yubiwa Monogatari 11" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9c058b5d-b8c8-48ca-976a-9c8382aa197a/dgtx044-f4628ff3-55e9-4a17-8fc2-668687f42bb1.png" group-title="ANIME DUB | Kekkon Yubiwa Monogatari",Kekkon Yubiwa Monogatari 11
 https://s2.lightspeedst.net/s2/mp4/kekkon-yubiwa-monogatari-dublado/fhd/11.mp4
 
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 1
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 1
 https://lightspeedst.net/s2/mp4/fuufu-ijou-koibito-miman-dublado/fhd/1.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 2
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 2
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/2.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 3
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 3
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/3.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 4
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 4
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/4.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 5
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 5
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/hd/5.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 6
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 6
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/6.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 7
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 7
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/7.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 8
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 8
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/8.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 9
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 9
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/9.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 10" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 10
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 10" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 10
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/10.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 11" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 11
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 11" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 11
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/11.mp4
-#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou, Koibito Miman - Episódio 12
+#EXTINF:-1 tvg-name="Fuufu Ijou, Koibito Miman - Episódio 12" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1ZjM3ZWItN2UwNC00YjEwLTkzZjMtZDdjNWU5NWMyYmViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="ANIME DUB | FUUFU IJOU",Fuufu Ijou,Koibito Miman - Episódio 12
 https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman-dublado/fhd/12.mp4
 
 ################################################################################################## ANIMES LEG
@@ -952,63 +952,63 @@ https://c4n.fun/series/478571/250669/1163582.mp4
 #EXTINF:-1 tvg-name="A Biblia S01E10" tvg-logo="https://media.fstatic.com/_iJudaWwLgQbbrCFGhE0EhWVa08=/322x478/smart/filters:format(webp)/media/movies/covers/2013/03/4704cdd31647fbe0dae93f4eabb925e2.jpg" group-title="SERIES | A BIBLIA",A Biblia S01E10
 https://c4n.fun/series/478571/250669/1163583.mp4
 
-#EXTINF:-1 tvg-name="Ausência S01E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E01
+#EXTINF:-1 tvg-name="Absentia S01E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E01
 https://c4n.fun/series/478571/250669/1163584.mp4
-#EXTINF:-1 tvg-name="Ausência S01E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E02
+#EXTINF:-1 tvg-name="Absentia S01E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E02
 https://c4n.fun/series/478571/250669/1163585.mp4
-#EXTINF:-1 tvg-name="Ausência S01E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E03
+#EXTINF:-1 tvg-name="Absentia S01E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E03
 https://c4n.fun/series/478571/250669/1163586.mp4
-#EXTINF:-1 tvg-name="Ausência S01E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E04
+#EXTINF:-1 tvg-name="Absentia S01E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E04
 https://c4n.fun/series/478571/250669/1163587.mp4
-#EXTINF:-1 tvg-name="Ausência S01E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E05
+#EXTINF:-1 tvg-name="Absentia S01E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E05
 https://c4n.fun/series/478571/250669/1163588.mp4
-#EXTINF:-1 tvg-name="Ausência S01E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E06
+#EXTINF:-1 tvg-name="Absentia S01E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E06
 https://c4n.fun/series/478571/250669/1163589.mp4
-#EXTINF:-1 tvg-name="Ausência S01E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E07
+#EXTINF:-1 tvg-name="Absentia S01E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E07
 https://c4n.fun/series/478571/250669/1163590.mp4
-#EXTINF:-1 tvg-name="Ausência S01E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E08
+#EXTINF:-1 tvg-name="Absentia S01E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E08
 https://c4n.fun/series/478571/250669/1163591.mp4
-#EXTINF:-1 tvg-name="Ausência S01E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E09
+#EXTINF:-1 tvg-name="Absentia S01E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E09
 https://c4n.fun/series/478571/250669/1163592.mp4
-#EXTINF:-1 tvg-name="Ausência S01E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S01E10
+#EXTINF:-1 tvg-name="Absentia S01E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S01E10
 https://c4n.fun/series/478571/250669/1163593.mp4
-#EXTINF:-1 tvg-name="Ausência S02E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E01
+#EXTINF:-1 tvg-name="Absentia S02E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E01
 https://c4n.fun/series/478571/250669/1163594.mp4
-#EXTINF:-1 tvg-name="Ausência S02E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E02
+#EXTINF:-1 tvg-name="Absentia S02E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E02
 https://c4n.fun/series/478571/250669/1163595.mp4
-#EXTINF:-1 tvg-name="Ausência S02E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E03
+#EXTINF:-1 tvg-name="Absentia S02E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E03
 https://c4n.fun/series/478571/250669/1163596.mp4
-#EXTINF:-1 tvg-name="Ausência S02E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E04
+#EXTINF:-1 tvg-name="Absentia S02E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E04
 https://c4n.fun/series/478571/250669/1163597.mp4
-#EXTINF:-1 tvg-name="Ausência S02E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E05
+#EXTINF:-1 tvg-name="Absentia S02E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E05
 https://c4n.fun/series/478571/250669/1163598.mp4
-#EXTINF:-1 tvg-name="Ausência S02E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E06
+#EXTINF:-1 tvg-name="Absentia S02E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E06
 https://c4n.fun/series/478571/250669/1163599.mp4
-#EXTINF:-1 tvg-name="Ausência S02E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E07
+#EXTINF:-1 tvg-name="Absentia S02E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E07
 https://c4n.fun/series/478571/250669/1163600.mp4
-#EXTINF:-1 tvg-name="Ausência S02E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E08
+#EXTINF:-1 tvg-name="Absentia S02E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E08
 https://c4n.fun/series/478571/250669/1163601.mp4
-#EXTINF:-1 tvg-name="Ausência S02E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E09
+#EXTINF:-1 tvg-name="Absentia S02E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E09
 https://c4n.fun/series/478571/250669/1163602.mp4
-#EXTINF:-1 tvg-name="Ausência S02E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S02E10
+#EXTINF:-1 tvg-name="Absentia S02E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S02E10
 https://c4n.fun/series/478571/250669/1163603.mp4
-#EXTINF:-1 tvg-name="Ausência S03E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E01
+#EXTINF:-1 tvg-name="Absentia S03E01" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E01
 https://c4n.fun/series/478571/250669/1163604.mp4
-#EXTINF:-1 tvg-name="Ausência S03E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E02
+#EXTINF:-1 tvg-name="Absentia S03E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E02
 https://c4n.fun/series/478571/250669/1163605.mp4
-#EXTINF:-1 tvg-name="Ausência S03E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E03
+#EXTINF:-1 tvg-name="Absentia S03E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Ausência S03E03
 https://c4n.fun/series/478571/250669/1163606.mp4
-#EXTINF:-1 tvg-name="Ausência S03E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E04
+#EXTINF:-1 tvg-name="Absentia S03E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E04
 https://c4n.fun/series/478571/250669/1163607.mp4
-#EXTINF:-1 tvg-name="Ausência S03E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E05
+#EXTINF:-1 tvg-name="Absentia S03E05" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E05
 https://c4n.fun/series/478571/250669/1163608.mp4
-#EXTINF:-1 tvg-name="Ausência S03E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E06
+#EXTINF:-1 tvg-name="Absentia S03E06" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E06
 https://c4n.fun/series/478571/250669/1163609.mp4
-#EXTINF:-1 tvg-name="Ausência S03E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E07
+#EXTINF:-1 tvg-name="Absentia S03E07" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E07
 https://c4n.fun/series/478571/250669/1163610.mp4
-#EXTINF:-1 tvg-name="Ausência S03E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E08
+#EXTINF:-1 tvg-name="Absentia S03E08" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E08
 https://c4n.fun/series/478571/250669/1163611.mp4
-#EXTINF:-1 tvg-name="Ausência S03E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E09
+#EXTINF:-1 tvg-name="Absentia S03E09" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E09
 https://c4n.fun/series/478571/250669/1163612.mp4
-#EXTINF:-1 tvg-name="Ausência S03E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | AUSÊNCIA",Ausência S03E10
+#EXTINF:-1 tvg-name="Absentia S03E10" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E10
 https://c4n.fun/series/478571/250669/1163613.mp4
