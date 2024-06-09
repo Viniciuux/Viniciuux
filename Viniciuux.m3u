@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JOGOS DIA" tvg-logo="https://imagens3.ne10.uol.com.br/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg" group-title="CANAIS | JODOS DIA",JOGOS DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 1 HD
+#EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 2 HD
+#EXTINF:-1 tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 2
 https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 3 HD
+#EXTINF:-1 tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 3
 https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 4 HD
+#EXTINF:-1 tvg-name="Premiere Clube 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 4
 https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 5 HD
+#EXTINF:-1 tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 5
 https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 6 HD
+#EXTINF:-1 tvg-name="Premiere Clube 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 6
 https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 7 HD
+#EXTINF:-1 tvg-name="Premiere Clube 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 7
 https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="SporTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
@@ -996,7 +996,7 @@ https://c4n.fun/series/478571/250669/1163603.mp4
 https://c4n.fun/series/478571/250669/1163604.mp4
 #EXTINF:-1 tvg-name="Absentia S03E02" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E02
 https://c4n.fun/series/478571/250669/1163605.mp4
-#EXTINF:-1 tvg-name="Absentia S03E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Ausência S03E03
+#EXTINF:-1 tvg-name="Absentia S03E03" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E03
 https://c4n.fun/series/478571/250669/1163606.mp4
 #EXTINF:-1 tvg-name="Absentia S03E04" tvg-logo="https://ds0.cds.nowonline.com.br/assets/p14575118_b_v12_ai.jpg" group-title="SERIES | ABSENTIA",Absentia S03E04
 https://c4n.fun/series/478571/250669/1163607.mp4
