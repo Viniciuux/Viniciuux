@@ -24,27 +24,45 @@ https://brflu.walk-tv.com/5915/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 7
 https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="SporTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV
+https://abc.embedmax.site/sportv1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="SporTV¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV¹
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2
+https://abc.embedmax.site/sportv2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="SporTV 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2¹
 https://brflu.walk-tv.com/5931/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 3
+https://abc.embedmax.site/sportv3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="SporTV 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 3¹
 https://brflu.walk-tv.com/5930/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD
+https://abc.embedmax.site/espn1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD¹
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
 https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD
+https://abc.embedmax.site/espn2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD¹
 https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
 https://brflu.walk-tv.com/5910/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD
+https://abc.embedmax.site/espn3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD¹
 https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
 https://cdn-2.nxplay.com.br/ESPN_3/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD
+https://abc.embedmax.site/espn4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD¹Î
 https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
 https://brflu.walk-tv.com/6586/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5 HD
+https://abc.embedmax.site/espn5/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 6 HD
+https://abc.embedmax.site/espn6/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
 https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
@@ -64,6 +82,8 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2021/05/BandSports.jpg" group-title="CANAIS | ESPORTE BR",Band Sports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE BR",Combate
+https://abc.embedmax.site/combate/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Combate¹" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE BR",Combate¹
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo SP
 https://brflu.walk-tv.com/6431/playlist.m3u8
