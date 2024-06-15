@@ -2,45 +2,15 @@
 #EXTINF:-1 tvg-name="JOGOS DIA" tvg-logo="https://imagens3.ne10.uol.com.br/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg" group-title="CANAIS | JODOS DIA",JOGOS DIA
 http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
 #EXTINF:-1 tvg-name="Teste esportes 10" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 10
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+https://prod-ec-sa-east-2.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
 #EXTINF:-1 tvg-name="Teste esportes 1" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 1
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v2/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
 #EXTINF:-1 tvg-name="Teste esportes 2" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/esportes2_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 3" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 3
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-2/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 #EXTINF:-1 tvg-name="Teste esportes 4" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 4
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 5" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 5
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 6" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 6
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes6/esportes6_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 7" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 7
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes7/esportes7_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 8" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 9" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 9
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes9/esportes9_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 1" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 1
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 2" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 2
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 3" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 3
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 4" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 4
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 5" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 5
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 6" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 6
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs6/vintequatrohrs6_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 7" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 7
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs7/vintequatrohrs7_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 8" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 8
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs8/vintequatrohrs8_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 9" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 9
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs9/vintequatrohrs9_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste Teste 24h 10" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",Teste 24h 10
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs10/vintequatrohrs10_2000/index.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
 
 #EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
