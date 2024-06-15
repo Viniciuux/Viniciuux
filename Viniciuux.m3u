@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sportv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW2ZcLL_RbivAlK11x75pYymnBjHQdw2JxQ&s" group-title="SERVIDOR FORA",Sportv
-http://179.124.14.153:8080/19/mpegts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW2ZcLL_RbivAlK11x75pYymnBjHQdw2JxQ&s" group-title="SERVIDOR FORA",ESPN
-http://179.124.14.153:8080/20/mpegts
+#EXTINF:-1 tvg-name="Sportv Mengao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/1024px-Flamengo_braz_logo.svg.png" group-title="MENGAO",Sportv Mengao
+https://live-as-01-20.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMjAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE4NTYzNTk1LCJpYXQiOjE3MTg0NzcxOTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.xs_nFn_aPTwxB66qmk7ay-YUYYheqQc6yVIrkBbZ9D9866KO-WGHKoOt_3ymiuFB_K832RlT7VseuFVuDb19FL-jdtZMJBty6wna5SP2ig7CiqQKFRgoSYKiL__vAiVI3gbFgXSsBBXaKWnbk3lVSiO_2cpXCIRc_wSEwkCycz23YAQqn4-RV9y6GVR_LJqk5CcxazPCKbE2eSYwsLyiqbY-slMKDpi4NvcuHT5YpwDC6qsAICOy_rewmEHCjogmGZDUvUnlmv32M7x9xuUdFPhNIU4dPPJltW0Prob7irYOjvB7ks1WXdOVr9_e5cDDw60S8zxfXbXId6Vrm67HRg/nu/f(bMin=2000)/spo124ha/playlist.m3u8
+#EXTINF:-1 tvg-name="Premiere Mengao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/1024px-Flamengo_braz_logo.svg.png" group-title="MENGAO",Premiere Mengao
+https://live-as-01-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE4NTYzNTEzLCJpYXQiOjE3MTg0NzcxMTMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvcGZjMS9wbGF5bGlzdC5tM3U4In0.E76fCLHoGVuh967LgQ1YtNJ-gcnPhTUqQZk4Z6rhkGOxnETZfm1f9_hmjmz86E4_u2H9O4b_U7-loW9sDOdD_SprxI-La73-L3A05JWSMqYsq0sHd8_UBvhGjqX0isJGOIzxr0bABJRMiW-s_wgP42g7XXEX5GYbaH4gONP65mtclOQS2IwFynpKFI8ybZrRNRJUmaU9511uKgi0XU-dabq2AFf2SsUs8Ff9lqbCmaDV816uzebCduH1VSsv_MTHDQ9GQWS3iAOhKwiNWTdjKefwfgosqcY_3G3jUmywFXSJh4DmGqtMx8UzFTFvezXC-EZsjeUx-nFpOFsHVhaVcg/nu/f(bMin=2000)/pfc1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube¹
