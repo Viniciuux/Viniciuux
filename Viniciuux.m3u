@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="JOGOS DIA" tvg-logo="https://imagens3.ne10.uol.com.br/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg" group-title="CANAIS | JODOS DIA",JOGOS DIA
-http://conexaoonline.top:80/005279/key5f0e5x0L/260711.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 10" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 10
-https://prod-ec-sa-east-2.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 1" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 1
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v2/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 2" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/esportes2_2000/index.m3u8
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-2/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
-#EXTINF:-1 tvg-name="Teste esportes 4" tvg-logo="https://i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/23/teste.jpg" group-title="Teste Premiere",esportes 4
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
+
+#EXTINF:-1 tvg-name="prod-ec1" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="prod-ec",prod-ec1
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
+#EXTINF:-1 tvg-name="prod-ec2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="prod-ec",prod-ec2
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Z9e7LRSwRHCI85VnYgWC2vgoFW4A2n3w41NS8N1KT8L7w8kj9QfP1c5oHtbR8A9Y9MqsjURqFzJFeGNXf4r-0A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8
+#EXTINF:-1 tvg-name="prod-ec3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="prod-ec",prod-ec3
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/0lgiQmeiVLODwM5oHlDIN2HKdkqXzlOjZYV_GkSGfZUGQ_owwO0JRR9IjpCwtsPRgJ49jtZ4zvchzo-E70qcUA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+
+#EXTINF:-1 tvg-name="Sportv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW2ZcLL_RbivAlK11x75pYymnBjHQdw2JxQ&s" group-title="SERVIDOR FORA",Sportv
+http://179.124.14.153:8080/19/mpegts
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW2ZcLL_RbivAlK11x75pYymnBjHQdw2JxQ&s" group-title="SERVIDOR FORA",ESPN
+http://179.124.14.153:8080/20/mpegts
+
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_krmy2GN3ucbBGWPLp4ooDC2sFZZ_CslDrgXJDqSz8hPgw=s900-c-k-c0x00ffffff-no-rj" group-title="PREMIUM SPORT",DAZN 1 
+http://136.243.82.42:808/premium426/index.m3u8,
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_krmy2GN3ucbBGWPLp4ooDC2sFZZ_CslDrgXJDqSz8hPgw=s900-c-k-c0x00ffffff-no-rj" group-title="PREMIUM SPORT",DAZN 2 
+http://136.243.82.42:808/premium427/index.m3u8
 
 #EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
@@ -38,8 +43,6 @@ https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 https://abc.embedmax.site/sportv1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="SporTV¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV¹
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="SporTV²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV²
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/cfJbeGBXsWNx5_z99Tlmjt-LpIEOPM8i5dTs-arilxm-pF6wu8AJ7rpItZNxb1fPm9vSD2pZxK4FEx_8vE_IHA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8
 #EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2
 https://abc.embedmax.site/sportv2/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="SporTV 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2¹
