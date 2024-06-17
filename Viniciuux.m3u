@@ -117,8 +117,10 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 https://abc.embedmax.site/combate/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Combate¹" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate¹
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Racing America" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Racing America
+#EXTINF:-1 tvg-name="Racing America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_aTlmBpSE-MT7vDrxvJ4URlltZ4h1V78m-g&s" group-title="CANAIS | ESPORTE",Racing America
 https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="FIFA Plus" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png?width=800&height=800" group-title="CANAIS | ESPORTE",FIFA Plus
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
 ############################################################################################### CANAIS | ESTADOS UNIDOS
 
