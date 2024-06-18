@@ -26,19 +26,19 @@ https://live-as-10-28.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 
 #EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube¹
+#EXTINF:-1 tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere¹ abc
 https://abc.embedmax.site/premiere1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 2
 https://brflu.walk-tv.com/5921/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 2¹
+#EXTINF:-1 tvg-name="Premiere Clube 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 2¹ abc
 https://abc.embedmax.site/premiere2/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 3
 https://brflu.walk-tv.com/5920/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 3¹
+#EXTINF:-1 tvg-name="Premiere Clube 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 3¹ abc
 https://abc.embedmax.site/premiere3/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 4
 https://brflu.walk-tv.com/5918/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Premiere Clube 4¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 4¹
+#EXTINF:-1 tvg-name="Premiere Clube 4¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 4¹ abc
 https://abc.embedmax.site/premiere4/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube 5
 https://brflu.walk-tv.com/5916/tracks-v1a1/index.m3u8
@@ -49,15 +49,15 @@ https://brflu.walk-tv.com/5914/tracks-v1a1/index.m3u8
 
 ############################################################################################### CANAIS | SPORTV
 
-#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV abc
 https://abc.embedmax.site/sportv1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="SporTV¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV¹
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2 abc
 https://abc.embedmax.site/sportv2/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="SporTV 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 2¹
 https://brflu.walk-tv.com/5931/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 3
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 3 abc
 https://abc.embedmax.site/sportv3/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="SporTV 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | SPORTV",SporTV 3¹
 https://brflu.walk-tv.com/5930/tracks-v1a1/index.m3u8
@@ -121,18 +121,24 @@ https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
 https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="FIFA Plus" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png?width=800&height=800" group-title="CANAIS | ESPORTE",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Star+" tvg-logo="https://img.ibxk.com.br/2021/09/21/21101730596070.jpg?ims=fit-in/220x220/filters:fill(ffffff)" group-title="CANAIS | ESPORTE",Star+
+http://63.143.42.10:14088
+#EXTINF:-1 tvg-name="NowTV Euro1" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro1
+https://histar.zapi.us.kg/?id=now-sports-618
+#EXTINF:-1 tvg-name="NowTV Euro2" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro2
+https://histar.zapi.us.kg/?id=now-sports-619
 
 ############################################################################################### CANAIS | ESTADOS UNIDOS
 
-#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://images-americanas.b2w.io/produtos/7430769004/imagens/bandeira-dos-estados-unidos-eua-usa-1-50x0-90mt/7430769012_1_large.jpg" group-title="CANAIS | ESTADOS UNIDOS",ESPN USA
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON USA" tvg-logo="https://images-americanas.b2w.io/produtos/7430769004/imagens/bandeira-dos-estados-unidos-eua-usa-1-50x0-90mt/7430769012_1_large.jpg" group-title="CANAIS | ESTADOS UNIDOS",NICKELODEON USA
+#EXTINF:-1 tvg-name="USA:ESPN" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:ESPN
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
+#EXTINF:-1 tvg-name="USA:NICKELODEON" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://images-americanas.b2w.io/produtos/7430769004/imagens/bandeira-dos-estados-unidos-eua-usa-1-50x0-90mt/7430769012_1_large.jpg" group-title="CANAIS | ESTADOS UNIDOS",ABC USA
+#EXTINF:-1 tvg-name="USA:ABC" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-name="NICKTOONS USA" tvg-logo="https://images-americanas.b2w.io/produtos/7430769004/imagens/bandeira-dos-estados-unidos-eua-usa-1-50x0-90mt/7430769012_1_large.jpg" group-title="CANAIS | ESTADOS UNIDOS",NICKTOONS USA
+#EXTINF:-1 tvg-name="USA:NICKTOONS" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:NICKTOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-name="CNN USA" tvg-logo="https://images-americanas.b2w.io/produtos/7430769004/imagens/bandeira-dos-estados-unidos-eua-usa-1-50x0-90mt/7430769012_1_large.jpg" group-title="CANAIS | ESTADOS UNIDOS",CNN USA
+#EXTINF:-1 tvg-name="USA:CNN" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 ############################################################################################### CANAIS | GLOBO
@@ -1059,8 +1065,6 @@ https://s2.lightspeedst.net/s2/mp4/kono-subarashii-sekai-ni-shukufuku-wo-3/hd/8.
 
 #EXTINF:-1 tvg-name="Ghostbusters: Apocalipse de Gelo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5MDE0YzUtZDNiYi00ZTYxLWE4NjMtMGVkMGZiOTI4N2JhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg" group-title="FILMES | LANÇAMENTOS",Ghostbusters: Apocalipse de Gelo
 https://web.opendrive.com/api/v1/download/file.json/ODFfNzg2MTk2NjVfb28wWTc
-#EXTINF:-1 tvg-name="Ghostbusters: Apocalipse de Gelo 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY5MDE0YzUtZDNiYi00ZTYxLWE4NjMtMGVkMGZiOTI4N2JhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg" group-title="FILMES | LANÇAMENTOS",Ghostbusters: Apocalipse de Gelo 2
-https://861520442.tapecontent.net/radosgw/Pw4rAK3w9Vc0dd0/MpsqGj_bKHxzAnKtPuAN6d5YJAJyxwho0pnseVsYM5WWlmMQAux6OLM4X3bTJHmxbbvciJdIL-_j-WPCUx84-ZyghWD7UWY2jwX_dWGnfkKUts05l2NRWMJat-MfMLTLiO8NgvvbhIG9E3cxEZvLZ2z84O-_ezO_XePRsh3iyXlNn7IKOr5Ms2ynm_BgYYO0vPdNBmZ-ZJm4C9WzFoq29twvGcodDyKHTaFJPcXDJC5EvjO1KKupZsc8w4HY9mmIC18Ke4VUnDbRe57MSySlyOJnogoCKm0HrzVfyhXQXbIRGC7ho2ZEBNMsiFc/ghostbusters-apocalipse-de-gelo-dublado-www.encontrei.tv
 #EXTINF:-1 tvg-name="A Teia" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2NlZjViZWEtNDkyNS00MWU5LWIwZmMtMzg4ZGUyN2JkOGYxXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg" group-title="FILMES | LANÇAMENTOS",A Teia
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/06363/ot8ufe7lm4yt_h/master.m3u8
 
@@ -1135,85 +1139,6 @@ https://c4n.fun/series/478571/250669/1163583.mp4
 
 ##################################################################################################  SERIES FICÇÃO CIENTÍFICA
 
-###### Under the Dome
-#EXTINF:-1 tvg-name="S01E01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E01
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep1.mp4
-#EXTINF:-1 tvg-name="S01E02" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E02
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep2.mp4
-#EXTINF:-1 tvg-name="S01E03" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E03
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep3.mp4
-#EXTINF:-1 tvg-name="S01E04" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E04
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep4.mp4
-#EXTINF:-1 tvg-name="S01E05" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E05
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep5.mp4
-#EXTINF:-1 tvg-name="S01E06" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E06
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep6.mp4
-#EXTINF:-1 tvg-name="S01E07" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E07
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep7.mp4
-#EXTINF:-1 tvg-name="S01E08" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E08
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep8.mp4
-#EXTINF:-1 tvg-name="S01E09" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E09
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep9.mp4
-#EXTINF:-1 tvg-name="S01E10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E10
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep10.mp4
-#EXTINF:-1 tvg-name="S01E11" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E11
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep11.mp4
-#EXTINF:-1 tvg-name="S01E12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E12
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep12.mp4
-#EXTINF:-1 tvg-name="S01E13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S01E13
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp1ep13.mp4
-#EXTINF:-1 tvg-name="US02E01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E01
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep1.mp4
-#EXTINF:-1 tvg-name="S02E02" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E02
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep2.mp4
-#EXTINF:-1 tvg-name="S02E03" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E03
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep3.mp4
-#EXTINF:-1 tvg-name="S02E04" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E04
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep4.mp4
-#EXTINF:-1 tvg-name="S02E05" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E05
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep5.mp4
-#EXTINF:-1 tvg-name="S02E06" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E06
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep6.mp4
-#EXTINF:-1 tvg-name="S02E07" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E07
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep7.mp4
-#EXTINF:-1 tvg-name="S02E08" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E08
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep8.mp4
-#EXTINF:-1 tvg-name="S02E09" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E09
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep9.mp4
-#EXTINF:-1 tvg-name="S02E10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E10
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep10.mp4
-#EXTINF:-1 tvg-name="S02E11" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E11
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep11.mp4
-#EXTINF:-1 tvg-name="S02E12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E12
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep12.mp4
-#EXTINF:-1 tvg-name="S02E13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S02E13
-https://download2299.mediafire.com/8l5vfew9qbsgJRHx6QGVrCgPsUwd8Y5AerVgpQWx7B4JYkxBP67GMUq0zoS0nA2IQA_DgtU_KfEeFsZ2FVWNBRelVgNlPpr6y1j9rvWbivlT83QHONaq4rObT5nRKaJxd9fute0t2L497FMkkPxdYN0bJyLfJaXMINMpPEhpouwd31M/fq0mnt0z8qsufew/p1-under-the-dome-dub-01265878temp2ep13.mp4
-#EXTINF:-1 tvg-name="S03E01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E01
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep1_2.mp4
-#EXTINF:-1 tvg-name="S03E02" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E02
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep2_2.mp4
-#EXTINF:-1 tvg-name="S03E03" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E03
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep3_2.mp4
-#EXTINF:-1 tvg-name="S03E04" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E04
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep4_2.mp4
-#EXTINF:-1 tvg-name="S03E05" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E5
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep5_2.mp4
-#EXTINF:-1 tvg-name="S03E06" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E06
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep6_2.mp4
-#EXTINF:-1 tvg-name="S03E"07 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E07
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep7_2.mp4
-#EXTINF:-1 tvg-name="S03E08" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E08
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep8_2.mp4
-#EXTINF:-1 tvg-name="S03E09" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E09
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep9_2.mp4
-#EXTINF:-1 tvg-name="S03E10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E10
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep10_2.mp4
-#EXTINF:-1 tvg-name="S03E11" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E11
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep11_2.mp4
-#EXTINF:-1 tvg-name="S03E12" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E12
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep12_2.mp4
-#EXTINF:-1 tvg-name="S03E13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4Dk9yK3ue_4KcHhZ24OnB5P8nOBywMQhpX3WhKi4TsqewBmKL0gc9nLC2BoqvvjJlaK_3KtDY2OE8IevBbv2mfeDifujU4NFhF-ss5PW9sz_lm6vnCeyTwqhQPad6UuZRMmcqJ6kdnVO/s1600/Under_the_dome_logo.jpg" group-title="SERIES | FICÇÃO",S03E13
-https://download2282.mediafire.com/64s5li7v58hgjyAvHM8BjyMtFDbbbuX_OBI1okOGOAObpSTkSboIPGHJ-uhb51l5dywBvjZAzq0m438zIMH12sHxStEY-xaM4ajlYzh1rAgy465aE-5-HUspayoM-TYXjwrHYuQ3ycmd9fbhazCienu1yamYRCL5enyK_amK9Wl70w/bjds11xp4kto52q/p1-under-the-dome-dub-47844048temp3ep13_2.mp4
 
 ##################################################################################################  SERIES PRIME VIDE
 
