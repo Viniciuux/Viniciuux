@@ -107,6 +107,8 @@ http://63.143.42.10:14088
 https://histar.zapi.us.kg/?id=now-sports-618
 #EXTINF:-1 tvg-name="NowTV Euro2" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro2
 https://histar.zapi.us.kg/?id=now-sports-619
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/2048px-NBA_TV.svg.png" group-title="CANAIS | ESPORTE",NBA TV
+http://41.205.93.154/NBA/index.m3u8
 
 ############################################################################################### CANAIS | 4K
 
