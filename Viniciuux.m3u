@@ -109,115 +109,52 @@ https://histar.zapi.us.kg/?id=now-sports-618
 https://histar.zapi.us.kg/?id=now-sports-619
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/2048px-NBA_TV.svg.png" group-title="CANAIS | ESPORTE",NBA TV
 http://41.205.93.154/NBA/index.m3u8
-
-############################################################################################### CANAIS | 4K
-
-#EXTINF:-1 tvg-name="Eurosport 4K" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png" group-title="CANAIS | 4K",Eurosport 4K
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="CANAIS | ESPORTE",Premier Sports 1
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2160/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 4K" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png" group-title="CANAIS | ESPORTE",Eurosport 4K
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
-
-############################################################################################### CANAIS | ESTADOS UNIDOS
-
-#EXTINF:-1 tvg-name="USA:ESPN" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf1L-xqothzNHUEONNFWAhYezocLZ4Jdt7w&s" group-title="CANAIS | ESPORTE",ESPN
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
-#EXTINF:-1 tvg-name="USA:NICKELODEON" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:NICKELODEON
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-name="USA:ABC" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:ABC
+#EXTINF:-1 tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xuEZhCoFKwTx9fhr3EfqU7HAL_LsPuxopw&s" group-title="CANAIS | ESPORTES",MAVTV
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/1074/index.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="CANAIS | ESPORTE",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-name="USA:NICKTOONS" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:NICKTOONS
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-name="USA:CNN" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="USA:MTV Live" tvg-logo="https://dcdn.mitiendanube.com/stores/002/414/050/products/bandeira-estados-unidos-150x90-poliester-copa-do-mundo-olimpiadas-capa-11-1f01c46674e0c2a28516709785193240-1024-1024.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA:MTV Live
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/221/index.m3u8
-
-############################################################################################### CANAIS | RUSSO
-
-#EXTINF:-1 tvg-name="RU:Eurosport 1" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Eurosport 1
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_1_hd.png" group-title="CANAIS | ESPORTE",Eurosport 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/228/index.m3u8
-#EXTINF:-1 tvg-name="RU:Eurosport 2" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Eurosport 2
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_2_hd.png" group-title="CANAIS | ESPORTE",Eurosport 2
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/234/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ!" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ!
+#EXTINF:-1 tvg-name="МАТЧ!" tvg-logo="https://tvepg.eu/img/russia/logo/match_2.png" group-title="CANAIS | ESPORTE",МАТЧ!
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/212/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ ПРЕМЬЕР" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ ПРЕМЬЕР
+#EXTINF:-1 tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="https://tvepg.eu/img/russia/logo/match_premyer.png" group-title="CANAIS | ESPORTE",МАТЧ ПРЕМЬЕР
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/220/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ! ИГРА" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ! ИГРА
+#EXTINF:-1 tvg-name="МАТЧ! ИГРА" tvg-logo="https://tvepg.eu/img/russia/logo/match_igra.png" group-title="CANAIS | ESPORTE",МАТЧ! ИГРА
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/225/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ! Футбол 1" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ! Футбол 1
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 1" tvg-logo="https://tvepg.eu/img/russia/logo/match_futbol_1.png" group-title="CANAIS | ESPORTE",МАТЧ! Футбол 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/222/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ! Футбол 2" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ! Футбол 2
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 2" tvg-logo="https://tvepg.eu/img/russia/logo/match_futbol_2.png" group-title="CANAIS | ESPORTE",МАТЧ! Футбол 2
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/211/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ! Футбол 3" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ! Футбол 3
+#EXTINF:-1 tvg-name="МАТЧ! Футбол 3" tvg-logo="https://tvepg.eu/img/russia/logo/match_futbol_3.png" group-title="CANAIS | ESPORTE",МАТЧ! Футбол 3
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/206/index.m3u8
-#EXTINF:-1 tvg-name="RU:KHL" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:KHL
+#EXTINF:-1 tvg-name="KHL" tvg-logo="https://tvepg.eu/img/russia/logo/khl.png" group-title="CANAIS | ESPORTE",KHL
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/215/index.m3u8
-#EXTINF:-1 tvg-name="RU:Setanta 1" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Setanta 1
+#EXTINF:-1 tvg-name="Setanta 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ttusrw1445657002.png" group-title="CANAIS | ESPORTE",Setanta 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/271/index.m3u8
-#EXTINF:-1 tvg-name="RU:Setanta 2" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Setanta 2
+#EXTINF:-1 tvg-name="Setanta 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png" group-title="CANAIS | ESPORTE",Setanta 2
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/270/index.m3u8
-#EXTINF:-1 tvg-name="RU:Setanta 3" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Setanta 3
+#EXTINF:-1 tvg-name="Setanta 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Setanta_Sports_3_UA.svg/revision/latest?cb=20230805220038" group-title="CANAIS | ESPORTE",Setanta 3
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/272/index.m3u8
-#EXTINF:-1 tvg-name="RU:viju+ Comedy" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:viju+ Comedy
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/200/index.m3u8
-#EXTINF:-1 tvg-name="RU:viju+ Megahit" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:viju+ Megahit
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/201/index.m3u8
-#EXTINF:-1 tvg-name="RU:viju+ Premiere" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:viju+ Premiere
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/202/index.m3u8
-#EXTINF:-1 tvg-name="RU:Viju History" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Viju History
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/203/index.m3u8
-#EXTINF:-1 tvg-name="RU:Первый канал" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Первый канал
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/204/index.m3u8
-#EXTINF:-1 tvg-name="RU:Россия 1" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Россия 1
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/205/index.m3u8
-#EXTINF:-1 tvg-name="RU:МАТЧ! АРЕНА" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:МАТЧ! АРЕНА
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/207/index.m3u8
-#EXTINF:-1 tvg-name="RU:Mezzo Live" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Mezzo Live
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/208/index.m3u8
-#EXTINF:-1 tvg-name="RU:Hollywood" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Hollywood
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/209/index.m3u8
-#EXTINF:-1 tvg-name="RU:RTG TV" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:RTG TV
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/210/index.m3u8
-#EXTINF:-1 tvg-name="RU:НТВ Право" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:НТВ Право
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/213/index.m3u8
-#EXTINF:-1 tvg-name="RU:National Geographic Wild" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:National Geographic Wild
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/216/index.m3u8
-#EXTINF:-1 tvg-name="RU:Animal Planet" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Animal Planet
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/218/index.m3u8
-#EXTINF:-1 tvg-name="RU:FX" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:FX
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/219/index.m3u8
-#EXTINF:-1 tvg-name="RU:Nickelodeon" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Nickelodeon
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/223/index.m3u8
-#EXTINF:-1 tvg-name="RU:КИНОПРЕМЬЕРА" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:КИНОПРЕМЬЕРА
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/224/index.m3u8
-#EXTINF:-1 tvg-name="RU:HDL" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:HDL
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/226/index.m3u8
-#EXTINF:-1 tvg-name="RU:Discovery Channel" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Discovery Channel
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/227/index.m3u8
-#EXTINF:-1 tvg-name="RU:Amedia Premium" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Amedia Premium
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/229/index.m3u8
-#EXTINF:-1 tvg-name="RU:History" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:History
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/231/index.m3u8
-#EXTINF:-1 tvg-name="RU:TLC" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:TLC
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/232/index.m3u8
-#EXTINF:-1 tvg-name="RU:Travel Channel" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Travel Channel
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/233/index.m3u8
-#EXTINF:-1 tvg-name="RU:BRIDGE TV Deluxe" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:BRIDGE TV Deluxe
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/236/index.m3u8
-#EXTINF:-1 tvg-name="RU:ТНТ" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:ТНТ
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/237/index.m3u8
-#EXTINF:-1 tvg-name="RU:Bollywood" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Bollywood
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/239/index.m3u8
-#EXTINF:-1 tvg-name="RU:Мульт" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Мульт
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/240/index.m3u8
-#EXTINF:-1 tvg-name="RU:NHK WORLD‑JAPAN" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:NHK WORLD‑JAPAN
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/729/index.m3u8
-#EXTINF:-1 tvg-name="RU:Redlight" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Redlight
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/242/index.m3u8
-#EXTINF:-1 tvg-name="RU:Private" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Private
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/243/index.m3u8
-#EXTINF:-1 tvg-name="RU:Hustle" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Hustle
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/244/index.m3u8
-#EXTINF:-1 tvg-name="RU:Dorcel" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | RUSSO",RU:Dorcel
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/245/index.m3u8
+#EXTINF:-1 tvg-name="UDAR" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | ESPORTE",UDAR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2000/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Sport" tvg-logo="https://tvepg.eu/img/russia/logo/viju_plus_sport.png" group-title="CANAIS | ESPORTE",viju+ Sport
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2007/index.m3u8
+#EXTINF:-1 tvg-name="Старт" tvg-logo="https://tvstart.ru/local/layout/src/public//img/logo.svg" group-title="CANAIS | ESPORTE",Старт
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2154/index.m3u8
+#EXTINF:-1 tvg-name="Xsport" tvg-logo="https://tvepg.eu/img/ukraine/logo/xsport.png" group-title="CANAIS | ESPORTE",Xsport
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/996/index.m3u8
+#EXTINF:-1 tvg-name="Rybalka" tvg-logo="https://tvepg.eu/img/ukraine/logo/rybalka.png" group-title="CANAIS | ESPORTE",Rybalka
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/1058/index.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://tvepg.eu/img/turkey/logo/trt_spor_yildiz.png" group-title="CANAIS | ESPORTE",TRT SPOR YILDIZ
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2145/index.m3u8
 
 ############################################################################################### CANAIS | GLOBO
 
@@ -762,6 +699,18 @@ http://conexaoonline.top:80/3486527/8553692/110.m3u8
 https://watch.vcdn.in/venus/playlist.m3u8
 #EXTINF:-1 tvg-name="Vivid Red" tvg-logo="https://toppng.com//public/uploads/preview/vivid-red-hd-frequence-vivid-astra-192-11562989910lalqdivk0w.png" group-title="CANAIS | XXX",Vivid Red
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/91663/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Vivid Red 2" tvg-logo="https://toppng.com//public/uploads/preview/vivid-red-hd-frequence-vivid-astra-192-11562989910lalqdivk0w.png" group-title="CANAIS | XXX",Vivid Red 2
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2162/index.m3u8
+#EXTINF:-1 tvg-name="RU:Redlight" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | XXX",RU:Redlight
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/242/index.m3u8
+#EXTINF:-1 tvg-name="RU:Private" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | XXX",RU:Private
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/243/index.m3u8
+#EXTINF:-1 tvg-name="RU:Hustle" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | XXX",RU:Hustle
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/244/index.m3u8
+#EXTINF:-1 tvg-name="RU:Dorcel" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p3/5568089-redondo-bandeira-russa-icone-isolado-em-fundo-branco-a-bandeira-da-russia-em-um-circulo-gratis-vetor.jpg" group-title="CANAIS | XXX",RU:Dorcel
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/245/index.m3u8
+#EXTINF:-1 tvg-name="Blue Hustle" tvg-logo="https://www.tuabandeira.com/cdn/shop/products/product-image-1303798715.jpg?v=1629207833" group-title="CANAIS | XXX",UKR|Blue Hustle
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/1064/index.m3u8
 
 ############################################################################################### ANIMES DUB
 
