@@ -115,7 +115,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2160/index.m3u8
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf1L-xqothzNHUEONNFWAhYezocLZ4Jdt7w&s" group-title="CANAIS | ESPORTE",ESPN
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
-#EXTINF:-1 tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xuEZhCoFKwTx9fhr3EfqU7HAL_LsPuxopw&s" group-title="CANAIS | ESPORTES",MAVTV
+#EXTINF:-1 tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xuEZhCoFKwTx9fhr3EfqU7HAL_LsPuxopw&s" group-title="CANAIS | ESPORTE",MAVTV
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/1074/index.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="CANAIS | ESPORTE",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
