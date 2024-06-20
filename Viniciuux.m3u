@@ -1,6 +1,6 @@
 #EXTM3U
-############################################################################################### CANAIS | PREMIERE
 
+############################################################################################### CANAIS | PREMIERE
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube GP" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE",Premiere Clube GP
@@ -86,20 +86,64 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2021/05/BandSports.jpg" group-title="CANAIS | ESPORTE",Band Sports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 tvg-name="Combate¹" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate¹
+#EXTINF:-1 tvg-name="Combate" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="USA:UFC FIGHT" tvg-logo="https://pbs.twimg.com/profile_images/1604117961849069575/ycq3lY_v_400x400.jpg" group-title="CANAIS | ESPORTE",USA:UFC FIGHT
+http://fl2.moveonjoy.com/UFC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Women's Football" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691575512000" group-title="CANAIS | ESPORTE",DAZN Women's Football
+https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://cdn2.nbcuni.com/NBCUniversal/styles/newsroom_stories_16_9_image_style/s3/2023-08/corporate_golf-channel-16x9-social.jpg?VersionId=hoVrlk2GXCJgyQBaq9HGLXj12yiF168F&itok=WDRhKcED" group-title="CANAIS | ESPORTE",GOLF CHANNEL
+http://fl2.moveonjoy.com/GOLF_CHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWdJKWlP8kg3JVVr2qNnYQnkxtJGL7m4aRw&s" group-title="CANAIS | ESPORTE",beIN SPORTS USA
+http://fl2.moveonjoy.com/BEIN_SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png" group-title="CANAIS | ESPORTE",USA:ESPN
+http://fl2.moveonjoy.com/ESPN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/e0jjaa1660762501.png" group-title="CANAIS | ESPORTE",USA: ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEWS" tvg-logo="https://uploads.dailydot.com/2019/05/espnews-logo-2000x1000-1.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop" group-title="CANAIS | ESPORTE",ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/800px-ESPN_U_logo.svg.png" group-title="CANAIS | ESPORTE",ESPNU
+http://fl2.moveonjoy.com/ESPN_U/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://yt3.googleusercontent.com/vCCG64Cpq_5N2JyyEza_PYaM2goNAckSslfy268JcfhkZTflUM03QNdtzvLnP2xQVa2lHisF=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTE",Stadium
+http://fl2.moveonjoy.com/STADIUM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="CANAIS | ESPORTE",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbZnkZ-XD-v0uKdhILHeF2A3oyiX2upWW2w&s" group-title="CANAIS | ESPORTE",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/2048px-NBA_TV.svg.png" group-title="CANAIS | ESPORTE",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://play-lh.googleusercontent.com/UwXJoMyT3RmIs3yTPPgXHSkTM1Wllz1AWNMQ_ZqZf08UBtyUrPEZu_WVeUjLMko7urLP" group-title="CANAIS | ESPORTE",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="https://my.citizensfiber.com/wp-content/uploads/2021/08/ACCN-1.png" group-title="CANAIS | ESPORTE",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2024/02/tfki7njrm3y8jycbtkrx.jpeg" group-title="CANAIS | ESPORTE",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNRTdZuP5LgdUXbx1a_IC5VPC6BMqsMc86KA&s" group-title="CANAIS | ESPORTE",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="CANAIS | ESPORTE",NBC Sports Network
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xuEZhCoFKwTx9fhr3EfqU7HAL_LsPuxopw&s" group-title="CANAIS | ESPORTE",MAVTV
+http://fl2.moveonjoy.com/MAV_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="CANAIS | ESPORTE",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="CANAIS | ESPORTE",Fox Sports 2
+http://1play.cool:25461/LeonorCabrera/c81d5d4616/32151
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://www.wkbn.com/wp-content/uploads/sites/48/2024/01/wwe.jpg?w=1280" group-title="CANAIS | ESPORTE",WWE
+http://fl2.moveonjoy.com/WWE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHEQ_ta8QxU4_bofurnlHOy858tG9jKXnAg&s" group-title="CANAIS | ESPORTE",SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nOut0oBwpjXUdQ0Y16kUNpNEvAjjvQaUBLqQhZnIVLJb4=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTE",World Fishing Network
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YES Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6FkbZ4fSqjjleYT0bt4WFnqzlMbr8z29tQ&s" group-title="CANAIS | ESPORTE",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/playlist.m3u8
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_aTlmBpSE-MT7vDrxvJ4URlltZ4h1V78m-g&s" group-title="CANAIS | ESPORTE",Racing America
 https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="FIFA Plus" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png?width=800&height=800" group-title="CANAIS | ESPORTE",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-name="Star+" tvg-logo="https://img.ibxk.com.br/2021/09/21/21101730596070.jpg?ims=fit-in/220x220/filters:fill(ffffff)" group-title="CANAIS | ESPORTE",Star+
-http://63.143.42.10:14088
 #EXTINF:-1 tvg-name="NowTV Euro1" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro1
 https://histar.zapi.us.kg/?id=now-sports-618
 #EXTINF:-1 tvg-name="NowTV Euro2" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro2
 https://histar.zapi.us.kg/?id=now-sports-619
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/2048px-NBA_TV.svg.png" group-title="CANAIS | ESPORTE",NBA TV
-http://41.205.93.154/NBA/index.m3u8
 #EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="CANAIS | ESPORTE",Premier Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2160/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 4K" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png" group-title="CANAIS | ESPORTE",Eurosport 4K
