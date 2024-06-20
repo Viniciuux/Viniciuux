@@ -150,6 +150,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2160/index.m3u8
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="CANAIS | ESPORTE",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="VarzeshTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahGQo7DLml2ASFmmmAfivUoqMIX7aYpImMw&usqp=CAU" group-title="CANAIS | ESPORTE",VarzeshTV
+https://liveproxy.splus.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_1_hd.png" group-title="CANAIS | ESPORTE",Eurosport 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/228/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_2_hd.png" group-title="CANAIS | ESPORTE",Eurosport 2
