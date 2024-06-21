@@ -49,26 +49,27 @@ https://live-as-03-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 
 ############################################################################################### CANAIS | ESPN
 
-#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD
-https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN
+https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
-https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD
-https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2
+https://cdn-4.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
-https://brflu.walk-tv.com/5910/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD¹
-https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3
+https://cdn-4.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
-https://cdn-2.nxplay.com.br/ESPN_3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD¹Î
-https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
-https://brflu.walk-tv.com/6586/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
-https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
-https://cdn-2.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/index.m3u8
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="ESPN TLK" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN TLK
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
 #EXTINF:-1 tvg-name="ESPN TLK FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN TLK FHD
