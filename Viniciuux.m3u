@@ -34,11 +34,17 @@ https://live-as-10-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 
 ############################################################################################### CANAIS | SPORTV
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV FHD
+https://stream.freetv.fun/sportv-1.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV FHD¹
+https://stream.freetv.fun/sportv-brasil-1.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV HD
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV GP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV GP
 https://live-as-03-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MDU4MDIxLCJpYXQiOjE3MTg5NzE2MjEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.yOOQb84T5zo95SSouDOvgRc3RQiSvmNUJWGluE-cUHMoj7QloHSEkjZsyaHT_BpGvQgYMEHUqq3uhzeV9lm-Y4TeW2zlGO-nynHZTuvYKEbFn1vsilluChYt-FBmXBkz_e9hcpT-pMsoYHtxXdPxxgQvOU_lwb8SW1qYPssnm_AdCE_lXyeof1-ZbKHpkxACEJpRLeBE9Saz3l9bQ2gqc7GTrb9CyUVQRBAMD1cMvSBbQ-43f277tkFxpQf1MvVeSSDp17sVUYSK7-96Ghk3G2oo6o8sN-XS7fuWVBEpwoMYu1tqOVpKyCxgPjK_HbBMsYCkqqgYXeOX4JLffMDzmg/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 FHD
+https://stream.freetv.fun/sportv-2-brasil-1.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 HD
 https://brflu.walk-tv.com/5931/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 GP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 GP
 https://live-as-08-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MDU4MDA0LCJpYXQiOjE3MTg5NzE2MDQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzIyNGhhL3BsYXlsaXN0Lm0zdTgifQ.caQZ2jJBMmjfy2uZecWnBXob9j9ZxJiDIXNayHKI4yglMsLTMcqjbjixrNehomi22ni9T8Ayg0AjBdMT_l0e14niNKjnHnhajHD6cCGS7ZuVktwzMrbwUC7M3QHbuOi95aUGB7H-g_HjSeoV5YIcTBbOne4vzpYaa5XDyrjKwfUoRAsxc20QBQXFINI4lp7G6Hy1fmM0c5BIzdeBzCT2b6rxbrPp7eFGgyPJ16MbFOHcKOpB9VtBHQJvt5W6XMotyCUasMjWK3JYKFAOyogI0Yb7PK9eoLFo7iZ6f70VR0aJ3aB3kSQT69kGgmT9uMUGCBpd-sC00aWHZ2o4bFubzA/nu/f(bMax=3300000,bMin=2000)/spo224ha/playlist.m3u8
@@ -89,6 +95,8 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="CANAIS | ESPORTE",All Sports
+https://stream.freetv.fun/all-sports-tv-1.m3u8
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="USA:UFC FIGHT" tvg-logo="https://pbs.twimg.com/profile_images/1604117961849069575/ycq3lY_v_400x400.jpg" group-title="CANAIS | ESPORTE",USA:UFC FIGHT
 http://fl2.moveonjoy.com/UFC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Women's Football" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691575512000" group-title="CANAIS | ESPORTE",DAZN Women's Football
