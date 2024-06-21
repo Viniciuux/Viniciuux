@@ -97,6 +97,8 @@ https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 http://fl2.moveonjoy.com/GOLF_CHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWdJKWlP8kg3JVVr2qNnYQnkxtJGL7m4aRw&s" group-title="CANAIS | ESPORTE",beIN SPORTS USA
 http://fl2.moveonjoy.com/BEIN_SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIn SPORTS HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG2MWKRTnmDzeVWCkwkQK4Vii356XigTtSA&s" group-title="CANAIS | ESPORTE",beIn SPORTS HABER
+https://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA:ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png" group-title="CANAIS | ESPORTE",USA:ESPN
 http://fl2.moveonjoy.com/ESPN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/e0jjaa1660762501.png" group-title="CANAIS | ESPORTE",USA: ESPN 2
@@ -111,6 +113,12 @@ http://fl2.moveonjoy.com/STADIUM/playlist.m3u8
 http://fl2.moveonjoy.com/NHL_NETWORK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbZnkZ-XD-v0uKdhILHeF2A3oyiX2upWW2w&s" group-title="CANAIS | ESPORTE",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTÉ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Rtesport2015.png" group-title="CANAIS | ESPORTE",RTÉ Sport 2
+http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/359
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png" group-title="CANAIS | ESPORTE",CCTV-5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 360" tvg-logo="https://www.echantillonsclub.com/wp-content/uploads/2022/08/canal-chaines-sport-gratuites.jpg" group-title="CANAIS | ESPORTE",CANAL+ SPORT 360
+https://stream.freetv.fun/canal-plus--foot360-web-1.ctv
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/2048px-NBA_TV.svg.png" group-title="CANAIS | ESPORTE",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://play-lh.googleusercontent.com/UwXJoMyT3RmIs3yTPPgXHSkTM1Wllz1AWNMQ_ZqZf08UBtyUrPEZu_WVeUjLMko7urLP" group-title="CANAIS | ESPORTE",MotorTrend
@@ -139,6 +147,16 @@ http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/playlist.m3u8
 http://fl2.moveonjoy.com/YES_NETWORK/playlist.m3u8
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_aTlmBpSE-MT7vDrxvJ4URlltZ4h1V78m-g&s" group-title="CANAIS | ESPORTE",Racing America
 https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTE",Sky Sports F1
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcFQEBp2tiudveveFM-43_Bjh44wH1W6eCA&s" group-title="CANAIS | ESPORTE",RTSH Sport
+https://stream.freetv.fun/rtsh-sport-1.ctv
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="https://yt3.googleusercontent.com/h30Xby2stPI3q24Ah0ZnqKUCtj_6EVmx7PBtMZ4F3xNF3kMhUnyUjA1J9UIEFOBlQzZTyE0l=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTE",DEPORTV
+https://stream.freetv.fun/deportv-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports 2" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-title="CANAIS | ESPORTE",TyC Sports 2
+https://stream.freetv.fun/tyc-sports-2.ctv
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports 3" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-title="CANAIS | ESPORTE",TyC Sports 3
+https://stream.freetv.fun/tyc-sports-3.ctv
 #EXTINF:-1 tvg-name="FIFA Plus" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png?width=800&height=800" group-title="CANAIS | ESPORTE",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="NowTV Euro1" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/71017468-09a0-444e-b8eb-60f4029eb630/888946352/now-tv-now.png" group-title="CANAIS | ESPORTE",NowTV Euro1
