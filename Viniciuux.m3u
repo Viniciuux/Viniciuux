@@ -97,6 +97,11 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="CANAIS | ESPORTE",All Sports
 https://stream.freetv.fun/all-sports-tv-1.m3u8
+
+############################################################################################### CANAIS | NORTE AMERICANOS
+
+
+
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="USA:UFC FIGHT" tvg-logo="https://pbs.twimg.com/profile_images/1604117961849069575/ycq3lY_v_400x400.jpg" group-title="CANAIS | ESPORTE",USA:UFC FIGHT
 http://fl2.moveonjoy.com/UFC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Women's Football" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691575512000" group-title="CANAIS | ESPORTE",DAZN Women's Football
@@ -143,6 +148,8 @@ http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/playlist.m3u8
 http://fl2.moveonjoy.com/MAV_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="CANAIS | ESPORTE",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS1_logo_2015.svg/1200px-FS1_logo_2015.svg.png" group-title="CANAIS | ESPORTE",Fox Sports 1
+https://stream.freetv.fun/fox-sports-1-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="CANAIS | ESPORTE",Fox Sports 2
 http://1play.cool:25461/LeonorCabrera/c81d5d4616/32151
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://www.wkbn.com/wp-content/uploads/sites/48/2024/01/wwe.jpg?w=1280" group-title="CANAIS | ESPORTE",WWE
@@ -217,6 +224,48 @@ http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/996/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/1058/index.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://tvepg.eu/img/turkey/logo/trt_spor_yildiz.png" group-title="CANAIS | ESPORTE",TRT SPOR YILDIZ
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2145/index.m3u8
+
+############################################################################################### CANAIS | SUL AMERICANOS
+
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp" group-title="CANAIS | SUL AMERICANOS",Win Sports
+http://177.126.51.9:8000/play/a020
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="CANAIS | SUL AMERICANOS",Movistar Deportes
+http://177.126.51.9:8000/play/a024
+#EXTINF:-1 tvg-name="SA: ESPN" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN
+http://177.126.51.9:8000/play/a028
+#EXTINF:-1 tvg-name="ESPM PREMIUM" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",ESPN PREMIUM
+https://stream.freetv.fun/fox-sports-1-2.ctv
+#EXTINF:-1 tvg-name="SA: ESPN 3" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 3
+http://177.126.51.9:8001/play/a012
+#EXTINF:-1 tvg-name="SA: ESPN 5" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 5
+http://177.126.51.9:8001/play/a047
+#EXTINF:-1 tvg-name="SA: ESPN 7" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 7
+http://177.126.51.9:8001/play/a027
+#EXTINF:-1 tvg-name="SA: TYC Sports" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",SA: TYC Sports
+http://177.126.51.9:8001/play/a028
+#EXTINF:-1 tvg-name="CDO 2" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2023/10/BANNER_02.png" group-title="CANAIS | SUL AMERICANOS",CDO 2
+http://177.126.51.9:8001/play/a010
+#EXTINF:-1 tvg-name="CDO" tvg-logo="https://yt3.googleusercontent.com/-6nDNIQc0qEHE4_Q98M_dPFUWKNq_kTh20J64H_T7b2oKgqt7P-y8Y4icxry6TL4go-QbSWIB-k=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | SUL AMERICANOS",CDO
+http://177.126.51.9:8001/play/a011
+#EXTINF:-1 tvg-name="GOL PERU" tvg-logo="https://i.pinimg.com/originals/09/94/16/099416256832311878b6e83b641421f1.jpg" group-title="CANAIS | SUL AMERICANOS",GOL PERU
+http://177.126.51.9:8001/play/a037
+#EXTINF:-1 tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp" group-title="CANAIS | SUL AMERICANOS",TNT SPORTS PREMIUM
+http://177.126.51.9:8001/play/a046
+#EXTINF:-1 tvg-name="ECDF" tvg-logo="https://elcomercio.pe/resizer/nrh8HoGHYVjYfMvqIDa848ycei4=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="CANAIS | SUL AMERICANOS",ECDF
+http://177.126.51.9:8001/play/a063
+#EXTINF:-1 tvg-name="BeIN Sport N" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-4DC3D3A3F9-seeklogo.com.png" group-title="CANAIS | SUL AMERICANOS",BeIN Sport N
+http://boxtvvip.dynedns.ovh:80/9361247850/4677cb08cbb2/71960
+
+############################################################################################### CANAIS | EUROPA
+
+#EXTINF:-1 tvg-name="Arena Sporte 1" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="CANAIS | EUROPA",Arena Sporte 1
+https://stream.freetv.fun/arena-sport-1-2.ctv
+#EXTINF:-1 tvg-name="Arena Sporte 1¹" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="CANAIS | EUROPA",Arena Sporte 1¹
+https://stream.freetv.fun/arena-sport-1-1.ctv
+#EXTINF:-1 tvg-name="Arena Sporte 3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png" group-title="CANAIS | EUROPA",Arena Sporte 3
+https://stream.freetv.fun/arena-sport-3-2.ctv
+#EXTINF:-1 tvg-name="Tring Sport 1" tvg-logo="https://i.goalzz.com/?i=anis%2F2018%2F08%2Ftrings1.gif" group-title="CANAIS | EUROPA",Tring Sport 1
+http://bumtv.mrak-iptv.com:25461/Damirsat:damir/nqaJW1WaCS/197
 
 ############################################################################################### CANAIS | GLOBO
 
