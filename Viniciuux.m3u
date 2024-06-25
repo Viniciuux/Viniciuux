@@ -1,8 +1,9 @@
 #EXTM3U
-
 ############################################################################################### CANAIS | PREMIERE
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube²
+http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube GP" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube GP
 https://live-as-01-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMDIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MzEzNTExLCJpYXQiOjE3MTkyMjcxMTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3BmYzEvcGxheWxpc3QubTN1OCJ9.lNErQ9UOIcOourwgRKXqkRQI5LF2shR-eI5rbo2D8_-49YdAQ0NtKeMHz2HsRXYHclXfFFtfstI9WFoG3ucW12IE5Nby9EJ_DwXaeErz7gSMQnFjFHW3uFFVV9Zn7AkqNQbNTajL_t9J3ecVg1L_dCug14U2P0BtLLzne6RLcqyaUyN9cdHkljcs7tbf7TR-EDrSpeLV-NBDyC1OWzykdERdItQN7iFlgKZBeXJEwSAvBqEhCSv6NcCSZCANdgALStxLliTKmmgbT9InO-ZNK8xnK9iZ46fqbema5R8CCIc22TJFFQ2189JWfwSXJWHSt_u4NStRGQeHNwRf9Xpz1w/nu/f(bMax=3300000,bMin=2000)/pfc1/playlist.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2
@@ -40,54 +41,55 @@ https://stream.freetv.fun/sportv-1.m3u8
 https://stream.freetv.fun/sportv-brasil-1.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV HD
 https://brflu.walk-tv.com/5932/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV HD²
+http://45.235.0.78/SPORTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV GP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV GP
 https://live-as-02-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MzEzNDA0LCJpYXQiOjE3MTkyMjcwMDQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.M0-A2JYw8VKanCCKbdrM67lNfsd2Rw8oJNJSjCZgYyXJtAJMDR8flsodF-6Jh9CByhuZFxgXBwXtETPA26omSVwWi8R_SEowYunenHDZ_O4cTQi2U2PU3xmF6M9sPqpewadjFNMMM1tIf4jIAZDj2a6UO18pVHV5HJkmMlP6ek-s8koZcbkzZm4YoDJpVlQEBEOYafvB4tggQ6faEQg0bbTugcZ3IwFMV4qgOCNVj5GWPBqR4wv7dS2yIK5W-7xKVBnADwEKHHWqEXxrc59HhNoMQXxu-8tErP1ETjOTCTmKyKTEVp8-gmev2wporMZI4JT1g3Lbmk7T2XzGRBpHEQ/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 FHD
 https://stream.freetv.fun/sportv-2-brasil-1.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 HD
 https://brflu.walk-tv.com/5931/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 HD²
+http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 GP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 GP
 https://live-as-08-15.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMTUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MzEzNDY3LCJpYXQiOjE3MTkyMjcwNjcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzIyNGhhL3BsYXlsaXN0Lm0zdTgifQ.y8Iu2PQEiXOECpcDr_HzXwdd9hkC-R5VoM_NYuWv8tAiHHY2r1-WZjqamCoUcOqoK2MfMY-TCnOpv_jMwBqPbF183zavbJ8gsxS76pwsbE8e7YTcLM15FN84ttHwK_a0MNWKdt8aDA5KHnG7du0iYNHZ09VrVwsxFjUVQCPfKo5GDwtN5zmvuI4Qctsb7Ksool9xkygtmu33SOSFidz5nZWZS8L0oXzmwfw89VMStI8-3M0eppTR4AUs8iPcxxVrzJ7_LpZRFHSqyJzoWYML_g4tdpb-wYONVBPS0miHbulpoPIoV4MN8psMw-uxqr2GmYE2uMpGl2tDlrx2PoUCIw/nu/f(bMax=3300000,bMin=2000)/spo224ha/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 3
 https://brflu.walk-tv.com/5930/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 3²
+http://45.235.0.78/SPORTV3-HD/index.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 GP" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 3 GP
 https://live-as-02-20.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMjAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE5MzEzNDQ0LCJpYXQiOjE3MTkyMjcwNDQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzMyNGhhL3BsYXlsaXN0Lm0zdTgifQ.BDG-njE35t11yt253z4XkiYeCNnBavjdjGP_GozkUSy9U8Nl8KwHPZ91uOqOsh2sgal7UEJb5MKO3FPRrsZptBHY2eTb50o5GpVC6grECYG87bmJZrfulGTuugbbLoCyOXHuqWgoeVLSVJK-XXBDSm7UjUmREBecCEpJGfTg_1HDWTiOB1pkfMDHV57l2Pbn_bgjH7ME-iUgaG-8F_fev2jLIS_OlvzneHZnb2Q98JdGJan-Yo4_uaa-oqMX26m96kCDKbb1ML-0iFfzO11xCiWW7qKZSBYpphlJJumJidCg0UemveIq0vX48zCkiobgdvNm0azNmRtO7hv6ZFp3Eg/nu/f(bMax=3300000,bMin=2000)/spo324ha/playlist.m3u8
 
 ############################################################################################### CANAIS | ESPN
 
-#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN
+http://45.235.0.78/ESPNBRASIL-HD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD¹
 https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
 https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2
+http://45.235.0.78/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD¹
 https://cdn-4.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
 https://cdn-4.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD¹
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4
+http://45.235.0.78/FOXSPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD¹
 https://cdn-4.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
 https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5
+http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA
 https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
 https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="ESPN TLK" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN TLK
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19056/index.m3u8
-#EXTINF:-1 tvg-name="ESPN TLK FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN TLK FHD
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
-#EXTINF:-1 tvg-name="ESPN TLK 2" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN TLK 2
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19058/index.m3u8
-#EXTINF:-1 tvg-name="ESPN MNF" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN MNF
-http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19056/manifest.m3u8
-#EXTINF:-1 tvg-name="ESPN MNF FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN MNF FHD
-http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19059/manifest.m3u8
-#EXTINF:-1 tvg-name="ESPN MNF 2" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN MNF 2
-http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 
 ############################################################################################### CANAIS | ESPORTE
 
@@ -95,11 +97,12 @@ http://88b9da48.kazmazpaz.ru/iptv/5YS5CCM3AGT2T9/19061/manifest.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate
 https://brflu.walk-tv.com/5865/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Combate¹" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTE",Combate¹
+http://45.235.0.78/COMBATE-HD/index.m3u8
 #EXTINF:-1 tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="CANAIS | ESPORTE",All Sports
 https://stream.freetv.fun/all-sports-tv-1.m3u8
 
 ############################################################################################### CANAIS | NORTE AMERICANOS
-
 
 
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="USA:UFC FIGHT" tvg-logo="https://pbs.twimg.com/profile_images/1604117961849069575/ycq3lY_v_400x400.jpg" group-title="CANAIS | ESPORTE",USA:UFC FIGHT
