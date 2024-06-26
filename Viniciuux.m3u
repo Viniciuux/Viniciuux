@@ -92,10 +92,8 @@ https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
 
 ############################################################################################### CANAIS | ESPORTE
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Combate Americas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q5-LpPNBNE0LQtynriWu17OR1xZ-N9jCGw&s" group-title="CANAIS | ESPORTE",Combate Americas
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q5-LpPNBNE0LQtynriWu17OR1xZ-N9jCGw&s
+http://186.226.215.132:80/12345/12345/187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alpha8" tvg-logo="https://static.episodate.com/images/tv-show/full/39997.jpg" group-title="CANAIS | ESPORTE",Alpha8
 http://186.226.215.132:80/12345/12345/120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="partypoker" tvg-logo="https://pbs.twimg.com/profile_images/1618173878437642241/INJcczwl_400x400.jpg" group-title="CANAIS | ESPORTE",partypoker
@@ -324,6 +322,8 @@ https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54
 http://186.226.215.132:80/12345/12345/3.m3u8
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo02
 http://186.226.215.132:80/12345/12345/12.m3u8
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo03
+http://186.226.215.132:80/12345/12345/277.m3u8
 
 ############################################################################################### CANAIS | TV ABERTA
 
@@ -771,6 +771,8 @@ https://watch.vcdn.in/gloobinho/playlist.m3u8
 https://watch.vcdn.in/babytv/playlist.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://play-lh.googleusercontent.com/z_90JYTZ0UUAm5LhWzlJMFlT7xs08qss7HZ1UNf40bxJdRWj3x-9NzvW3eChEWBtSLU" group-title="CANAIS | DESENHOS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
+#EXTINF:-1 tvg-name="Ani TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/anitv.webp" group-title="CANAIS | DESENHOS",Ani TV
+http://186.226.215.132:80/12345/12345/260.m3u8
 
 ############################################################################################### CANAIS | ADULT SWIM
 
