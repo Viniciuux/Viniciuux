@@ -198,6 +198,8 @@ https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
 
 ############################################################################################### CANAIS | RUSSOS
 
+#EXTINF:-1 tvg-name="UEFA Youth League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCH0byXLnH01OHN5vM-sWtVtFLacEfkTaOw&s" group-title="CANAIS | RUSSOS",UEFA Youth League!
+https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_1_hd.png" group-title="CANAIS | RUSSOS",Eurosport 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/228/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://tvepg.eu/img/russia/logo/eurosport_2_hd.png" group-title="CANAIS | RUSSOS",Eurosport 2
@@ -265,6 +267,8 @@ http://177.126.51.9:8001/play/a046
 http://177.126.51.9:8001/play/a063
 #EXTINF:-1 tvg-name="BeIN Sport N" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-4DC3D3A3F9-seeklogo.com.png" group-title="CANAIS | SUL AMERICANOS",BeIN Sport N
 http://boxtvvip.dynedns.ovh:80/9361247850/4677cb08cbb2/71960
+#EXTINF:-1 tvg-name="CTS Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvybI1RnThltcxu-TKXlZFOTzzwYSloWMUpQ&s" group-title="CANAIS | SUL AMERICANOS",CTS Sports
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 
 ############################################################################################### CANAIS | EUROPA
 
