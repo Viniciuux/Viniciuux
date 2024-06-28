@@ -239,16 +239,42 @@ http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/2145/index.m3u8
 
 ############################################################################################### CANAIS | SUL AMERICANOS
 
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s" group-title="CANAIS | SUL AMERICANOS",DSports 1
+http://kstv.us/Wolf/8338187957/47096
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1719376166726" group-title="CANAIS | SUL AMERICANOS",DSports 2
+http://kstv.us/Wolf/8338187957/47094
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp" group-title="CANAIS | SUL AMERICANOS",Win Sports
 http://177.126.51.9:8000/play/a020
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="CANAIS | SUL AMERICANOS",Movistar Deportes
 http://177.126.51.9:8000/play/a024
+#EXTINF:-1 tvg-name="Movistar Deportes²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="CANAIS | SUL AMERICANOS",Movistar Deportes²
+http://kstv.us/Wolf/8338187957/47010
 #EXTINF:-1 tvg-name="SA: ESPN" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN
 http://177.126.51.9:8000/play/a028
+#EXTINF:-1 tvg-name="SA: ESPN" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN desporto mex
+http://kstv.us/Wolf/8338187957/47105
+#EXTINF:-1 tvg-name="SA: ESPN" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN mex
+http://kstv.us/Wolf/8338187957/47108
+#EXTINF:-1 tvg-name="SA: ESPN" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN arg
+http://kstv.us/Wolf/8338187957/47111
+#EXTINF:-1 tvg-name="SA: ESPN 2" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 2 arg
+http://kstv.us/Wolf/8338187957/47098
+#EXTINF:-1 tvg-name="SA: ESPN 2" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 2 hond
+http://kstv.us/Wolf/8338187957/47100
 #EXTINF:-1 tvg-name="ESPM PREMIUM" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",ESPN PREMIUM
 https://stream.freetv.fun/fox-sports-1-2.ctv
+#EXTINF:-1 tvg-name="ESPM PREMIUM MELHOR" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",ESPN PREMIUM MELHOR
+http://kstv.us/Wolf/8338187957/47126
+#EXTINF:-1 tvg-name="ESPM PREMIUM MELHOR ²" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",ESPN PREMIUM MELHOR ²
+http://kstv.us/Wolf/8338187957/47129
 #EXTINF:-1 tvg-name="SA: ESPN 3" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 3
 http://177.126.51.9:8001/play/a012
+#EXTINF:-1 tvg-name="SA: ESPN 3" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 3 hond
+http://kstv.us/Wolf/8338187957/47102
+#EXTINF:-1 tvg-name="SA: ESPN 4" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 4
+http://kstv.us/Wolf/8338187957/47109
+#EXTINF:-1 tvg-name="SA: ESPN 4" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 4 usa
+http://kstv.us/Wolf/8338187957/47110
 #EXTINF:-1 tvg-name="SA: ESPN 5" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 5
 http://177.126.51.9:8001/play/a047
 #EXTINF:-1 tvg-name="SA: ESPN 7" tvg-logo="https://espnpressroom.com/brazil/files/2016/11/Logo-ESPN.png" group-title="CANAIS | SUL AMERICANOS",SA: ESPN 7
@@ -261,14 +287,40 @@ http://177.126.51.9:8001/play/a010
 http://177.126.51.9:8001/play/a011
 #EXTINF:-1 tvg-name="GOL PERU" tvg-logo="https://i.pinimg.com/originals/09/94/16/099416256832311878b6e83b641421f1.jpg" group-title="CANAIS | SUL AMERICANOS",GOL PERU
 http://177.126.51.9:8001/play/a037
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU 2" tvg-logo="https://i.pinimg.com/originals/09/94/16/099416256832311878b6e83b641421f1.jpg" group-title="CANAIS | SUL AMERICANOS",GOL PERU 2
+http://kstv.us/Wolf/8338187957/46997
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://i.pinimg.com/originals/09/94/16/099416256832311878b6e83b641421f1.jpg" group-title="CANAIS | SUL AMERICANOS",GOL TV
+http://kstv.us/Wolf/8338187957/47132
 #EXTINF:-1 tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp" group-title="CANAIS | SUL AMERICANOS",TNT SPORTS PREMIUM
 http://177.126.51.9:8001/play/a046
 #EXTINF:-1 tvg-name="ECDF" tvg-logo="https://elcomercio.pe/resizer/nrh8HoGHYVjYfMvqIDa848ycei4=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="CANAIS | SUL AMERICANOS",ECDF
 http://177.126.51.9:8001/play/a063
 #EXTINF:-1 tvg-name="BeIN Sport N" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-4DC3D3A3F9-seeklogo.com.png" group-title="CANAIS | SUL AMERICANOS",BeIN Sport N
-http://boxtvvip.dynedns.ovh:80/9361247850/4677cb08cbb2/71960
+http://kstv.us/Wolf/8338187957/47089
 #EXTINF:-1 tvg-name="CTS Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvybI1RnThltcxu-TKXlZFOTzzwYSloWMUpQ&s" group-title="CANAIS | SUL AMERICANOS",CTS Sports
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="CANAIS | SUL AMERICANOS",RPC TV
+http://kstv.us/Wolf/8338187957/47022
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDm-QPMbWntGzyq4w0V4IK27hJvtoeDMoOA&s" group-title="CANAIS | SUL AMERICANOS",TV MAX
+http://kstv.us/Wolf/8338187957/47034
+#EXTINF:-1 tvg-id="" tvg-name="Deportestvc" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png" group-title="CANAIS | SUL AMERICANOS",Deportestvc
+http://kstv.us/Wolf/8338187957/47038
+#EXTINF:-1 tvg-id="" tvg-name="AYM Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="CANAIS | SUL AMERICANOS",AYM Sports
+http://kstv.us/Wolf/8338187957/47088
+#EXTINF:-1 tvg-id="" tvg-name="CLARO Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="CANAIS | SUL AMERICANOS",CLARO Sports
+http://kstv.us/Wolf/8338187957/47091
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",FOX SPORTS 1
+http://kstv.us/Wolf/8338187957/47115
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",FOX SPORTS 1 ARG
+http://kstv.us/Wolf/8338187957/47117
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",FOX SPORTS 2
+http://kstv.us/Wolf/8338187957/47118
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",FOX SPORTS 2
+http://kstv.us/Wolf/8338187957/47120
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",TUDN
+http://kstv.us/Wolf/8338187957/47140
+#EXTINF:-1 tvg-id="" tvg-name="TVC D lmb" tvg-logo="AAAA" group-title="CANAIS | SUL AMERICANOS",TVC D lmb
+http://kstv.us/Wolf/8338187957/47141
 
 ############################################################################################### CANAIS | EUROPA
 
