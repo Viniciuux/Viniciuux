@@ -347,7 +347,7 @@ http://190.102.43.113:80/Formigatv/offilinetv2806/320531.m3u8
 #EXTINF:-1 tvg-name="Globo AMA" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo AMA
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo01
-http://186.226.215.132:80/12345/12345/3.m3u8
+http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo02
 http://186.226.215.132:80/12345/12345/12.m3u8
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo03
@@ -383,6 +383,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 http://190.102.43.113/Formigatv/offilinetv2806/1542452.m3u8
 #EXTINF:-1 tvg-name="Com Brasil" tvg-logo="https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0" group-title="CANAIS | TV ABERTA",Com Brasil
 https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | TV ABERTA",SBT RJ
+http://186.226.215.132:80/12345/12345/22.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Gazeta" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHCgtIJ-hvEoVg4QffA3myDKTg00nRWOiJ3TfpIwrfYeU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | TV ABERTA",TV Gazeta
@@ -391,7 +393,7 @@ https://brflu.walk-tv.com/5758/playlist.m3u8
 http://186.226.215.132:80/12345/12345/32.m3u8
 
 #EXTINF:-1 tvg-name="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | TELECINE",TC ACTION
-
+https://playfast.xyz/tcaction/playlist.m3u8
 #EXTINF:-1 tvg-name="TC ACTION¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | TELECINE",TC ACTION¹
 
 #EXTINF:-1 tvg-name="TC CULT" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="CANAIS | TELECINE",TC CULT
@@ -401,38 +403,38 @@ http://186.226.215.132:80/12345/12345/32.m3u8
 #EXTINF:-1 tvg-name="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | TELECINE",TC FUN
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542201.m3u8
 #EXTINF:-1 tvg-name="TC FUN¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | TELECINE",TC FUN¹
-
+https://playfast.xyz/tcfun/playlist.m3u8
 #EXTINF:-1 tvg-name="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542456.m3u8
 #EXTINF:-1 tvg-name="TC PIPOCA¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA¹
-
+https://playfast.xyz/tcpipoca/playlist.m3u8
 #EXTINF:-1 tvg-name="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | TELECINE",TC PREMIUM
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542211.m3u8
 #EXTINF:-1 tvg-name="TC PREMIUM¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | TELECINE",TC PREMIUM¹
-
+https://playfast.xyz/tcpremium/playlist.m3u8
 #EXTINF:-1 tvg-name="TC TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | TELECINE",TC TOUCH
 http://190.102.43.113:80/Formigatv/offilinetv2806/320584.m3u8
 #EXTINF:-1 tvg-name="TC TOUCH¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | TELECINE",TC TOUCH¹
-
+https://playfast.xyz/tctouch/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="CANAIS | HBO",HBO
-
+https://playfast.xyz/hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO¹" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="CANAIS | HBO",HBO¹
 
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="CANAIS | HBO",HBO 2
-
+https://playfast.xyz/hbo2/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 2¹" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="CANAIS | HBO",HBO 2¹
 
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CANAIS | HBO",HBO Plus
 http://190.102.43.113/Formigatv/offilinetv2806/10275.m3u8
 #EXTINF:-1 tvg-name="HBO Plus¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CANAIS | HBO",HBO Plus¹
-
+https://playfast.xyz/hboplus/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="CANAIS | HBO",HBO Family
 http://190.102.43.113/Formigatv/offilinetv2806/10280.m3u8
 #EXTINF:-1 tvg-name="HBO Family¹" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="CANAIS | HBO",HBO Family¹
-
+https://playfast.xyz/hbofamily/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO Signature
-
+https://playfast.xyz/hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Signature¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO Signature¹
 
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO Pop
@@ -444,7 +446,7 @@ http://190.102.43.113/Formigatv/offilinetv2806/10280.m3u8
 #EXTINF:-1 tvg-name="HBO Mundi¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO Mundi¹
 
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO Xtreme
-
+https://playfast.xyz/hboxtreme/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Xtreme¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO Xtreme¹
 
 
@@ -462,7 +464,7 @@ http://190.102.43.113:80/Formigatv/offilinetv2806/1542114.m3u8
 #EXTINF:-1 tvg-name="Star Channel¹" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS | FILMES&SERIES",Star Channel¹
 
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="CANAIS | FILMES&SERIES",Cinecanal
-
+https://playfast.xyz/cinecanal/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinecanal¹" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="CANAIS | FILMES&SERIES",Cinecanal¹
 
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://observatoriodoaudiovisual.com.br/wp-content/uploads/2020/06/unnamed.jpg" group-title="CANAIS | FILMES&SERIES",Warner Channel
@@ -488,7 +490,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059370253262688256/LOGxmSCt_400x400.jpg" group-title="CANAIS | FILMES&SERIES",FX
 http://190.102.43.113/Formigatv/offilinetv2806/1542123.m3u8
 #EXTINF:-1 tvg-name="FX¹" tvg-logo="https://pbs.twimg.com/profile_images/1059370253262688256/LOGxmSCt_400x400.jpg" group-title="CANAIS | FILMES&SERIES",FX¹
-
+https://playfast.xyz/fx/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://yt3.googleusercontent.com/mSgVvVeblqMRMq7D0JSbySUsGaaAUvOen_dJ6o81qZ7866JcjmWADn1gy7nATknSx11ZUf4YVS0=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES&SERIES",AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:-1 tvg-name="AXN¹" tvg-logo="https://yt3.googleusercontent.com/mSgVvVeblqMRMq7D0JSbySUsGaaAUvOen_dJ6o81qZ7866JcjmWADn1gy7nATknSx11ZUf4YVS0=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES&SERIES",AXN¹
@@ -514,7 +516,7 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://yt3.googleusercontent.com/qEXUjJmdwlXillv5EXoKEBvknnhZPKs9AUXQK8lEStr-TGVeFc4m8i0Poo7F1pB3Ki2mc0eu=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES&SERIES",TNT
 https://cdn-4.nxplay.com.br/TNT/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT¹" tvg-logo="https://yt3.googleusercontent.com/qEXUjJmdwlXillv5EXoKEBvknnhZPKs9AUXQK8lEStr-TGVeFc4m8i0Poo7F1pB3Ki2mc0eu=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES&SERIES",TNT¹
-
+https://playfast.xyz/tnt/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="CANAIS | FILMES&SERIES",TNT Series
 
 #EXTINF:-1 tvg-name="TNT Series¹" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="CANAIS | FILMES&SERIES",TNT Series¹
@@ -538,7 +540,7 @@ https://cdn-4.nxplay.com.br/SPACE_TK/playlist.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://t2.tudocdn.net/521293?w=1920&h=1080" group-title="CANAIS | FILMES&SERIES",Megapix
 http://190.102.43.113/Formigatv/offilinetv2806/1542132.m3u8
 #EXTINF:-1 tvg-name="Megapix¹" tvg-logo="https://t2.tudocdn.net/521293?w=1920&h=1080" group-title="CANAIS | FILMES&SERIES",Megapix¹
-
+https://playfast.xyz/megapix/playlist.m3u8
 #EXTINF:-1 tvg-name="SYFY" tvg-logo="https://play-lh.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA" group-title="CANAIS | FILMES&SERIES",SYFY
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Skytvnew2.png/revision/latest?cb=20210507201924" group-title="Canais | CINESKY",🎬 - CINESKY 1
@@ -621,7 +623,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-name="MTV¹" tvg-logo="https://yt3.googleusercontent.com/kmhhnzlLeVdcj5y794PWj4X9abtMhPLpEIGfJOQ4fj_UpsgyLdijBeilM5DTPEH7adwKmFcZ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",MTV¹
 
 #EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Canal Brasil
-
+https://playfast.xyz/canalbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Brasil¹" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Canal Brasil¹
 
 #EXTINF:-1 tvg-name="Trace Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1410486042092843008/Nn8fyFta_400x400.jpg" group-title="CANAIS | VARIADOS",Trace Brasil
