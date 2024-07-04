@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="URL DO EPG"
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube²
@@ -29,34 +29,28 @@ https://brflu.walk-tv.com/5930/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 3
 http://45.235.0.78/SPORTV3-HD/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN
-http://45.235.0.78/ESPNBRASIL-HD/index.m3u8
-#EXTINF:-1 tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD¹
-https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
-https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2
-http://45.235.0.78/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD¹
-https://cdn-4.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
-https://cdn-4.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD¹
-https://cdn-4.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
-https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4
-http://45.235.0.78/FOXSPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD¹
-https://cdn-4.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
-https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD
+https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
+https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD
+https://cdn-4.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
+https://cdn-4.nxplay.com.br/ESPN_2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD
+https://cdn-4.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
+https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5
 http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
-#EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA
-https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
-https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Combate Americas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q5-LpPNBNE0LQtynriWu17OR1xZ-N9jCGw&s" group-title="CANAIS | ESPORTE",Combate Americas
 http://186.226.215.132:80/12345/12345/187.m3u8
