@@ -667,9 +667,9 @@ http://186.226.215.132:80/12345/12345/55.m3u8
 http://186.226.215.132:80/12345/12345/101.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="CANAIS | DOCUMENTARIOS",HGTV
-
-#EXTINF:-1 tvg-name="HGTV¹" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="CANAIS | DOCUMENTARIOS",HGTV¹
 https://cdn-4.nxplay.com.br/HGTV_BR_NX/playlist.m3u8
+#EXTINF:-1 tvg-name="HGTV¹" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/15/f39a20aa-9eb4-3b62-8596-47ef12c58e2c.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="CANAIS | DOCUMENTARIOS",HGTV¹
+
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://yt3.googleusercontent.com/LDOh0378WYCDZ0Qtjxq99oBxAeHjxCbtJiUI4chXpDXePOM4Rt6Kk7M5PC_DZZwh-vys3s_7ag=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DOCUMENTARIOS",National Geographic
 
 #EXTINF:-1 tvg-name="National Geographic¹" tvg-logo="https://yt3.googleusercontent.com/LDOh0378WYCDZ0Qtjxq99oBxAeHjxCbtJiUI4chXpDXePOM4Rt6Kk7M5PC_DZZwh-vys3s_7ag=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DOCUMENTARIOS",National Geographic¹
@@ -688,9 +688,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 https://cdn-3.nxplay.com.br/ARTE1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://yt3.googleusercontent.com/1rcaN-4MZj-k83upibyNIFvfumOQ5NTrvybPfCRe8yXRU_3NUdKBRRhHdkRUMvbyyWBdaWl6iA=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DISCOVERY",Animal Planet
-
-#EXTINF:-1 tvg-name="Animal Planet¹" tvg-logo="https://yt3.googleusercontent.com/1rcaN-4MZj-k83upibyNIFvfumOQ5NTrvybPfCRe8yXRU_3NUdKBRRhHdkRUMvbyyWBdaWl6iA=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DISCOVERY",Animal Planet¹
 https://cdn-4.nxplay.com.br/ANIMAL_PLANET/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet¹" tvg-logo="https://yt3.googleusercontent.com/1rcaN-4MZj-k83upibyNIFvfumOQ5NTrvybPfCRe8yXRU_3NUdKBRRhHdkRUMvbyyWBdaWl6iA=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DISCOVERY",Animal Planet¹
+
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpL2gfYbTWpgkH-tWBBzXB24kvmArQKDHeMg&s" group-title="CANAIS | DISCOVERY",Discovery Channel
 http://190.102.43.113:80/Formigatv/offilinetv2806/10078.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpL2gfYbTWpgkH-tWBBzXB24kvmArQKDHeMg&s" group-title="CANAIS | DISCOVERY",Discovery Channel¹
@@ -704,9 +704,9 @@ http://190.102.43.113:80/Formigatv/offilinetv2806/1542038.m3u8
 #EXTINF:-1 tvg-name="Home & Health¹" tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | DISCOVERY",Home & Health¹
 https://cdn-4.nxplay.com.br/DISCOVERY_HH/playlist.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS | DISCOVERY",Food Network
-
-#EXTINF:-1 tvg-name="Food Network¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS | DISCOVERY",Food Network¹
 https://cdn-4.nxplay.com.br/FOOD_NETWORK_NX/playlist.m3u8
+#EXTINF:-1 tvg-name="Food Network¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS | DISCOVERY",Food Network¹
+
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDCktEcEXZCso0PD0sjEvhAlUvx-WW7D3_g&s" group-title="CANAIS | DISCOVERY",Discovery Science
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542042.m3u8
 #EXTINF:-1 tvg-name="Discovery Science¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDCktEcEXZCso0PD0sjEvhAlUvx-WW7D3_g&s" group-title="CANAIS | DISCOVERY",Discovery Science¹
@@ -720,9 +720,9 @@ https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery World¹" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="CANAIS | DISCOVERY",Discovery World¹
 http://190.102.43.113:80/Formigatv/offilinetv2806/1542063.m3u8
 #EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYYWCvIRZvyXOGhq1eAYbx_KW30wl2JdcbA&s" group-title="CANAIS | DISCOVERY",Discovery ID
-
-#EXTINF:-1 tvg-name="Discovery ID¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYYWCvIRZvyXOGhq1eAYbx_KW30wl2JdcbA&s" group-title="CANAIS | DISCOVERY",Discovery ID¹
 https://cdn-4.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery ID¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYYWCvIRZvyXOGhq1eAYbx_KW30wl2JdcbA&s" group-title="CANAIS | DISCOVERY",Discovery ID¹
+
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgEevzRXkpNwg7uSdgdi90c3Cgv8makHTTQ&s" group-title="CANAIS | DISCOVERY",TLC
 https://cdn-4.nxplay.com.br/TLC_BR_NX/playlist.m3u8
 #EXTINF:-1 tvg-name="TLC¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgEevzRXkpNwg7uSdgdi90c3Cgv8makHTTQ&s" group-title="CANAIS | DISCOVERY",TLC¹
