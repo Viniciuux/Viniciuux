@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="URL DO EPG"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube
 https://brflu.walk-tv.com/5922/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube²
