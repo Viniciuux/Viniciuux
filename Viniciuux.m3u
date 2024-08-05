@@ -1,6 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="JOGO MENGAO",JOGO MENGAO
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 4K" tvg-logo="" group-title="OLIMPIADAS",EuroSport 4K
 https://dash2.antik.sk/live/esp_oh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
+
+#EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
+
+#EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
+
+#EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
 
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube FHD
 
