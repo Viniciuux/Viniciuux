@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport 4K" tvg-logo="" group-title="OLIMPIADAS",EuroSport 4K
 https://dash2.antik.sk/live/esp_oh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
@@ -9,123 +10,54 @@ https://dash2.antik.sk/live/esp_oh/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AAA" tvg-logo="" group-title="OLIMPIADAS",AAAK
 
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube FHD
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube HD
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube HD¹
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2 FHD
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2 FHD¹
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2 HD
-
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2 SD
-http://budtvlight.com:25461/JW2WBkS637f6Vyqpn/av76gFJ1AeEDzXoV2/158472
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 3 FHD
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 3 FHD¹
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 3 HD
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 3 SD
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere Clube 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 4 FHD
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere Clube 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 4 HD
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 5 FHD
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 5 HD
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 5 SD
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere Clube 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 6 FHD
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere Clube 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 6 HD
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere Clube 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 6 SD
-
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere Clube 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 7 FHD
-
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere Clube 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 7 SD
-
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere Clube 8" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 8 SD
 
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 4K
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clube" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere Clube 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 2
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere Clube 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 3
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere Clube 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 4
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere Clube 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 5
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere Clube 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 6
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere Clube 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 7
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere Clube 8" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIERE SPORTV",Premiere Clube 8
+
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV HD
-https://live-as-02-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIyOTQ2NzM3LCJpYXQiOjE3MjI4NjAzMzcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.yseQPSw6HbGu3Yb_yqrZsRBMPMJDVpGY1gXImqBlGmCTyq_tTX8DxyYlvM3PwDv-RYVC0APSXYKN4YKJjdpexn_WgyyTRaMIEniKDIhDwHsWaPIbRSuhU6frGu5QNx7TK46nfQdEmCjjnq09TPLIcw1LT3-2NP0DxXVf3P_J1SoyJ2XODqhTgUFqbyL5qGRVjLGu32yCElLMeeyMZoBWuWY5pzImv99l8TiiV-pmG61GZQSF98UCNXxJs0ssB6yWcnm4sjK010ZAD2Pse8cPSd30enFAo0pKoIeLTVicr66lvLaZjWaiE1HQfh5IJ4WmcwVKoOooNIY4TFspNk2X4Q/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
+https://live-as-10-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIzMDM0MDgyLCJpYXQiOjE3MjI5NDc2ODIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.hwx3KT6e09bvaaLdHcJxkuEqCdBxjljNXE0TQL_oNEplMwwLoMJji3yQcJe7l5Qal83UROLZbF23CQPNyfSthtsIZPOfPS4_N4D0vXZk-uySItv7NVYQKY-doj21WTppYyO2LtxrQFQcxO7QXvG9dUrQLnLmHZkHSzkA7ZS-CnsPIRf8FKoHu_w9YarqezTfqbB2umx47PQDL6QPproyoauoEdxGRtq9mg4HKX3d6tS1mhvMExJYltDKZ9vrdZdEOIzYIlmAPLRo1ihtRSxPSYnzzGh0_lVtM7d_eM2AVIx7l8CgAT6Oa6RuMtc9Zxo3hLBz0FzsquetslsWpsKrtw/nu/f(bMax=3300000,bMin=2000)/spo124ha/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 2 HD
-https://live-as-09-15.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMTUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIyOTQ2ODA2LCJpYXQiOjE3MjI4NjA0MDYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzIyNGhhL3BsYXlsaXN0Lm0zdTgifQ.TWqpaDAZQHtR7aEiWVAWq9rSb1yvHa7R_1Bm0e1cQKX4xFSpayeYFK529xrJq6md27F-edcpCD08Q3KRCVpwu-TL_GEdJ3T2dni3ndAr5uf6EMtfGAEE3MaQvz6EnS73LCnO_P0MILb6EkpYAohry4vnwqvg8BvPg2xlJquVDnF0DHBmlh929l-37fANHntzeeOyUzadW-N5vOXzSMj2FqUhrSwohE1hsLXo1Mjh-zQubT41xTjNm4QaQK5zhYSdLcly2NLScTIn3vWpzEJk0pQFHZ2TiXgqqbcX7PWPE4GvkLdNoREhhy1iqZcp6ON-3KsR6ZOiBy4ttHguiJzF5Q/nu/f(bMax=3300000,bMin=2000)/spo224ha/playlist.m3u8
+https://live-as-08-29.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMjkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIzMDM0MDg2LCJpYXQiOjE3MjI5NDc2ODYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzIyNGhhL3BsYXlsaXN0Lm0zdTgifQ.oL1ITZkFUZB9jHTCIMVaoaHulwuXfQ7ohdMbGRWLaLPH7DhCj23rR8M-cxjOjEdz4NdYw7glDNgHKlrb6pYXR2nWhYwaD9hWQKRwyotO1WuVVkhbgbUNYByEF5kG4rPq9qCLAIf0__WWXNdUU_W11pYN81XCAvbPBFeBDipdhL3sC6QkDZ1xrLLez40lB5EfI3DQc7TUrQ-_PYUMgRK8NCSIrxz3RpW6XwAogHPEIuyhdCAc0FkbOIDIWGjfdmUUBze38J2G9szxCAJ6_sZXG6bPYMWBhEduARpORdphuA14TUAMg8noIKjs-IwvVRM-YLUx9rzfQrBHgZeOkiD9mw/nu/f(bMax=3300000,bMin=2000)/spo224ha/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="CANAIS | PREMIERE SPORTV",SporTV 3 HD
-https://live-as-09-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIyOTQ2ODMyLCJpYXQiOjE3MjI4NjA0MzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzMyNGhhL3BsYXlsaXN0Lm0zdTgifQ.nTlu3VRY7rEOQsodPDzyUj--XHYBClX_cv-LX6hytED5_RK2VWWNetCMG5REDQp2iITP9zX_Li4qiL2HD5t33x3wqqD9uEFB2QWay6HwdLkZADouOY2shp52Elf2VgXzrYSzQ2lPUiUN9BwDt0U3uV3Olmf4R_WVSq9ZtXzh-cdH4HIp2RGcquZVJHhrqdtNDW3JxBRfi2Z7d1iONnQqdmjbHDdRJ4lFbbKHyp3ctVeRhLtPxFdYqTCnxYulmTEF5aMYCGYsmZzCue06g1QA0UMAv5A98pu0GLfHfMphtZmDvhxsDghBXiqb0I7bK9Gc59VqKDAmDcF0D0RKwX5Yow/nu/f(bMax=3300000,bMin=2000)/spo324ha/playlist.m3u8
+https://live-as-09-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIzMDM0MDkxLCJpYXQiOjE3MjI5NDc2OTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL3NwbzMyNGhhL3BsYXlsaXN0Lm0zdTgifQ.zUrXZkY4yRV9_HxIn8E-afhWuxRtcKSdBN8OeKXAVKsOnSuJmkPShB55CTZIjxbBtGgwk9DIEnyl1SHKdHg9GYMTwm8V8kx8rB35vZJqtN18UfK8Iv6l9cMG25fsIjgiKA2G6sMAXdUPe2HVE7uwCA0PpJiyyBBQinIIlJS035YyTNfSXer5J_OtByB-B9H-T-1-5uSyMv4NAHLN6OY-3SSX-GaJu-H1YWHDdbwWGLCGiDcCsMMgllbveJQwQeA6yuNOhzxhhP2af_8Mo16KUj8GWerMD2k7JreYrKf3fbYFGfQ49-odfqIDi8BcTLCVxeseGVJ2fkw2GnSgPRS-Nw/nu/f(bMax=3300000,bMin=2000)/spo324ha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN FHD¹
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN FHD²
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN HD
 https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN SD
 https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 FHD
-
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 HD
 https://cdn-4.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 2 SD
 https://cdn-4.nxplay.com.br/ESPN_2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 FHD
-
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 HD
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 3 SD
 https://cdn-4.nxplay.com.br/ESPN_3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 4K
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 FHD
-
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 HD
 https://cdn-4.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 4 SD
 https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5 FHD
-
-#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN 5
-
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN EXTRA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA
 https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN EXTRA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
 https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 xui-id="252806" tvg-id="" tvg-name="MLS: 01 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 01 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrk5B3GVAGFmu_Pz-RMkgEJu/m3u8
-#EXTINF:-1 xui-id="252807" tvg-id="" tvg-name="MLS: 02 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 02 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrkE0aaBCE_8iv5gXNTgwI_z/m3u8
-#EXTINF:-1 xui-id="252808" tvg-id="" tvg-name="MLS: 03 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 03 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrk1SJgbJnWWBhQLoWDAWDle/m3u8
-#EXTINF:-1 xui-id="252809" tvg-id="" tvg-name="MLS: 04 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 04 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrn7uV466WtWQtA1QgghdJ5r/m3u8
-#EXTINF:-1 xui-id="252810" tvg-id="" tvg-name="MLS: 05 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 05 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrnkB8AIWmEnIe2rGxCGCK9_/m3u8
-#EXTINF:-1 xui-id="252811" tvg-id="" tvg-name="*MLS: 06 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",*MLS: 06 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrl7MZn06en002u2B_PMZdFq/m3u8
-#EXTINF:-1 xui-id="252812" tvg-id="" tvg-name="MLS: 07 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 07 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrnt9K7lRbn4oSdM1UGR2uWs/m3u8
-#EXTINF:-1 xui-id="252813" tvg-id="" tvg-name="MLS: 08 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 08 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrkaTFC94FG7L6sxJ-YxBTpa/m3u8
-#EXTINF:-1 xui-id="252814" tvg-id="" tvg-name="MLS: 09 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 09 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrlG177etxVKbLu9FATHj2xA/m3u8
-#EXTINF:-1 xui-id="252815" tvg-id="" tvg-name="MLS: 10 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 10 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrkiuF88aWFjqI2Uhf4Nuu1K/m3u8
-#EXTINF:-1 xui-id="252816" tvg-id="" tvg-name="MLS: 11 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 11 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrmyaG2kI3fzOERsGXxs_iFQ/m3u8
-#EXTINF:-1 xui-id="252817" tvg-id="" tvg-name="MLS: 12 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 12 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrkNDjH5Gkk31-l5tzlCrvMi/m3u8
-#EXTINF:-1 xui-id="252818" tvg-id="" tvg-name="MLS: 13 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="ZONA | MLS",MLS: 13 (SOLO EVENTOS)
-http://p2premium.club:80/play/_n5KqLCJYlCUUFdDm2O6ZHYASMWoivVo_HQWYNkVRrnYpxE3ihPVdMyqiomrSut_/m3u8
 
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://set.org.br/wp-content/uploads/2023/12/Canal-Combate-Globo.jpg" group-title="CANAIS | ESPORTES",Combate
 
