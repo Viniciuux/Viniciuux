@@ -2,6 +2,16 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport 4K" tvg-logo="" group-title="OLIMPIADAS",EuroSport 4K
 https://dash2.antik.sk/live/esp_oh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olimpiadas 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwO9Intgwex2WppbX14sJvckW5j1iPM0v3g&s" group-title="OLIMPIADAS",Olimpiadas 01
+https://abc.embedmax.site/cinecanal/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 01" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdD4udDYCLc1KRifyhZFM-ZqI52eufEfeJWgbZ82NTix7uPb4YhTb-NsCl2dz1OR9XgtjNb63Fq39KV0iRoqjYGb7fTdr_1b2l2UMPaIcYjCOSQnjJdmJCem7Vhqea9w00o2PuEp35c886m6M_L2vIBj5lQDbLGVtBTcjd0Ue905ngj6MMzRq8rUru/w640-h640/WhatsApp%20Image%202023-05-05%20at%2018.58.29.jpeg" group-title="CAZE TV",Caze TV 01
+https://abc.embedmax.site/cazetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 02" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdD4udDYCLc1KRifyhZFM-ZqI52eufEfeJWgbZ82NTix7uPb4YhTb-NsCl2dz1OR9XgtjNb63Fq39KV0iRoqjYGb7fTdr_1b2l2UMPaIcYjCOSQnjJdmJCem7Vhqea9w00o2PuEp35c886m6M_L2vIBj5lQDbLGVtBTcjd0Ue905ngj6MMzRq8rUru/w640-h640/WhatsApp%20Image%202023-05-05%20at%2018.58.29.jpeg" group-title="CAZE TV",Caze TV 02
+https://abc.embedmax.site/cazetv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caze TV 03" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdD4udDYCLc1KRifyhZFM-ZqI52eufEfeJWgbZ82NTix7uPb4YhTb-NsCl2dz1OR9XgtjNb63Fq39KV0iRoqjYGb7fTdr_1b2l2UMPaIcYjCOSQnjJdmJCem7Vhqea9w00o2PuEp35c886m6M_L2vIBj5lQDbLGVtBTcjd0Ue905ngj6MMzRq8rUru/w640-h640/WhatsApp%20Image%202023-05-05%20at%2018.58.29.jpeg" group-title="CAZE TV",Caze TV 03
+https://abc.embedmax.site/cazetv3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddE5IhxW8UigVPJduyY5j7fUvcgvNGwEsZdzVPjZ4Xf5JTuk-xMaI_8o5H6o0unC7YZ9dZZoAvT8tjQnihc5glW5sxwQv5fV0R2P-d6BViaBX9m3aN2YFGF-7hWK3EYVl0blvgms4Ii5AZNM5MU3PfLGNTFpVPdETJW4Hs_sXAilDbfdPtsyNQ3C-/w1600/Paramount-Plus-exibe-com-exclusividade-os-jogos-do-Flamengo-Gremio-e-Fluminense-pela-segunda-rodada-da-fase-de-grupos-da-Libertadores.jpg" group-title="COMMEBOL",Paramount+ 1 
@@ -75,6 +85,8 @@ https://abc.embedmax.site/combate/video.m3u8
 https://abc.embedmax.site/ufcfightpass/playlist.m3u8
 #EXTINF:-1 tvg-name="Nosso Futebol" tvg-logo="https://yt3.googleusercontent.com/XeXc-q-k3tcNRit7Z7IV-5PsbE0eIAQPeRD95Id0nTMzjA_7ve9WwSvLgEmw9yKWdRMrxaXndg=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",Nosso Futebol
 https://abc.embedmax.site/nossofutebol/playlist.m3u8
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://yt3.googleusercontent.com/gXnMNAC457r9XA1nc4QFcxwr0KNvjXRHqW3rUe-bXVS1kSyYh8_kRNMFmxUiq4251vrOpzTEXQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",Band Sports
+https://abc.embedmax.site/bandsports/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo SP
@@ -84,8 +96,6 @@ https://abc.embedmax.site/globoMG/playlist.m3u8
 #EXTINF:-1 tvg-name="Globo RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS | GLOBO",Globo RJ
 https://abc.embedmax.site/globoRJ/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="TVBrasil" tvg-logo="https://telaviva.com.br/wp-content/uploads/2017/12/tv-brasil.jpg" group-title="CANAIS | TV ABERTA",TVBrasil
 
 #EXTINF:-1 tvg-name="Band" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="CANAIS | TV ABERTA",Band
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
@@ -112,11 +122,11 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="RBA" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv.png" group-title="CANAIS | TV ABERTA",RBA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Record" tvg-logo="https://img.r7.com/images/record-tv-06112023200331159" group-title="CANAIS | TV ABERTA",Record
-
+https://abc.embedmax.site/recordSP/playlist.m3u8
 #EXTINF:-1 tvg-name="Com Brasil" tvg-logo="https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0" group-title="CANAIS | TV ABERTA",Com Brasil
 https://cdn-2.nxplay.com.br/COM_BRASIL/index.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | TV ABERTA",SBT RJ
-
+https://abc.embedmax.site/sbt/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | TV ABERTA",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Gazeta" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHCgtIJ-hvEoVg4QffA3myDKTg00nRWOiJ3TfpIwrfYeU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | TV ABERTA",TV Gazeta
@@ -196,13 +206,13 @@ https://abc.embedmax.site/starchannel/video.m3u8
 #EXTINF:-1 tvg-name="Star Channel¹" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS | FILMES&SERIES",Star Channel¹
 
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="CANAIS | FILMES&SERIES",Cinecanal
-https://playfast.xyz/cinecanal/playlist.m3u8
+https://abc.embedmax.site/cinecanal/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinecanal¹" tvg-logo="https://static.guiadetv.com/channel/53bideDJsyYmZCbagDWCumIRbmHTNxxezyPwgJ2a.png" group-title="CANAIS | FILMES&SERIES",Cinecanal¹
 
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://observatoriodoaudiovisual.com.br/wp-content/uploads/2020/06/unnamed.jpg" group-title="CANAIS | FILMES&SERIES",Warner Channel
 https://cdn-4.nxplay.com.br/WARNER_CHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-name="Warner Channel¹" tvg-logo="https://observatoriodoaudiovisual.com.br/wp-content/uploads/2020/06/unnamed.jpg" group-title="CANAIS | FILMES&SERIES",Warner Channel¹
-
+https://abc.embedmax.site/warnertv/playlist.m3u8
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://pbs.twimg.com/profile_images/1455173327564251145/MZVYYA_0_400x400.jpg" group-title="CANAIS | FILMES&SERIES",Studio Universal
 https://abc.embedmax.site/studiouniversal/playlist.m3u8
 #EXTINF:-1 tvg-name="Studio Universal¹" tvg-logo="https://pbs.twimg.com/profile_images/1455173327564251145/MZVYYA_0_400x400.jpg" group-title="CANAIS | FILMES&SERIES",Studio Universal¹
@@ -320,7 +330,7 @@ https://tvbrasil-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-name="Sabor & Art" tvg-logo="https://yt3.googleusercontent.com/Z5UpAWNb4pb-Bf9erTHMS4fhDZeMI3ahbqRGdbEcY6zO3kvndv_QIG7hTguH3_QWrwejp5dh=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Sabor & Art
 https://cdn-3.nxplay.com.br/SABOR_E_ARTE/index.m3u8
 #EXTINF:-1 tvg-name="Viva" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Viva
-
+https://abc.embedmax.site/viva/playlist.m3u8
 #EXTINF:-1 tvg-name="Viva¹" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Viva¹
 
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://s2.glbimg.com/U7YcMKhPf3t73x6hTmOIlX4Nj3Y=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/s/i/CegLWeQIeyFg7rkA214A/logo-gnt.jpg" group-title="CANAIS | VARIADOS",GNT
@@ -340,7 +350,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-name="Canal Brasil" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Canal Brasil
 https://playfast.xyz/canalbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Brasil¹" tvg-logo="https://yt3.googleusercontent.com/KTgJfr5RLfDXdby_6daYmoCyoJ7i7uUGepTPTVytIJ_UP8ik8RzdKmGuw9yfBORlb-yUafMN=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | VARIADOS",Canal Brasil¹
-
+https://abc.embedmax.site/canalbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1410486042092843008/Nn8fyFta_400x400.jpg" group-title="CANAIS | VARIADOS",Trace Brasil
 https://cdn-4.nxplay.com.br/TRACE_BRAZUCA/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Star" tvg-logo="https://br.trace.tv/wp-content/uploads/2020/04/TraceSportStars_Logo_Colour_578x278.png" group-title="CANAIS | VARIADOS",Trace Sport Star
