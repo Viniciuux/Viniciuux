@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport 4K" tvg-logo="" group-title="OLIMPIADAS",EuroSport 4K
 https://dash2.antik.sk/live/esp_oh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1" tvg-logo="" group-title="OLIMPIADAS",EuroSport 1
+http://185.189.225.157/EuroSport1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2" tvg-logo="" group-title="OLIMPIADAS",EuroSport 2
+http://185.189.225.157/EuroSport2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Olimpiadas 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwO9Intgwex2WppbX14sJvckW5j1iPM0v3g&s" group-title="OLIMPIADAS",Olimpiadas 01
 https://abc.embedmax.site/cinecanal/playlist.m3u8
 
@@ -118,7 +122,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 #EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://amazonsat.com/static/media/mobileAppIcon.f4e65a89de2cd5393943.png" group-title="CANAIS | TV ABERTA",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2018/10/redetv_01.jpg" group-title="CANAIS | TV ABERTA",Rede TV
-
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-name="RBA" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv.png" group-title="CANAIS | TV ABERTA",RBA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Record" tvg-logo="https://img.r7.com/images/record-tv-06112023200331159" group-title="CANAIS | TV ABERTA",Record
