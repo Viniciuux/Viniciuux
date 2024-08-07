@@ -129,23 +129,23 @@ http://190.102.43.113:80/Formigatv/offilinetv2806/320584.m3u8
 https://playfast.xyz/tctouch/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="CANAIS | HBO",HBO
-https://playfast.xyz/hbo/playlist.m3u8
+https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO¹" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="CANAIS | HBO",HBO¹
 
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="CANAIS | HBO",HBO 2
-https://playfast.xyz/hbo2/playlist.m3u8
+https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hboplus/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 2¹" tvg-logo="https://cms.emidgroup.com.br/turbonet/arquivos/canais_streaming/imagens/202/original/hbo2bpng.png" group-title="CANAIS | HBO",HBO 2¹
 
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CANAIS | HBO",HBO Plus
 
 #EXTINF:-1 tvg-name="HBO Plus¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CANAIS | HBO",HBO Plus¹
-https://playfast.xyz/hboplus/playlist.m3u8
+
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="CANAIS | HBO",HBO Family
-http://190.102.43.113/Formigatv/offilinetv2806/10280.m3u8
+https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hbofamily/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Family¹" tvg-logo="https://cdn.melhorplano.net/cms/2021/06/01/60b636b7b50e9HBO_Family.png" group-title="CANAIS | HBO",HBO Family¹
-https://playfast.xyz/hbofamily/playlist.m3u8
+
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO Signature
-https://playfast.xyz/hbosignature/playlist.m3u8
+https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Signature¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO Signature¹
 
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO Pop
@@ -157,7 +157,7 @@ https://playfast.xyz/hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Mundi¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO Mundi¹
 
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO Xtreme
-https://playfast.xyz/hboxtreme/playlist.m3u8
+https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hboxtreme/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Xtreme¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO Xtreme¹
 
 
