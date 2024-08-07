@@ -110,29 +110,29 @@ https://brflu.walk-tv.com/5758/playlist.m3u8
 http://186.226.215.132:80/12345/12345/32.m3u8
 
 #EXTINF:-1 tvg-name="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | TELECINE",TC ACTION
-https://playfast.xyz/tcaction/playlist.m3u8
+https://abc.embedmax.site/tcaction/video.m3u8
 #EXTINF:-1 tvg-name="TC ACTION¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS | TELECINE",TC ACTION¹
 
 #EXTINF:-1 tvg-name="TC CULT" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="CANAIS | TELECINE",TC CULT
-
+https://abc.embedmax.site/tccult/video.m3u8
 #EXTINF:-1 tvg-name="TC CULT²" tvg-logo="https://f001.backblazeb2.com/file/papocine/2016/09/20160929-793b7ea395ed2001b187776a8d259888.jpg" group-title="CANAIS | TELECINE",TC CULT¹
 
 #EXTINF:-1 tvg-name="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | TELECINE",TC FUN
-
+https://abc.embedmax.site/tcfun/video.m3u8
 #EXTINF:-1 tvg-name="TC FUN¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS | TELECINE",TC FUN¹
-https://playfast.xyz/tcfun/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA
-http://190.102.43.113:80/Formigatv/offilinetv2806/1542456.m3u8
+https://abc.embedmax.site/tcpipoca/video.m3u8
 #EXTINF:-1 tvg-name="TC PIPOCA¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA¹
-https://playfast.xyz/tcpipoca/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | TELECINE",TC PREMIUM
-http://190.102.43.113:80/Formigatv/offilinetv2806/1542211.m3u8
+https://abc.embedmax.site/tcpremium/video.m3u8
 #EXTINF:-1 tvg-name="TC PREMIUM¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS | TELECINE",TC PREMIUM¹
-https://playfast.xyz/tcpremium/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TC TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | TELECINE",TC TOUCH
-http://190.102.43.113:80/Formigatv/offilinetv2806/320584.m3u8
+https://abc.embedmax.site/tctouch/video.m3u8
 #EXTINF:-1 tvg-name="TC TOUCH¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | TELECINE",TC TOUCH¹
-https://playfast.xyz/tctouch/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://netcombomulti.net.br/wp-content/uploads/2017/12/hbo-logo-min.png" group-title="CANAIS | HBO",HBO
 https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hbo/playlist.m3u8
