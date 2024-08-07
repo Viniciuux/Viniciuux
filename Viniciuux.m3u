@@ -196,10 +196,37 @@ https://xn--cckqc9caa3c8c3g8cmm3lh4910nqtpb.xyz/hboxtreme/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Xtreme¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO Xtreme¹
 https://abc.embedmax.site/hboxtreme/video.m3u8
 
-#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_br_action_bg.jpg" group-title="CANAIS | RUNTV",Runtime Action
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime TV
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_br_action_bg.jpg" group-title="CANAIS | RUNTV",Runtime Ação
+https://stream.ads.ottera.tv/cl/240807cqpnkgngocgmvp6spuj0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime CinEspanto
+https://stream.ads.ottera.tv/cl/240807cqpnkoofha3r4ammo93g/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime Comédia
+
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime Crime
+https://stream.ads.ottera.tv/cl/240807cqpnm2gfha3r4ammp2j0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime Familia
+https://stream.ads.ottera.tv/cl/240807cqpnmd78515ispm99md0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime Romance
+https://stream.ads.ottera.tv/cl/240807cqpnmjnqi68jv5i2jp4g/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime TV" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/featuredImage.jpg" group-title="CANAIS | RUNTV",Runtime TV e Filmes
+https://stream.ads.ottera.tv/cl/240807cqpnmmn2go2q45takal0/1280x720_3071200_0_f.m3u8
+
+
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://www.urban.tv.br/canais/logo-urbandocs.jpg" group-title="CANAIS | URBAN",Urban Docs
+https://cdn-4.nxplay.com.br/URBAN_DOCS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://www.urban.tv.br/canais/logo-urbankids.jpg" group-title="CANAIS | URBAN",Urban Kids
+https://cdn-4.nxplay.com.br/URBAN_KIDS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuL37UbbtJFcCthHo_joPfAkFykQ5sVlA_zw&s" group-title="CANAIS | URBAN",Urban Movies
+https://cdn-4.nxplay.com.br/URBAN_MOVIES_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGz5cTt4dJxtxf0jh8HC4btJHEDER_BFZht7JM2pGETXsFarNHTqCRl5zBjiwzqmk7RkI&usqp=CAU" group-title="CANAIS | URBAN",Urban Retro
+https://cdn-4.nxplay.com.br/URBAN_RETRO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCRTM3p52DZvzj_CcwufAX2h-R_xlLnG_mQ&s" group-title="CANAIS | URBAN",Urban Series
+https://cdn-4.nxplay.com.br/URBAN_SERIES_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="CANAIS | URBAN",Urban Travel
+https://cdn-4.nxplay.com.br/URBAN_TRAVEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Urban" tvg-logo="https://www.urban.tv.br/canais/logo-urbanturbo.jpg" group-title="CANAIS | URBAN",Urban Turbo
+https://cdn-4.nxplay.com.br/URBAN_TURBO_TK/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://yt3.googleusercontent.com/UQYVagQN1VbXXFPIi6J8nFHYB8MaPfdppcMmnN9ljDuvIMG_6JtOk196Z-BfbUupUtuM9IcW=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | FILMES&SERIES",Cinemax
 https://abc.embedmax.site/cinemax/video.m3u8
@@ -520,6 +547,9 @@ https://abc.embedmax.site/gloobinho/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8
 #EXTINF:-1 tvg-name="Ani TV" tvg-logo="https://online-television.net/uploads/posts/2023-03/anitv.webp" group-title="CANAIS | DESENHOS",Ani TV
 http://186.226.215.132:80/12345/12345/260.m3u8
+#EXTINF:-1 tvg-name="Geekdot" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCXpn0dhezxOgrFBhCXhrgy72YfVbX1HWTg&s" group-title="CANAIS | DESENHOS",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-name="Samurai Jack" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3Y2E1NWYtMTFkZS00MzlmLTk2ZTItMTAyY2QxZDU1NjZhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="CANAIS | ADULT SWIM",Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
@@ -537,6 +567,9 @@ https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_7.m3u8
 #EXTINF:-1 tvg-name="Robot Chicken" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NlNzE5NjYtMzFhMC00ZTU3LWJlNTktYWI3YjBmN2QyMzM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="CANAIS | ADULT SWIM",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+#EXTINF:-1 tvg-name="Coragem" tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2018/10/25111316/coragem-cao-covarde-5.jpg" group-title="CANAIS | ADULT SWIM",Coragem
+https://cdn-4.nxplay.com.br/ADULT_SWIN/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="Chespirito" tvg-logo="https://m.media-amazon.com/images/I/51iTiW6XjmL._AC_UF1000,1000_QL80_.jpg" group-title="CANAIS | 24Hrs",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
